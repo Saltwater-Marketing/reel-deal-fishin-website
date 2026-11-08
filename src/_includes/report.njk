@@ -1,0 +1,40 @@
+---
+layout: base.njk
+ogType: article
+---
+{%- set canonical = site.url + (page.url | cleanUrl) -%}
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","headline":{{ h1 | json | safe }},"description":{{ description | json | safe }},"datePublished":"{{ page.date | dateIso }}","image":"{{ site.url }}/images/{{ hero }}.webp","author":{"@type":"Person","name":"Capt. Chad Knight"},"publisher":{"@type":"Organization","name":"Reel Deal Fishin' Charters","logo":{"@type":"ImageObject","url":"{{ site.url }}/images/logo.webp"}},"mainEntityOfPage":"{{ canonical }}"}</script>
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/{{ hero }}.webp" alt="{{ heroAlt }}" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light"><a href="/fishing-reports" style="color:inherit">Fishing Reports</a></p>
+    <h1>{{ h1 }}</h1>
+    <p class="post-meta">By Capt. Chad Knight &middot; <time datetime="{{ page.date | dateIso }}">{{ page.date | dateDisplay }}</time></p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap prose">
+    {{ content | safe }}
+    {%- if photos %}
+    <div class="photo-row">
+      {%- for p in photos %}<img src="/images/{{ p }}.webp" alt="Reel Deal Fishin' trip photo, {{ page.date | dateDisplay }}" loading="lazy">{% endfor %}
+    </div>
+    {%- endif %}
+    <div class="box" style="margin-top:30px">
+      <h3>Want in on the bite?</h3>
+      <p>{{ cta }}</p>
+      <div class="btns"><a class="btn btn--red" href="{{ site.booking }}" target="_blank" rel="noopener">Book Online</a><a class="btn btn--outline" href="{{ site.phoneHref }}">Call or Text {{ site.phone }}</a></div>
+    </div>
+    {%- if related %}
+    <h2 style="margin-top:44px">Trips in This Report</h2>
+    <ul class="ticks">{% for r in related %}<li><a href="{{ r.url }}">{{ r.label }}</a></li>{% endfor %}</ul>
+    {%- endif %}
+    {%- set newer = collections.reports | getPreviousCollectionItem %}
+    {%- set older = collections.reports | getNextCollectionItem %}
+    <nav class="pager" aria-label="More reports">
+      {%- if older %}<a href="{{ older.url | cleanUrl }}"><span>Previous report</span>{{ older.data.h1 }}</a>{% else %}<span></span>{% endif %}
+      {%- if newer %}<a href="{{ newer.url | cleanUrl }}" style="text-align:right"><span>Next report</span>{{ newer.data.h1 }}</a>{% endif %}
+    </nav>
+    <p><a href="/fishing-reports"><strong>See all New Smyrna Beach fishing reports</strong></a></p>
+  </div>
+</section>

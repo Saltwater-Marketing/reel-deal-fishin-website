@@ -1,0 +1,141 @@
+{%- set canonical = site.url + (page.url | cleanUrl) -%}
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+<link rel="canonical" href="{{ canonical }}">
+{%- if noindex or not build.indexable %}<meta name="robots" content="noindex">{% endif %}
+<meta property="og:type" content="{{ ogType or 'website' }}">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:title" content="{{ title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:image" content="{{ site.url }}/images/{{ hero or 'home-hero' }}.webp">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="/images/logo.webp" type="image/webp">
+<link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="/assets/css/site.css">
+{%- if hero %}<link rel="preload" as="image" href="/images/{{ hero }}.webp" fetchpriority="high">{% endif %}
+<!-- Google Tag Manager (loads GA4 G-8JG9Z386NG and Google Ads AW-16937881099) -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','{{ site.gtm }}');</script>
+{%- if schema %}
+<script type="application/ld+json">{{ schema | json | safe }}</script>
+{%- endif %}
+{%- if faqSchema and faq %}
+<script type="application/ld+json">{
+  "@context":"https://schema.org","@type":"FAQPage","mainEntity":[
+  {%- for q in faq %}{"@type":"Question","name":{{ q.q | json | safe }},"acceptedAnswer":{"@type":"Answer","text":{{ q.a | json | safe }}}}{% if not loop.last %},{% endif %}{% endfor %}]}</script>
+{%- endif %}
+{%- block head %}{% endblock %}
+</head>
+<body class="{{ bodyClass }}">
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.gtm }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<a class="skip" href="#main">Skip to content</a>
+
+<div class="topbar">
+  <div class="wrap topbar__in">
+    <span>Private charters &amp; eco tours &middot; New Smyrna Beach &amp; Daytona</span>
+    <a href="{{ site.phoneHref }}">Call or text {{ site.phone }}</a>
+  </div>
+</div>
+
+<header class="hdr">
+  <div class="wrap hdr__in">
+    <a class="hdr__logo" href="/" aria-label="Reel Deal Fishin' Charters home">
+      <img src="/images/logo.webp" alt="Reel Deal Fishin' Charters logo" width="544" height="312">
+    </a>
+    <input type="checkbox" id="navtoggle" class="nav__toggle" aria-label="Open menu">
+    <label for="navtoggle" class="nav__burger" aria-hidden="true"><span></span><span></span><span></span></label>
+    <nav class="nav" aria-label="Main">
+      <ul>
+        {%- for item in site.nav %}
+        <li class="{% if item.children %}has-sub{% endif %}">
+          <a href="{{ item.url }}"{% if (page.url | cleanUrl) == item.url %} aria-current="page"{% endif %}>{{ item.label }}</a>
+          {%- if item.children %}
+          <ul class="sub">
+            {%- for c in item.children %}<li><a href="{{ c.url }}">{{ c.label }}</a></li>{% endfor %}
+          </ul>
+          {%- endif %}
+        </li>
+        {%- endfor %}
+      </ul>
+      <a class="btn btn--red nav__book" href="{{ site.booking }}" target="_blank" rel="noopener">Book Now</a>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+{{ content | safe }}
+</main>
+
+<section class="cta-band">
+  <div class="wrap cta-band__in">
+    <div>
+      <p class="eyebrow eyebrow--light">Private trips &middot; Your group only</p>
+      <h2>Ready to get on the water?</h2>
+      <p>Book online or call Capt. Chad. We'll match the trip to the season, the tide and your crew.</p>
+    </div>
+    <div class="cta-band__btns">
+      <a class="btn btn--red" href="{{ site.booking }}" target="_blank" rel="noopener">Book Now</a>
+      <a class="btn btn--ghost" href="{{ site.phoneHref }}">Call {{ site.phone }}</a>
+    </div>
+  </div>
+</section>
+
+<footer class="ftr">
+  <div class="wrap ftr__grid">
+    <div class="ftr__brand">
+      <img src="/images/logo-footer.webp" alt="Reel Deal Fishin' Charters" width="677" height="379" loading="lazy">
+      <p>Private fishing charters, flounder gigging and eco tours in New Smyrna Beach and Daytona Beach with Capt. Chad Knight.</p>
+      <p class="ftr__social">
+        <a href="{{ site.facebook }}" target="_blank" rel="noopener">Facebook</a>
+        <a href="{{ site.youtube }}" target="_blank" rel="noopener">YouTube</a>
+        <a href="{{ site.googleReviews }}" target="_blank" rel="noopener">Google Reviews</a>
+      </p>
+    </div>
+    <div>
+      <h3>Charters</h3>
+      <ul>
+        {%- for t in trips %}<li><a href="{{ t.url }}">{{ t.name }}</a></li>{% endfor %}
+        <li><a href="/daytona-beach">Daytona Beach Charters</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Fishing Info</h3>
+      <ul>
+        <li><a href="/fishing-reports">Fishing Reports</a></li>
+        <li><a href="/inshore#redfish">Redfish</a></li>
+        <li><a href="/inshore#snook">Snook</a></li>
+        <li><a href="/inshore#sheepshead">Sheepshead</a></li>
+        <li><a href="/faqs">FAQ</a></li>
+        <li><a href="/about">Capt. Chad Knight</a></li>
+        <li><a href="/gallery">Gallery</a></li>
+      </ul>
+    </div>
+    <div>
+      <h3>Contact</h3>
+      <ul>
+        <li>{{ site.city }}</li>
+        <li><a href="{{ site.phoneHref }}">{{ site.phone }}</a></li>
+        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="/contact">Send a message</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap ftr__base">
+    <p>&copy; {{ build.year }} Reel Deal Fishin' Charters &middot; <a href="/privacy-policy">Privacy Policy</a> &middot; <a href="/terms-conditions">Terms &amp; Conditions</a></p>
+    <p><a href="https://www.saltwatermarketing.net/" target="_blank" rel="noopener">Charter fishing marketing by Saltwater Marketing</a></p>
+  </div>
+</footer>
+
+<div class="mbar">
+  <a href="{{ site.phoneHref }}" class="mbar__call">Call</a>
+  <a href="{{ site.booking }}" class="mbar__book" target="_blank" rel="noopener">Book Now</a>
+</div>
+
+<script src="https://widgets.leadconnectorhq.com/loader.js" data-resources-url="https://widgets.leadconnectorhq.com/chat-widget/loader.js" data-widget-id="{{ site.chatWidgetId }}" defer></script>
+</body>
+</html>

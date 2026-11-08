@@ -1,0 +1,90 @@
+{
+  "name": "Reel Deal Fishin' Charters",
+  "url": "https://www.reeldealfishin.com",
+  "phone": "(386) 853-4814",
+  "phoneHref": "tel:+13868534814",
+  "sms": "sms:+13868534814",
+  "email": "chad@reeldealfishin.com",
+  "city": "New Smyrna Beach, FL",
+  "booking": "https://book.vallypro.com/p/reel-deal-fishin",
+  "googleReviews": "https://maps.app.goo.gl/efxZEHVE3zs2sM4R9",
+  "facebook": "https://www.facebook.com/people/Reel-Deal-Fishin-Charters/61561362689008/",
+  "youtube": "https://www.youtube.com/@chadknight9239",
+  "gtm": "GTM-TJHXV5NR",
+  "chatWidgetId": "688d34bb2b9a7f80ecd9cfe6",
+  "mapEmbed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d445775.3731344991!2d-81.36301880700239!3d29.205309571934688!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88e729a87a8ccc73%3A0xb9365efe5438b2d0!2sReel%20Deal%20Fishin%20Charters!5e0!3m2!1sen!2sus!4v1746255453819!5m2!1sen!2sus",
+  "nav": [
+    {
+      "label": "Charters",
+      "url": "/charters",
+      "children": [
+        {
+          "label": "All Charters",
+          "url": "/charters"
+        },
+        {
+          "label": "Flounder Gigging",
+          "url": "/flounder-gigging"
+        },
+        {
+          "label": "Inshore Fishing",
+          "url": "/inshore"
+        },
+        {
+          "label": "Nearshore Fishing",
+          "url": "/nearshore"
+        },
+        {
+          "label": "Shark Fishing",
+          "url": "/shark-fishing"
+        },
+        {
+          "label": "Dolphin & Manatee Tours",
+          "url": "/dolphin"
+        },
+        {
+          "label": "Bioluminescence Tours",
+          "url": "/bio-tour"
+        },
+        {
+          "label": "Daytona Beach Charters",
+          "url": "/daytona-beach"
+        }
+      ]
+    },
+    {
+      "label": "Fishing Info",
+      "url": "/fishing-reports",
+      "children": [
+        {
+          "label": "Fishing Reports",
+          "url": "/fishing-reports"
+        },
+        {
+          "label": "Redfish, Snook & Sheepshead",
+          "url": "/inshore#redfish"
+        },
+        {
+          "label": "FAQ",
+          "url": "/faqs"
+        }
+      ]
+    },
+    {
+      "label": "Capt. Chad",
+      "url": "/about"
+    },
+    {
+      "label": "Reviews",
+      "url": "/reviews"
+    },
+    {
+      "label": "Gallery",
+      "url": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "url": "/contact"
+    }
+  ]
+}

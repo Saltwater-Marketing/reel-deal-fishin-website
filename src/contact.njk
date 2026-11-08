@@ -1,0 +1,51 @@
+---
+layout: base.njk
+permalink: /contact.html
+title: "Contact & Book | Reel Deal Fishin', New Smyrna Beach"
+description: "Call (386) 853-4814 or send a message to book a private fishing charter or eco tour in New Smyrna Beach. Find our launch point & plan your trip today."
+hero: contact-a
+---
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/red-d.webp" alt="Guest holding a redfish on the Reel Deal skiff" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light">Let's go fishing</p>
+    <h1>Contact Reel Deal Fishin' Charters</h1>
+    <p class="sub-h">Call, text or send a message. Capt. Chad will help you pick the best trip for the season and your crew.</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap split" style="align-items:start">
+    <div>
+      <h2>Get in Touch</h2>
+      <form class="form" name="contact" method="POST" action="/thank-you" data-netlify="true" netlify-honeypot="company">
+        <input type="hidden" name="form-name" value="contact">
+        <p hidden><label>Leave this empty <input name="company"></label></p>
+        <div><label for="f-name">Name</label><input id="f-name" name="name" required autocomplete="name"></div>
+        <div><label for="f-phone">Phone</label><input id="f-phone" name="phone" type="tel" required autocomplete="tel"></div>
+        <div class="full"><label for="f-email">Email</label><input id="f-email" name="email" type="email" required autocomplete="email"></div>
+        <div><label for="f-trip">Trip</label>
+          <select id="f-trip" name="trip">
+            <option>Not sure yet</option>{% for t in trips %}<option>{{ t.name }}</option>{% endfor %}<option>Private Boat Training</option>
+          </select></div>
+        <div><label for="f-date">Preferred date</label><input id="f-date" name="date" type="date"></div>
+        <div><label for="f-guests">Number of guests</label><input id="f-guests" name="guests" type="number" min="1"></div>
+        <div class="full"><label for="f-msg">Message</label><textarea id="f-msg" name="message" rows="5"></textarea></div>
+        <label class="consent full"><input type="checkbox" name="sms_consent" value="yes"> <span>I consent to receive SMS notifications and alerts from Reel Deal Fishin' Charters. Message frequency varies. Message and data rates may apply. You can reply STOP to unsubscribe at any time. See our <a href="/privacy-policy">Privacy Policy</a> and <a href="/terms-conditions">Terms &amp; Conditions</a>.</span></label>
+        <div class="full"><button class="btn btn--red" type="submit">Send Message</button></div>
+      </form>
+    </div>
+    <div>
+      <div class="box">
+        <h3>Reel Deal Fishin' Charters</h3>
+        <ul class="ticks">
+          <li>{{ site.city }}</li>
+          <li><a href="{{ site.phoneHref }}">{{ site.phone }}</a> (call or text)</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          <li><a href="{{ site.booking }}" target="_blank" rel="noopener">Book online</a></li>
+        </ul>
+        <p>All trips depart from New Smyrna Beach. Capt. Chad will confirm your meeting spot when you book.</p>
+      </div>
+      <iframe class="map" style="margin-top:24px" src="{{ site.mapEmbed }}" title="Map of Reel Deal Fishin' Charters, New Smyrna Beach" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe>
+    </div>
+  </div>
+</section>

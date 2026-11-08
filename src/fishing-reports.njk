@@ -1,0 +1,27 @@
+---
+layout: base.njk
+permalink: /fishing-reports.html
+title: "New Smyrna Beach Fishing Reports | Reel Deal Fishin'"
+description: "Monthly New Smyrna Beach & Daytona fishing reports from Capt. Chad Knight: what's biting, where & how, from real trips. See this month's report & book."
+hero: r-oct-1
+---
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/r-oct-1.webp" alt="Reel Deal Fishin' trip photo, October 2026" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light">Fishing info</p>
+    <h1>New Smyrna Beach Fishing Reports</h1>
+    <p class="sub-h">Monthly reports from Capt. Chad Knight's real trips around New Smyrna Beach, Daytona and the Indian River Lagoon.</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap">
+    <div class="reports">
+      {%- for r in collections.reports %}
+      <a class="report-card" href="{{ r.url | cleanUrl }}">
+        <img src="/images/{{ r.data.hero }}.webp" alt="{{ r.data.heroAlt }}" loading="lazy" width="800" height="600">
+        <div><time datetime="{{ r.date | dateIso }}">{{ r.date | dateDisplay }}</time><h3>{{ r.data.h1 }}</h3><p>{{ r.data.description }}</p></div>
+      </a>
+      {%- endfor %}
+    </div>
+  </div>
+</section>

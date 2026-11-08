@@ -1,0 +1,91 @@
+---
+layout: base.njk
+permalink: /charters.html
+title: "Charter Fishing Trips in New Smyrna Beach, FL | Reel Deal"
+description: "Compare our New Smyrna Beach trips: inshore, nearshore, shark fishing, flounder gigging, dolphin & bioluminescence tours. Private boat, gear included."
+hero: day-a
+---
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/day-a.webp" alt="Family with their catch on the Reel Deal boat" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light">From flounder gigging to shark hunts</p>
+    <h1>Charter Fishing in New Smyrna Beach, FL</h1>
+    <p class="sub-h">This is Florida fishing, upgraded.</p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head">
+      <p class="lead">Whether you're chasing tailing redfish in skinny water or glowing bioluminescence under a moonlit sky, Reel Deal Fishin' Charters offers the kind of coastal experiences you don't forget.</p>
+      <p>We specialize in small group, captain led trips tailored to the season, the conditions and your crew. Every trip is private: your group only, never combined with another party.</p>
+    </div>
+    <div class="cards">
+      {%- for t in trips %}
+      <article class="card">
+        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
+        <div class="card__body">
+          <h2 style="font-size:1.6rem"><a href="{{ t.url }}" style="text-decoration:none;color:inherit">{{ t.name }}</a></h2>
+          <p>{{ t.hook }}</p>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">Book Now</a></div>
+        </div>
+      </article>
+      {%- endfor %}
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--sand">
+  <div class="wrap details">
+    <div class="box">
+      <h3>Trip Lengths</h3>
+      <ul class="ticks">
+        <li><strong>Half day trips (4 hours):</strong> ideal for families, new anglers and quick hits</li>
+        <li><strong>Full day trips (6 hours):</strong> go deeper, stay longer and chase bigger targets</li>
+        <li><strong>Evening and night trips:</strong> flounder gigging and bioluminescence at their best</li>
+      </ul>
+      <h3>Launch Location</h3>
+      <p>All trips depart from New Smyrna Beach, Florida, with quick access to the Indian River Lagoon, Mosquito Lagoon and the nearshore Atlantic. Fishing near Daytona? See our <a href="/daytona-beach">Daytona Beach charters</a>.</p>
+    </div>
+    <div class="box">
+      <h3>What's Included</h3>
+      <ul class="ticks">
+        <li>All fishing and gigging gear, bait and tackle</li>
+        <li>Ice and cooler space</li>
+        <li>U.S. Coast Guard licensed captain</li>
+        <li>Florida fishing license (in most cases, ask to confirm)</li>
+        <li>Fish cleaning available for most trips</li>
+      </ul>
+      <h3>What to Bring</h3>
+      <ul class="ticks">
+        <li>Snacks, drinks and sunscreen</li>
+        <li>Polarized sunglasses</li>
+        <li>Bug spray (especially for night trips)</li>
+        <li>Gratuity for the crew</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="boat-training">
+  <div class="wrap split">
+    <div class="prose">
+      <p class="eyebrow">For new boat owners</p>
+      <h2>Private Boat Training &amp; On the Water Instruction</h2>
+      <p>Reel Deal Fishin' offers one on one boat training for new and inexperienced boat owners. This hands on instruction helps you become more confident, comfortable and safe when operating your own boat.</p>
+      <p>Training is customized to you and your boat and may include:</p>
+      <ul class="ticks">
+        <li><strong>Complete boat walkthrough:</strong> reviewing the boat from bow to stern, identifying important equipment and making sure you have the right safety and boating gear.</li>
+        <li><strong>Pre launch preparation:</strong> what to check and prepare before arriving at the ramp.</li>
+        <li><strong>Trailer backing:</strong> hands on instruction for confidently backing a trailer down the ramp and maneuvering in tight areas.</li>
+        <li><strong>Launching the boat:</strong> procedures for safely and efficiently unloading the boat.</li>
+        <li><strong>Loading the boat:</strong> approaching the trailer, loading the boat, securing it and preparing it for the road.</li>
+        <li><strong>Ramp etiquette and parking:</strong> using the ramp efficiently, parking the truck and trailer and avoiding common mistakes.</li>
+        <li><strong>Personalized instruction:</strong> training at your own pace with plenty of time to practice each skill.</li>
+      </ul>
+      <p>Whether you just bought your first boat or want more confidence launching, loading, trailering and operating it, Capt. Chad can work with you one on one using your own boat and trailer. The goal is simple: help you leave confident enough to safely enjoy your boat on your own.</p>
+      <div class="btns"><a class="btn btn--red" href="{{ site.phoneHref }}">Call to Schedule Training</a></div>
+    </div>
+    <div class="split__media"><img src="/images/boat.webp" alt="The Reel Deal 22 foot Sundance skiff on calm, clear water" width="958" height="960" loading="lazy"></div>
+  </div>
+</section>

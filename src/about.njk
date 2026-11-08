@@ -1,0 +1,47 @@
+---
+layout: base.njk
+permalink: /about.html
+title: "Capt. Chad Knight | New Smyrna Fishing Guide | Reel Deal"
+description: "Meet Capt. Chad Knight of Reel Deal Fishin' Charters, a USCG licensed New Smyrna Beach fishing guide who is great with kids & first timers. Book a trip."
+hero: home-d
+---
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/day-c.webp" alt="Young anglers with sheepshead on the Reel Deal boat" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light">Owner &amp; captain, Reel Deal Fishin' Charters</p>
+    <h1>Meet Capt. Chad Knight</h1>
+    <p class="sub-h">New Smyrna Beach fishing guide, flounder gigging specialist and family man.</p>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap captain">
+    <img src="/images/home-d.webp" alt="Capt. Chad Knight with a catch of sheepshead" width="466" height="678">
+    <div class="prose">
+      <p class="lead">"Hey, I'm Captain Chad Knight, owner of Reel Deal Fishin' Charters. I grew up loving the outdoors and moved to Florida from Tennessee when I was 11."</p>
+      <p>Since then, the water's been my home. I've been blessed to turn my passion into a profession, and I now hold a 50 Ton Master License with a towing endorsement.</p>
+      <p>I built this business around three things that mean the most to me: God, family and fishing. I love seeing families come together on the water and make memories that stick with them.</p>
+      <p>I'm great with kids, and I always do my best to make sure everyone, from first timers to seasoned anglers, has an awesome experience.</p>
+      <p>Some of my favorite fish to target are <a href="/inshore#snook">snook</a>, flounder and <a href="/inshore#sheepshead">sheepshead</a>, and I'll work hard to get you on the bite. <a href="/flounder-gigging">Flounder gigging</a> has been my specialty for over a decade.</p>
+      <!-- CHAD: one or two trips he still talks about, and something about life off the water. -->
+      <p>When you book with Reel Deal, you're not just booking a fishing trip. You're joining me for something I truly love doing.</p>
+      <p><strong>Let's make it a great day on the water!</strong></p>
+      <p><span class="badge">USCG 50 Ton Master License</span><span class="badge">Towing endorsement</span><span class="badge">Flounder gigging specialist</span></p>
+      <div class="btns"><a class="btn btn--red" href="{{ site.booking }}" target="_blank" rel="noopener">Book a Trip With Capt. Chad</a><a class="btn btn--outline" href="{{ site.phoneHref }}">Call {{ site.phone }}</a></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--sand">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">Fish with Capt. Chad</p><h2>His Favorite Trips</h2></div>
+    <div class="cards">
+      {%- for t in trips %}{% if loop.index <= 3 %}
+      <article class="card">
+        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"></a>
+        <div class="card__body"><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.hook }}</p><div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a></div></div>
+      </article>
+      {%- endif %}{% endfor %}
+    </div>
+  </div>
+</section>

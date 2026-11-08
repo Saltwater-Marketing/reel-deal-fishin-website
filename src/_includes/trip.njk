@@ -1,0 +1,93 @@
+---
+layout: base.njk
+---
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/{{ hero }}.webp" alt="{{ heroAlt }}" fetchpriority="high">
+  <div class="hero__in">
+    {%- if eyebrow %}<p class="eyebrow eyebrow--light">{{ eyebrow }}</p>{% endif %}
+    <h1>{{ h1 }}</h1>
+    {%- if subhead %}<p class="sub-h">{{ subhead }}</p>{% endif %}
+    <div class="btns">
+      <a class="btn btn--red" href="{{ book or site.booking }}" target="_blank" rel="noopener">Book Now</a>
+      <a class="btn btn--ghost" href="{{ site.phoneHref }}">Call Capt. Chad</a>
+    </div>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    {%- if facts %}
+    <ul class="facts">
+      {%- for f in facts %}<li><strong>{{ f.label }}</strong>{{ f.value }}</li>{% endfor %}
+    </ul>
+    {%- endif %}
+    <div class="split{% if not sideImg %} split--single{% endif %}">
+      <div class="prose">
+        {{ content | safe }}
+      </div>
+      {%- if sideImg %}
+      <div class="split__media"><img src="/images/{{ sideImg }}.webp" alt="{{ sideAlt }}" loading="lazy" width="800" height="680"></div>
+      {%- endif %}
+    </div>
+  </div>
+</section>
+
+{%- if species %}
+<section class="sec sec--sand">
+  <div class="wrap">
+    <div class="sec__head">
+      <p class="eyebrow">Season dependent</p>
+      <h2>{{ speciesTitle or "What You'll Catch" }}</h2>
+    </div>
+    <ul class="species">
+      {%- for s in species %}
+      <li>{% if s.img %}<img src="/images/{{ s.img }}.webp" alt="{{ s.name }} illustration" loading="lazy" width="600" height="400">{% endif %}<strong>{{ s.name }}</strong>{{ s.note }}</li>
+      {%- endfor %}
+    </ul>
+  </div>
+</section>
+{%- endif %}
+
+{%- if included or bring %}
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">Trip details</p><h2>{{ detailsTitle or "What's Included & What to Bring" }}</h2></div>
+    <div class="details">
+      {%- if included %}<div class="box"><h3>What's Included</h3><ul class="ticks">{% for i in included %}<li>{{ i }}</li>{% endfor %}</ul></div>{% endif %}
+      {%- if bring %}<div class="box"><h3>What to Bring</h3><ul class="ticks">{% for i in bring %}<li>{{ i }}</li>{% endfor %}</ul>
+        <p><strong>Pricing:</strong> current rates and open dates are on our booking page.</p>
+        <a class="btn btn--red" href="{{ book or site.booking }}" target="_blank" rel="noopener">See Dates &amp; Book</a></div>{% endif %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+
+{%- if extra %}{{ extra | safe }}{% endif %}
+
+{%- if faq %}
+<section class="sec sec--sand">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">Good to know</p><h2>{{ faqTitle or "Questions We Get" }}</h2></div>
+    <div class="faq">
+      {%- for q in faq %}<details><summary>{{ q.q }}</summary><div><p>{{ q.a }}</p></div></details>{% endfor %}
+    </div>
+  </div>
+</section>
+{%- endif %}
+
+<section class="sec">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">More ways to get on the water</p><h2>Other Trips</h2></div>
+    <div class="cards">
+      {%- set shown = 0 %}
+      {%- for t in trips %}{% if t.url != (page.url | cleanUrl) and shown < 3 %}{% set shown = shown + 1 %}
+      <article class="card">
+        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
+        <div class="card__body"><h3><a href="{{ t.url }}">{{ t.name }}</a></h3><p>{{ t.hook }}</p>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">Book</a></div></div>
+      </article>
+      {%- endif %}{% endfor %}
+    </div>
+    <p style="margin-top:28px"><a href="/charters"><strong>See all charters &amp; tours</strong></a></p>
+  </div>
+</section>

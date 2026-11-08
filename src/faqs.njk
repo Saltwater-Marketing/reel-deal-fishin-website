@@ -1,0 +1,25 @@
+---
+layout: base.njk
+permalink: /faqs.html
+title: "New Smyrna Beach Fishing Charter FAQ | Reel Deal Fishin'"
+description: "Answers on our New Smyrna Beach & Daytona fishing charters: licenses, kids, weather, what's included & what to bring. Questions? Call Capt. Knight."
+hero: faq-a
+---
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for g in faqs %}{% set outer = loop %}{% for q in g.items %}{"@type":"Question","name":{{ q.q | json | safe }},"acceptedAnswer":{"@type":"Answer","text":{{ q.a | striptags | json | safe }}}}{% if not (outer.last and loop.last) %},{% endif %}{% endfor %}{% endfor %}]}</script>
+<section class="hero hero--page">
+  <img class="hero__img" src="/images/faq-a.webp" alt="Guest holding a snook on the Reel Deal boat" fetchpriority="high">
+  <div class="hero__in">
+    <p class="eyebrow eyebrow--light">Fishing info</p>
+    <h1>New Smyrna Beach Fishing Charter FAQ</h1>
+    <p class="sub-h">Everything you need to know before you step aboard.</p>
+  </div>
+</section>
+<section class="sec">
+  <div class="wrap faq">
+    {%- for g in faqs %}
+    <h2>{{ g.group }}</h2>
+    {%- for q in g.items %}<details><summary>{{ q.q }}</summary><div><p>{{ q.a | safe }}</p></div></details>{% endfor %}
+    {%- endfor %}
+    <p style="margin-top:30px">Still have a question? Call or text Capt. Chad at <a href="{{ site.phoneHref }}">{{ site.phone }}</a> or <a href="/contact">send a message</a>.</p>
+  </div>
+</section>

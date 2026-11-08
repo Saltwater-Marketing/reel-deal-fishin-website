@@ -1,0 +1,323 @@
+# Netlify settings for reeldealfishin.com
+[build]
+  command = "npm run build"
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Cache-Control = "public, max-age=604800"
+
+# Serve the reports index at /fishing-reports (no trailing slash)
+[[redirects]]
+  from = "/fishing-reports"
+  to = "/fishing-reports.html"
+  status = 200
+
+# ---- Old Wix blog posts (34) -> merged monthly reports ----
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report-today-s-action"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-december-2025"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-flounder-gigging-report-tonight-s-highlights"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-december-2025"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/december-sheepshead-flounder-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-december-2025"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-inlet-redfish-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-january-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/black-drum-fishing-report-new-smyrna-beach"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-january-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-winter-pompano-run-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-february-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-sheepshead-season-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-february-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report-sheepshead-sharks"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-march-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report-sheepshead-docks"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-march-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report-sheepshead-bridges"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-march-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-sheepshead-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-march-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-march-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-snook-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-april-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-redfish-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-april-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-redfish-bending-rods-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-may-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-snook-bite-is-heating-up-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-may-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-snook-bite-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-may-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-summer-inshore-bite-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-may-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-shark-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-june-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-fishing-report-summer-action-heating-up"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-june-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/june-2026-inshore-nearshore-fishing-report-new-smyrna-beach-fl"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-june-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-trophy-snook-redfish-jackcrevalle-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-june-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-nearshore-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-july-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-offshore-bite-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-july-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-shark-bite-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-july-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-summer-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-july-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-inshore-nearshore-action-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-july-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-redfish-and-snook-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-august-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/daytona-beach-new-smyrna-beach-fishing-report-august-2026"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-august-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/september-2026-nighttime-flounder-gigging-report-new-smyrna-beach-fl"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-september-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/september-2026-redfish-snook-fishing-report-new-smyrna-beach-fl"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-september-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/new-smyrna-beach-september-inshore-action-fishing-report"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-september-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/annual-mullet-migration-fuels-fishing-frenzy-along-central-florida-coast"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-september-2026"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/october-2026-fishing-report-the-redfish-bite-continues-in-new-smyrna-beach-daytona-beach"
+  to = "/fishing-reports/new-smyrna-beach-fishing-report-october-2026"
+  status = 301
+  force = true
+
+# ---- Old Wix pages merged or removed ----
+
+[[redirects]]
+  from = "/redfish"
+  to = "/inshore#redfish"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/snook"
+  to = "/inshore#snook"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/sheepshead"
+  to = "/inshore#sheepshead"
+  status = 301
+  force = true
+
+
+[[redirects]]
+  from = "/shark"
+  to = "/shark-fishing"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/flounder"
+  to = "/flounder-gigging"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/new-smyrna-beach-fishing-reports"
+  to = "/fishing-reports"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/confirmation"
+  to = "/contact"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog"
+  to = "/fishing-reports"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog/*"
+  to = "/fishing-reports"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post"
+  to = "/fishing-reports"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/post/*"
+  to = "/fishing-reports"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog-posts-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/blog-categories-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/pages-sitemap.xml"
+  to = "/sitemap.xml"
+  status = 301
+  force = true
+
+# ---- Old .html addresses -> clean URLs ----
+[[redirects]]
+  from = "/index.html"
+  to = "/"
+  status = 301
+  force = true

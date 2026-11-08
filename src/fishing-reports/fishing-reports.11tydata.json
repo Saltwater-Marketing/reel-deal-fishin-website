@@ -1,0 +1,4 @@
+{
+  "layout": "report.njk",
+  "permalink": "/fishing-reports/{{ page.fileSlug }}.html"
+}

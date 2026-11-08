@@ -1,0 +1,13 @@
+{
+  "name": "reeldealfishin",
+  "private": true,
+  "type": "module",
+  "description": "Reel Deal Fishin' Charters website (Eleventy, hosted on Netlify)",
+  "scripts": {
+    "build": "eleventy",
+    "start": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "3.1.2"
+  }
+}
