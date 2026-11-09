@@ -1,7 +1,7 @@
 ---
 date: 2026-08-12
 title: "Flounder, Redfish & Snook Report | NSB Inlet August 2026"
-description: "August 2026 in New Smyrna Beach: flounder moved inside the Indian River Lagoon, oversized reds ran the inlet rocks at first light and the snook bite was excellent."
+description: "August 2026 in New Smyrna Beach: flounder moved into the Indian River Lagoon, oversized reds ran the inlet rocks at first light and snook were excellent."
 h1: "Flounder, Redfish & Snook Fishing Report: Indian River Lagoon & New Smyrna Beach Inlet, FL | August 2026"
 hero: r-aug-1
 heroAlt: "Reel Deal Fishin' guest holding a redfish on the boat with other boats behind, August 2026"
