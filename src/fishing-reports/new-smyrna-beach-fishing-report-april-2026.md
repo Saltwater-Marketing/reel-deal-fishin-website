@@ -1,33 +1,45 @@
 ---
 date: 2026-04-29
-title: "Snook & Redfish Report | New Smyrna Inlet April 2026"
-description: "April 2026 in New Smyrna Beach: a 5th birthday redfish at the inlet and snook staging tight to docks and mangroves at first and last light. Book a trip."
-h1: "Snook & Redfish Fishing Report: New Smyrna Beach Inlet & Indian River, FL | April 2026"
+title: "Redfish & Low Light Snook Report | NSB Inlet April 2026"
+description: "April 2026 in New Smyrna Beach: two young boys team up on an inlet redfish, and Indian River snook crush live bait at first and last light. Book a trip."
+h1: "Family Redfish & Low Light Snook Fishing Report: New Smyrna Beach Inlet & Indian River, FL | April 2026"
 hero: r-apr-3
-heroAlt: "Reel Deal Fishin' trip photo, April 2026"
-photos: [r-apr-1, r-apr-2, r-apr-4]
+heroAlt: "Two men and two young boys holding redfish on the boat in New Smyrna Beach, April 2026"
+photos: [r-apr-4, r-apr-1, r-apr-2]
 related:
-  - { label: "Snook fishing inshore", url: "/inshore#snook" }
   - { label: "Redfish fishing inshore", url: "/redfish" }
-cta: "Celebrating something? Tell Capt. Chad when you book and he'll build the trip around it."
+  - { label: "Snook fishing inshore", url: "/inshore#snook" }
+cta: "Snook want low light and the inlet reds want moving water. Call or text Capt. Chad and he'll match the start time to what your crew wants to catch."
 ---
-<!-- Structure: trip story. Sources: Apr 25 snook post, Apr 29 birthday redfish post. -->
-A young man spent his 5th birthday on the boat this month, rod in hand. Early in the trip he teamed up and put a beautiful redfish in the boat that was just about his size, and you could see the excitement all over his face.
+<!-- Structure: trip story. Sources: Apr 29 redfish family trip post, Apr 25 snook post, Sean M. (Facebook, Apr 3) and Michael S. (Captain Experiences, Apr 9) reviews, photos r-apr-1 to r-apr-4. Thin month: two posts, kept tight. -->
+Two little boys, one lip grip, one redfish. Early in a late April trip around the New Smyrna Beach inlet, our youngest angler teamed up and put a red in the boat that was just about his size.
 
-### **Redfish**
+You could see it on his face from start to finish.
 
-We worked the New Smyrna Beach area and around the inlet, staying on steady fish and keeping rods bent. Dad got in on it too, landing a solid redfish of his own.
+### **The Redfish Trip**
 
-Calm water and steady action made it the kind of family trip we love to run.
+We stayed in the New Smyrna Beach area and worked around the inlet, and the reds held steady the whole way. Calm water helped, and the action never really let up.
 
-### **Snook**
+Dad got his turn too and landed a solid redfish of his own. One of our April photos shows two grown men, two small boys and two reds on the deck at once.
 
-Snook were the headline in the back half of the month. Early mornings and the last light before dark were the sweet spot, with fish staging tight to structure and cruising the edges.
+### **What It Told Us About the Bite**
 
-When they started feeding, it got fast. Live bait got crushed almost instantly around docks, mangroves and deeper cuts. Anglers throwing artificials did best by hitting that low light window for reaction bites.
+Steady fish near the inlet and calm water is the setup we want when the anglers are this young. Short waits keep little hands on the rod.
 
-We worked the Indian River and nearby backwaters, keeping things quiet and picking apart ambush points. Clean water, plenty of bait and just enough current made the difference.
+April was a kids month all around. Sean M. on Facebook: "Captain Chad was awesome put us in a great spot for a great experience with my son."
 
-### **What's Next**
+Michael S. on Captain Experiences: "Chad was fantastic. My kids enjoyed him as the guide."
 
-With the snook bite lining up in April, May looked set to be even better. See [how we fish for snook](/inshore#snook) on our inshore trips.
+### **Snook at First and Last Light**
+
+Late in the month, snook were the headline. Early mornings and the last light before dark were the sweet spot, with fish staging tight to structure and cruising the edges.
+
+When they flipped the switch, it got fast. Live bait got crushed almost instantly around docks, mangroves and deeper cuts. For anyone throwing artificials, hitting that low light window was what drew the reaction bites.
+
+We worked the Indian River and nearby backwaters, kept things quiet and picked apart the ambush points. Clean water, steady bait and just enough current made the difference.
+
+One of our April snook came up at dusk with the shore lights already reflecting on the water. In another photo, a young angler holds his snook up with a drawbridge right behind the boat.
+
+### **Heading Into May**
+
+By the end of April the snook bite had lined up, and the inlet had just put reds in the hands of a whole family. If snook are the goal, ask Capt. Chad about the earliest start. Here's how we fish for [snook inshore](/inshore#snook).

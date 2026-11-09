@@ -1,42 +1,58 @@
 ---
 date: 2026-06-26
 title: "Shark, Snook & Tarpon Report | Ponce Inlet June 2026"
-description: "June 2026 off New Smyrna Beach: blacktip & sharpnose sharks nearshore, trophy snook at Ponce Inlet, a jumping tarpon and bull reds. Book with Capt. Chad."
+description: "June 2026 at Ponce Inlet & New Smyrna Beach: first sharks for young anglers, trophy snook, a jumping tarpon and bull reds. Your June questions answered."
 h1: "Shark, Snook & Tarpon Fishing Report: Ponce Inlet & New Smyrna Beach, FL | June 2026"
 hero: r-jun-1
-heroAlt: "Reel Deal Fishin' trip photo, June 2026"
-photos: [r-jun-3, r-jun-5, r-jun-7, r-jun-8]
+heroAlt: "Four young anglers holding a shark on the boat at the dock, June 2026"
+photos: [r-jun-5, r-jun-7, r-jun-8, r-jun-3]
 related:
   - { label: "Shark fishing charters", url: "/shark-fishing" }
   - { label: "Snook and redfish inshore", url: "/inshore#snook" }
   - { label: "Nearshore fishing", url: "/nearshore" }
-cta: "Shark season and snook season overlap in June. Tell Capt. Chad which one your crew wants and he'll plan around the tide."
+cta: "Shark trip, snook trip or some of both? Call or text Capt. Chad, tell him who's coming and how old they are, and he'll take it from there."
 ---
-<!-- Structure: species rundown. Sources: Jun 2, Jun 8, Jun 16 and Jun 26 posts. -->
-June opened with sharks moving in off New Smyrna Beach and closed with trophy snook feeding hard around Ponce Inlet. In between, a tarpon put on a full aerial show before coming boatside.
+<!-- Structure: questions customers ask. Sources: Jun 2 shark post, Jun 8 summer post, Jun 16 inshore and nearshore post, Jun 27 snook and redfish post, Keith M. (Captain Experiences, Jun 1) review, John G. (Jun 22) and Eric E. (Jun 26) FishingBooker excerpts (quoted words only), photos r-jun-1, 3, 5, 7, 8. -->
+When Keith M. booked, he told Capt. Chad he was bringing three boys, ages 8, 10 and 15. Chad asked the boys if they'd like to shark fish, and in Keith's words, "of course they said yes."
 
-### **Sharks**
+Can kids handle a shark trip? That question and a few others about June are answered below, straight from the month's trips.
 
-Blacktip sharks, Atlantic sharpnose and a few larger sharks kept rods bent in our nearshore waters just off the beach. Fresh bait and moving tides made the difference, and calmer days let us spend more time on bigger fish.
+### **Are the sharks here yet?**
 
-The kids stole the show. Several young anglers caught their first shark, some nearly as big as they were.
+Yes. They moved in at the start of June. **Blacktip sharks**, **Atlantic sharpnose** and a few larger sharks bit in our nearshore waters just off the beach.
 
-### **Snook**
+Fresh bait and moving tides made the difference. Calm mornings helped early, and calmer stretches later in the month let us spend more time on bigger fish.
 
-Snook bit early and late around the inlet and the bridges, and by the end of the month we'd landed several trophy class fish. They fed aggressively around the inlet, deeper structure and strong current edges. Live bait on the early morning and evening tides was the key.
+### **Can kids really handle a shark?**
 
-### **Redfish**
+They did all month. Several young anglers caught their first shark, and some battled fish nearly as big as they were.
 
-Reds held tight to structure and ate. Slot fish and oversized bulls both showed up, with the best bite around moving water and tide changes. Kids landed personal best redfish this month.
+Keith M., Captain Experiences: "He was great and patient with them helping with bait and tangles. He put us on the fish quickly."
 
-### **Tarpon**
+One June photo has four young anglers holding one shark on the boat at the dock. Another has a teenager grinning with his shark out on open water.
 
-One of the most memorable catches of the month was a tarpon that jumped again and again before coming boatside.
+### **Is the snook bite worth an early start?**
 
-### **Jacks and Spadefish**
+Early or late. **Snook** fed inside the inlet and around the bridges in the early morning and evening hours, and several quality fish tested both anglers and tackle.
 
-Jack crevalle added nonstop action and hard runs near the inlet. And one young angler landed a nice spadefish on a run offshore.
+By the last week of June we'd landed several trophy class snook around Ponce Inlet. They fed aggressively on the inlet, deeper structure and strong current edges, and live bait was the key. Families landed their first trophy snook too.
 
-### **Heading Into July**
+### **What else is biting?**
 
-With water temperatures climbing and bait getting thicker, the summer pattern was settling in. See our [shark fishing](/shark-fishing) and [inshore](/inshore) trips.
+**Redfish** held tight to structure and kept eating. Late in the month both slot fish and oversized bulls showed up, best around moving water and the tide changes, and patient anglers got the quality fish. Kids landed personal best reds. One of our June redfish photos has a teenager in a New Smyrna Beach shirt with the lighthouse on the far shore behind him.
+
+**Tarpon** gave us one of the most memorable catches of the month: a fish that put on a full aerial show before coming boatside. They were moving through in mid June.
+
+**Jack crevalle** fed near the inlet, and late in the month we found plenty of them. Their speed and hard runs made them a favorite for anglers of all ages.
+
+**Flounder** came up on the nearshore side. Eric E. wrote on FishingBooker that Captain Chad "put us on some flounder" on his nearshore trip.
+
+**Spadefish** showed up too, when a young angler landed a nice one.
+
+### **How long before the first bite?**
+
+Sometimes not long at all. John G., FishingBooker, after a 5 PM inshore trip with six adults and three kids: "Awesome Captain put us on some big fish 10 min into the trip !"
+
+### **Morning or evening?**
+
+Both. By the end of June the early morning and evening tides were producing the most consistent action. Water temperatures were climbing and baitfish were getting thicker, and the summer pattern was settling in. See our [shark fishing](/shark-fishing) and [inshore](/inshore) trips.

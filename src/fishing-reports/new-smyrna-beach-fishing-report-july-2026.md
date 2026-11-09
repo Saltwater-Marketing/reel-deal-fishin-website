@@ -1,38 +1,59 @@
 ---
 date: 2026-07-29
-title: "Shark, Flounder & Snapper Report | NSB July 2026"
-description: "July 2026 off New Smyrna Beach: blacktip & sharpnose sharks, doormat flounder nearshore, offshore red snapper, bonito and night redfish. Book with Capt. Chad."
-h1: "Shark, Flounder & Red Snapper Fishing Report: New Smyrna Beach, FL | July 2026"
+title: "Doormat Flounder & Blacktip Shark Report | NSB Nearshore July 2026"
+description: "July 2026 off New Smyrna Beach: doormat flounder and sand trout nearshore, blacktip and sharpnose sharks, bonito on the reefs and oversized reds at night."
+h1: "Flounder, Shark & Snook Fishing Report: New Smyrna Beach Nearshore & Inshore, FL | July 2026"
 hero: r-jul-5
-heroAlt: "Reel Deal Fishin' trip photo, July 2026"
-photos: [r-jul-1, r-jul-3, r-jul-7, r-jul-9]
+heroAlt: "Two teen anglers and an adult holding two sharks on the boat, July 2026"
+photos: [r-jul-1, r-jul-7, r-jul-9]
 related:
   - { label: "Nearshore fishing", url: "/nearshore" }
   - { label: "Shark fishing charters", url: "/shark-fishing" }
   - { label: "Inshore fishing charters", url: "/inshore" }
-cta: "Calm summer seas open up nearshore and offshore days. Call or text Capt. Chad to see what's open."
+  - { label: "Redfish trips", url: "/redfish" }
+cta: "Calm summer mornings are when the nearshore flounder and the beach sharks line up. Call or text Capt. Chad to see which days are still open."
 ---
-<!-- Structure: monthly roundup, grouped by trip type. Sources: Jul 3, Jul 13, Jul 21, Jul 23 and Jul 29 posts. -->
-Calm seas ran through most of July, and that opened up every kind of trip: nearshore days for flounder and sharks, runs offshore for red snapper, and redfish after dark. Here's the month by trip type.
+<!-- Structure: monthly roundup grouped by trip type. Sources: Jul 3 nearshore post, Jul 13 post, Jul 21 shark post, Jul 23 post, Jul 29 post, Ricky C. (Facebook, Jul 6) and Cherie L. (Captain Experiences, Jul 25) reviews, Malissa C. (Jul 15) FishingBooker excerpt (quoted words only), photos r-jul-1, 5, 7, 9. Offshore red snapper kept to one line; r-jul-3 snapper photo removed. -->
+A few true doormat flounder came up during the first week of July, along with giant sand trout and plenty of whiting and croaker. Calm seas let us fish just off the beach, and it was some of the best nearshore fishing we'd seen in quite a while.
 
-### **Nearshore**
+Calm mornings, clean water and plenty of bait held up through most of the month. Here's how July broke down, trip by trip.
 
-The first week brought some of the best nearshore fishing we'd seen in a while. Several quality flounder came over the rail, including a few true doormats, along with giant sand trout, whiting and croaker.
+### **Nearshore Trips**
 
-Blacktip sharks cruised the beaches all month and fed aggressively, and later in the month Atlantic sharpnose kept the drags screaming. Kids and first time shark anglers had a blast. On the nearshore reefs, bonito crashed baits and put on a show. Kingfish provided exciting runs late in the month.
+**Flounder** stayed the headline. Around July 23 we boxed several more quality flounder with some nice whiting, plenty for dinner. In the final days of July, flounder were holding on sandy bottom and around structure.
 
-### **Offshore**
+One July photo has a flatfish hanging from the lip grip with nothing but open water behind the boat.
 
-When the weather cooperated, we made the run offshore and found a consistent red snapper bite. Calm seas made for comfortable trips and coolers of fresh fillets.
+On the nearshore reefs, **bonito** crashed baits and put on a show with fast runs. **Kingfish** added some exciting runs late in the month.
 
-### **Inshore**
+On a few of the calmest days we also made a run farther out for red snapper.
 
-Sheepshead kept biting at the bridges, a steady option for families. Snook improved through the month, with live bait around the bridges, docks and inlet producing several quality fish. Flounder held on sandy bottom and around structure.
+Cherie L., Captain Experiences, after a nearshore trip: "We loved Captain Chad! Fabulous experience all around!" More on our [nearshore trips](/nearshore).
 
-### **After Dark**
+### **Shark Trips**
 
-As temperatures climbed, some of the best fishing happened after sunset. Oversized redfish fed around docks, bridges and deeper structure, and the cooler nights made for comfortable trips.
+**Blacktip sharks** cruised the beaches early in the month and fed aggressively. The blacktip bite stayed consistent into the third week, and we watched them swim away healthy.
 
-### **Coming Up in August**
+Mid month, several hard fighting sharks made long runs, and more than once a big one showed up under the boat before peeling off again. By the July 23 weekend, **Atlantic sharpnose** were the ones keeping crews busy, a good match for kids since they punch well above their weight.
 
-Expect snook and redfish to keep leading inshore while the shark bite holds. See our [nearshore](/nearshore) and [shark fishing](/shark-fishing) trips.
+Families and first time shark anglers were in on it all month. Our July photos include two teenagers and an adult holding up two sharks, and an angler grinning with his shark while another angler smiles behind him. See our [shark fishing charters](/shark-fishing).
+
+### **Inshore Trips**
+
+**Sheepshead** kept biting at the bridges late in the month, steady action and good table fare for families and younger anglers.
+
+**Snook** improved as the month went on. Live bait around the bridges, docks and the inlet produced several quality fish, and the changing tides kept them feeding. In one photo, a snook gets held up while two young anglers keep fishing behind him.
+
+Inshore **flounder** were still around too.
+
+Malissa C. wrote on FishingBooker after an inshore trip with five adults and three kids: "Chad made the experience hands down the best. He was amazing with the kids, so patient, answered every question."
+
+Ricky C. on Facebook: "He was friendly, knowledgeable, and worked hard to make sure everyone had a great time and stayed on fish."
+
+### **Redfish After Sunset**
+
+Mid July, some of the best fishing happened once the sun went down. **Oversized redfish** fed around docks, bridges and deeper structure, the bite was aggressive, and the cooler night air made those trips comfortable.
+
+### **Looking at August**
+
+We closed July with sharks, snook and flounder all still biting. Watching the tides and daily conditions is how we'll keep each group on the best bite.
