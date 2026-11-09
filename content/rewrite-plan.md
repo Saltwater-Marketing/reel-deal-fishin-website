@@ -32,3 +32,5 @@ Waiting on: client review feedback.
 Rules added Nov 9 (client feedback): no negative openings ("nothing like the crowded boats",
 "not every trip needs a rod"); no dated trips on evergreen pages (dates only in fishing reports;
 review cards show no dates).
+Removed at client request (Nov 9): the "75 redfish in one morning" line and any "commercial fisherman
+since 2010" / years-of-experience claims. Don't bring them back.
