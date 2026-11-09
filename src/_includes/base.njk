@@ -29,7 +29,12 @@ window.dataLayer=window.dataLayer||[];
 (function(){var done=false;function go(){if(done)return;done=true;
  window.dataLayer.push({'gtm.start':new Date().getTime(),event:'gtm.js'});
  var g=document.createElement('script');g.async=true;g.src='https://www.googletagmanager.com/gtm.js?id={{ site.gtm }}';document.head.appendChild(g);
+ if(window.matchMedia('(max-width:1060px)').matches){chatAfterHero();}else{chat();}}
+ /* On phones the chat button waits until the visitor scrolls past the hero, so it never covers the headline. */
+ var chatDone=false;function chat(){if(chatDone)return;chatDone=true;
  var c=document.createElement('script');c.src='https://widgets.leadconnectorhq.com/loader.js';c.setAttribute('data-resources-url','https://widgets.leadconnectorhq.com/chat-widget/loader.js');c.setAttribute('data-widget-id','{{ site.chatWidgetId }}');document.body.appendChild(c);}
+ function chatAfterHero(){var h=document.querySelector('.hero');function past(){return h?h.getBoundingClientRect().bottom<=0:window.scrollY>window.innerHeight*0.6;}
+  if(past())return chat();function on(){if(past()){window.removeEventListener('scroll',on);chat();}}window.addEventListener('scroll',on,{passive:true});}
  ['scroll','pointerdown','keydown','touchstart','mousemove'].forEach(function(e){window.addEventListener(e,go,{once:true,passive:true});});
  window.addEventListener('load',function(){setTimeout(go,6000);});})();
 </script>
@@ -59,6 +64,7 @@ window.dataLayer=window.dataLayer||[];
     <a class="hdr__logo" href="/" aria-label="Reel Deal Fishin' Charters home">
       <img src="/images/logo-300.webp" srcset="/images/logo-300.webp 300w, /images/logo.webp 544w" sizes="150px" alt="Reel Deal Fishin' Charters logo" width="544" height="312">
     </a>
+    <a class="btn btn--red hdr__book" href="{{ site.booking }}" target="_blank" rel="noopener">Book Now</a>
     <input type="checkbox" id="navtoggle" class="nav__toggle" aria-label="Open menu">
     <label for="navtoggle" class="nav__burger" aria-hidden="true"><span></span><span></span><span></span></label>
     <nav class="nav" aria-label="Main">

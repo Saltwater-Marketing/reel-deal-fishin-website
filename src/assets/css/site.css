@@ -319,3 +319,6 @@ ul{padding-left:1.2em}
 @media(max-width:640px){.hdr__in{min-height:62px;gap:12px}.hdr__logo img{width:100px;margin:4px 0}}
 .nav a.btn--red,.nav a.btn--red:hover{color:#fff}
 @media(max-width:900px){.nav{padding-bottom:96px}}
+/* Phone header: Book Now beside the menu button */
+.hdr__book{display:none}
+@media(max-width:1060px){.hdr__book{display:inline-flex;margin-left:auto;padding:9px 16px;font-size:.98rem;min-height:0}.hdr__in{gap:10px}}
