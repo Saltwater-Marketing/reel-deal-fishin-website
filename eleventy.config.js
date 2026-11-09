@@ -16,6 +16,14 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("head", (arr, n) => arr.slice(0, n));
   eleventyConfig.addFilter("json", (v) => JSON.stringify(v));
 
+  // Reviews: pick by id list (keeps the given order) or by trip key
+  eleventyConfig.addFilter("reviewsByIds", (quotes, ids) =>
+    (ids || []).map((id) => quotes.find((q) => q.id === id)).filter(Boolean)
+  );
+  eleventyConfig.addFilter("reviewsByTrip", (quotes, trip, n) =>
+    quotes.filter((q) => q.trip === trip).slice(0, n || 99)
+  );
+
   eleventyConfig.addCollection("reports", (api) =>
     api.getFilteredByGlob("src/fishing-reports/*.md").sort((a, b) => b.date - a.date)
   );

@@ -1,16 +1,16 @@
 ---
 layout: base.njk
 permalink: /charters.html
-title: "Charter Fishing Trips in New Smyrna Beach, FL | Reel Deal"
-description: "Compare our New Smyrna Beach trips: inshore, nearshore, shark fishing, dolphin & bioluminescence tours. Private boat, gear included."
+title: "Trips & Prices | Fishing Charters in New Smyrna Beach, FL | Reel Deal"
+description: "Compare our New Smyrna Beach trips and prices: inshore from $475, nearshore, shark fishing, dolphin tours & seasonal glow tours. Private boat, gear included."
 hero: day-a
 ---
 <section class="hero hero--page">
   <img class="hero__img" src="/images/day-a.webp" alt="Family with their catch on the Reel Deal boat" fetchpriority="high">
   <div class="hero__in">
-    <p class="eyebrow eyebrow--light">From the flats to shark hunts</p>
+    <p class="eyebrow eyebrow--light">Trips &amp; prices</p>
     <h1>Charter Fishing in New Smyrna Beach, FL</h1>
-    <p class="sub-h">This is Florida fishing, upgraded.</p>
+    <p class="sub-h">Private trips on a 22' Sundance skiff, your group only.</p>
   </div>
 </section>
 
@@ -35,17 +35,37 @@ hero: day-a
   </div>
 </section>
 
-<section class="sec sec--sand">
+<section class="sec sec--sand" id="prices">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">Straight from our booking page</p><h2>Trip Prices</h2>
+      <p>Every trip is private and the price is for your whole group. Each trip includes a set number of guests, with a small charge for each extra guest up to 6. The booking page shows the exact total for your group and the open dates.</p></div>
+    <div class="ptable-wrap">
+    <table class="ptable">
+      <thead><tr><th scope="col">Trip</th><th scope="col">Length &amp; start</th><th scope="col">Price</th><th scope="col">Guests included</th></tr></thead>
+      <tbody>
+        {%- for r in prices %}{% if r.trip %}
+        <tr><th scope="row"><a href="{{ r.url }}">{{ r.trip }}</a></th><td>{{ r.length }}</td><td><strong>{{ r.price }}</strong></td><td>{{ r.guests }}</td></tr>{% endif %}
+        {%- endfor %}
+      </tbody>
+    </table>
+    </div>
+    <div class="btns"><a class="btn btn--red" href="{{ site.booking }}" target="_blank" rel="noopener">See Dates &amp; Book</a><a class="btn btn--outline" href="{{ site.phoneHref }}">Call {{ site.phone }}</a></div>
+  </div>
+</section>
+
+<section class="sec">
   <div class="wrap details">
     <div class="box">
       <h3>Trip Lengths</h3>
       <ul class="ticks">
-        <li><strong>Half day trips (4 hours):</strong> ideal for families, new anglers and quick hits</li>
-        <li><strong>Full day trips (6 hours):</strong> go deeper, stay longer and chase bigger targets</li>
-        <li><strong>Evening and night trips:</strong> bioluminescence and night redfish at their best</li>
+        <li><strong>2 hours:</strong> dolphin and manatee tours</li>
+        <li><strong>3 hours:</strong> shark trips, morning or midday</li>
+        <li><strong>4 hours:</strong> ideal for families, new anglers and quick hits</li>
+        <li><strong>6 hours:</strong> go deeper, stay longer and chase bigger targets</li>
+        <li><strong>Night tours:</strong> seasonal bioluminescence, when the glow is on</li>
       </ul>
       <h3>Launch Location</h3>
-      <p>All trips depart from New Smyrna Beach, Florida, with quick access to the Indian River Lagoon, Mosquito Lagoon and the nearshore Atlantic. Fishing near Daytona? See our <a href="/daytona-beach">Daytona Beach charters</a>.</p>
+      <p>All trips depart from New Smyrna Beach, Florida, with quick access to the Indian River Lagoon, Mosquito Lagoon and the nearshore Atlantic. Staying in Daytona? See <a href="/inshore#daytona-beach">fishing from Daytona Beach</a>.</p>
     </div>
     <div class="box">
       <h3>What's Included</h3>
@@ -53,12 +73,12 @@ hero: day-a
         <li>All fishing gear, bait and tackle</li>
         <li>Ice and cooler space</li>
         <li>U.S. Coast Guard licensed captain</li>
-        <li>Florida fishing license (in most cases, ask to confirm)</li>
+        <li>Florida fishing license for everyone on board</li>
         <li>Fish cleaning available for most trips</li>
       </ul>
       <h3>What to Bring</h3>
       <ul class="ticks">
-        <li>Snacks, drinks and sunscreen</li>
+        <li>Snacks and drinks (no glass) and sunscreen (no spray)</li>
         <li>Polarized sunglasses</li>
         <li>Bug spray (especially for night trips)</li>
         <li>Gratuity for the crew</li>

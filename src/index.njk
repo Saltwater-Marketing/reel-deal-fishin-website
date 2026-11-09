@@ -29,7 +29,7 @@ schema:
     <div class="btns">
       <a class="btn btn--red" href="/charters">See Charters</a>
     </div>
-    <a class="hero__rating" href="{{ site.googleReviews }}" target="_blank" rel="noopener"><span aria-hidden="true">★★★★★</span> {{ reviews.rating }} · {{ reviews.count }}+ Google reviews</a>
+    <a class="hero__rating" href="{{ site.googleReviews }}" target="_blank" rel="noopener"><span aria-hidden="true">★★★★★</span> {{ reviews.rating }} · {{ reviews.count }} Google reviews</a>
   </div>
 </section>
 
@@ -39,7 +39,8 @@ schema:
       <p class="eyebrow">Happy customers say it best</p>
       <h2>What Our Guests Say</h2>
     </div>
-    {%- set limit = 3 %}{% include "reviews-block.njk" %}
+    {%- set rvItems = reviews.quotes | reviewsByIds(reviews.featured) %}{% include "reviews-block.njk" %}
+    <p style="text-align:center;margin-top:26px"><a href="/reviews"><strong>Read more guest reviews</strong></a></p>
   </div>
 </section>
 
@@ -49,7 +50,7 @@ schema:
       <p class="eyebrow">Welcome to Reel Deal Fishin' Charters</p>
       <h2>Nothing Like the Big Crowded Boats</h2>
       <p class="lead">Looking for a Florida fishing trip that's laid back, full of action and nothing like the big crowded boats? You've come to the right coast.</p>
-      <p>New Smyrna Beach is one of Florida's best kept secrets, and Capt. Chad Knight has spent years getting dialed into every bank, bend and bite. From <a href="/inshore#redfish">redfish in the shallows</a> to <a href="/shark-fishing">sharks just off the beach</a>, these trips reflect real local experience.</p>
+      <p>New Smyrna Beach is one of Florida's best kept secrets, and Capt. Chad Knight has spent years getting dialed into every bank, bend and bite. From <a href="/inshore#redfish">redfish in the shallows</a> to <a href="/nearshore#sharks">sharks just off the beach</a>, these trips reflect real local experience.</p>
       <p><strong>Capt. Chad fishes where the bite is, not where the brochure says to go.</strong></p>
       <p>Whether you're fishing, cruising or just looking to try something different, we'll make it a day (or night) you won't forget.</p>
       <a class="btn btn--navy" href="/charters">See All Charters</a>
@@ -91,7 +92,7 @@ schema:
       <div class="place"><h3>New Smyrna Beach</h3><p>Home base, with fast access to the inlet, the bridges and the nearshore Atlantic.</p></div>
       <div class="place"><h3>Indian River Lagoon</h3><p>Calm backwaters for redfish, trout, snook, dolphins and the glow.</p></div>
       <div class="place"><h3>Mosquito Lagoon</h3><p>Skinny water flats known for sight fishing.</p></div>
-      <div class="place"><h3><a href="/daytona-beach">Daytona Beach</a></h3><p>A short drive away. Private inshore and nearshore trips for Daytona visitors.</p></div>
+      <div class="place"><h3><a href="/inshore#daytona-beach">Daytona Beach</a></h3><p>A short drive away. Private inshore and nearshore trips for Daytona visitors.</p></div>
     </div>
     <p style="margin-top:30px"><strong>Common targets:</strong> redfish, trout, snook and flounder &middot; tarpon, kingfish, cobia and sharks &middot; sheepshead, black drum, mullet and blue crabs.</p>
   </div>

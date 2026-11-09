@@ -8,7 +8,7 @@ heroAlt: "Reel Deal Fishin' trip photo, August 2026"
 photos: [r-aug-2, r-aug-3, r-aug-4]
 related:
   - { label: "Redfish and snook inshore", url: "/inshore#redfish" }
-  - { label: "Daytona Beach charters", url: "/daytona-beach" }
+  - { label: "Daytona Beach charters", url: "/inshore#daytona-beach" }
 cta: "August mornings are made for inshore trips. Book online or call Capt. Chad to grab a date."
 ---
 <!-- Structure: questions customers ask. Sources: Aug 7 and Aug 12 posts. -->
@@ -32,4 +32,4 @@ It was one of the best parts of the month. Families, couples and first time angl
 
 ### **Do you fish near Daytona?**
 
-Yes. We fish the inshore waters around Daytona Beach and New Smyrna Beach and the Indian River Lagoon. See our [Daytona Beach charters](/daytona-beach).
+Yes. We fish the inshore waters around Daytona Beach and New Smyrna Beach and the Indian River Lagoon. See our [Daytona Beach charters](/inshore#daytona-beach).

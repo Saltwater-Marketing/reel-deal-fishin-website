@@ -19,7 +19,7 @@
       "url": "/charters",
       "children": [
         {
-          "label": "All Charters",
+          "label": "Trips & Prices",
           "url": "/charters"
         },
         {
@@ -27,24 +27,16 @@
           "url": "/inshore"
         },
         {
-          "label": "Nearshore Fishing",
+          "label": "Nearshore & Shark Fishing",
           "url": "/nearshore"
         },
         {
-          "label": "Shark Fishing",
-          "url": "/shark-fishing"
-        },
-        {
-          "label": "Dolphin & Manatee Tours",
+          "label": "Dolphin & Glow Tours",
           "url": "/dolphin"
         },
         {
-          "label": "Bioluminescence Tours",
-          "url": "/bio-tour"
-        },
-        {
-          "label": "Daytona Beach Charters",
-          "url": "/daytona-beach"
+          "label": "Fishing From Daytona Beach",
+          "url": "/inshore#daytona-beach"
         }
       ]
     },

@@ -1,0 +1,12 @@
+[
+  { "_note": "Copied from Capt. Chad's Vally booking page (book.vallypro.com/p/reel-deal-fishin), Nov 2026. Update here when he changes prices. Flounder gigging and the sunset cruise are left out on purpose." },
+  { "trip": "Inshore Fishing", "url": "/inshore", "length": "4 hrs, 7:00 AM", "price": "$475", "guests": "2 (up to 6)" },
+  { "trip": "Inshore Fishing", "url": "/inshore", "length": "4 hrs, 11:30 AM", "price": "$575", "guests": "2 (up to 6)" },
+  { "trip": "Inshore Fishing", "url": "/inshore", "length": "6 hrs, 6:00 AM", "price": "$575", "guests": "2 (up to 6)" },
+  { "trip": "Nearshore Fishing", "url": "/nearshore", "length": "4 hrs, 7:00 AM", "price": "$550", "guests": "3 (up to 6)" },
+  { "trip": "Nearshore Fishing", "url": "/nearshore", "length": "6 hrs, 7:00 AM", "price": "$750", "guests": "3 (up to 6)" },
+  { "trip": "Shark Fishing (May 1 to Nov 1)", "url": "/nearshore#sharks", "length": "3 hrs, 8:00 AM or 12:00 PM", "price": "$575", "guests": "3 (up to 6)" },
+  { "trip": "Shark Fishing (May 1 to Nov 1)", "url": "/nearshore#sharks", "length": "6 hrs, 8:00 AM", "price": "$750", "guests": "3 (up to 6)" },
+  { "trip": "Dolphin & Manatee Tour", "url": "/dolphin", "length": "2 hrs, 9:00 AM", "price": "$375", "guests": "Up to 6" },
+  { "trip": "Bioluminescence Tour (seasonal)", "url": "/dolphin#bioluminescence", "length": "Evenings, when the glow is on", "price": "Call or text", "guests": "Ask" }
+]

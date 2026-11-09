@@ -1,17 +1,20 @@
-{#- Google reviews block: rating summary + real quotes. Data in src/_data/reviews.json -#}
+{#- Reviews block: rating summary + real quotes.
+    Set rvItems (a list of quotes) before including; defaults to every quote.
+    Data: src/_data/reviews.json -#}
+{%- set items = rvItems or reviews.quotes %}
 <div class="rv">
   <div class="rv__sum">
     <div class="rv__stars" aria-hidden="true">★★★★★</div>
     <p class="rv__score"><strong>{{ reviews.rating }}</strong> on Google</p>
-    <p class="rv__count">{{ reviews.count }}+ five-star reviews</p>
+    <p class="rv__count">{{ reviews.count }} Google reviews</p>
     <div class="btns"><a class="btn btn--red" href="{{ site.googleReviews }}" target="_blank" rel="noopener">Read Them on Google</a></div>
   </div>
   <div class="rv__list">
-    {%- for r in reviews.quotes | head(limit or 99) %}
+    {%- for r in items %}
     <figure class="rv__card">
       <div class="rv__stars rv__stars--sm" aria-label="5 out of 5 stars">★★★★★</div>
       <blockquote>“{{ r.text }}”</blockquote>
-      <figcaption>{{ r.name }} <span>Google review</span></figcaption>
+      <figcaption>{{ r.name }} <span>{{ r.source }} review{% if r.date %} · {{ r.date | dateDisplay }}{% endif %}</span></figcaption>
     </figure>
     {%- endfor %}
   </div>

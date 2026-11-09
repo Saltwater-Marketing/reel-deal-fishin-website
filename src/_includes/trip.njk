@@ -55,9 +55,20 @@ layout: base.njk
     <div class="details">
       {%- if included %}<div class="box"><h3>What's Included</h3><ul class="ticks">{% for i in included %}<li>{{ i }}</li>{% endfor %}</ul></div>{% endif %}
       {%- if bring %}<div class="box"><h3>What to Bring</h3><ul class="ticks">{% for i in bring %}<li>{{ i }}</li>{% endfor %}</ul>
-        <p><strong>Pricing:</strong> current rates and open dates are on our booking page.</p>
+        <p><strong>Pricing:</strong> {% if priceNote %}{{ priceNote }} {% endif %}See <a href="/charters#prices">all trip prices</a>; exact rates and open dates are on our booking page.</p>
         <a class="btn btn--red" href="{{ book or site.booking }}" target="_blank" rel="noopener">See Dates &amp; Book</a></div>{% endif %}
     </div>
+  </div>
+</section>
+{%- endif %}
+
+{%- if reviewTrips %}
+<section class="sec sec--sand">
+  <div class="wrap">
+    <div class="sec__head"><p class="eyebrow">From real guests</p><h2>{{ reviewsTitle or "What Guests Say" }}</h2></div>
+    {%- set rvItems = [] %}{% for t in reviewTrips %}{% set rvItems = rvItems.concat(reviews.quotes | reviewsByTrip(t)) %}{% endfor %}
+    {%- set rvItems = rvItems | head(3) %}
+    {% include "reviews-block.njk" %}
   </div>
 </section>
 {%- endif %}

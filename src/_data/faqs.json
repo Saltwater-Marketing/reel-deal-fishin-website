@@ -4,7 +4,7 @@
     "items": [
       {
         "q": "How do I book a charter?",
-        "a": "Book directly through the website, or call or text Capt. Chad at (386) 853-4814. Let him know what you're after (<a href=\"/inshore\">inshore</a>, <a href=\"/nearshore\">nearshore</a>, <a href=\"/shark-fishing\">shark fishing</a> or a <a href=\"/dolphin\">tour</a>) and he'll match the trip type and timing to the best tide for that day."
+        "a": "Book directly through the website, or call or text Capt. Chad at (386) 853-4814. Let him know what you're after (<a href=\"/inshore\">inshore</a>, <a href=\"/nearshore\">nearshore</a>, <a href=\"/nearshore#sharks\">shark fishing</a> or a <a href=\"/dolphin\">tour</a>) and he'll match the trip type and timing to the best tide for that day."
       },
       {
         "q": "What's included in the trip price?",
@@ -70,7 +70,7 @@
       },
       {
         "q": "How many people can you take on a trip?",
-        "a": "Most charters comfortably fit small private groups. Every trip is private, your group only. If you're bringing a larger party, ask when you book and Capt. Chad will walk you through the options."
+        "a": "Up to 6 guests per trip, and every trip is private, your group only. Prices include a set number of guests with a small charge for each extra guest. See <a href=\"/charters#prices\">trip prices</a>."
       },
       {
         "q": "Do you run private or shared charters?",
@@ -86,7 +86,7 @@
       },
       {
         "q": "Can we book a sightseeing only trip?",
-        "a": "Yes. We run <a href=\"/dolphin\">dolphin and manatee tours</a> and nighttime <a href=\"/bio-tour\">bioluminescence tours</a> for guests who want to be on the water without fishing."
+        "a": "Yes. We run <a href=\"/dolphin\">dolphin and manatee tours</a> and, when the glow is on, nighttime <a href=\"/dolphin#bioluminescence\">bioluminescence tours</a> for guests who want to be on the water without fishing."
       }
     ]
   },
@@ -111,7 +111,7 @@
       },
       {
         "q": "What do you catch nearshore?",
-        "a": "<a href=\"/shark-fishing\">Sharks</a>, kingfish, tarpon, jacks and cobia when they're running, just a few miles off the beach."
+        "a": "<a href=\"/nearshore#sharks\">Sharks</a>, kingfish, tarpon, jacks and cobia when they're running, just a few miles off the beach."
       },
       {
         "q": "How far do you run on nearshore trips?",
@@ -119,7 +119,7 @@
       },
       {
         "q": "When is the best time for shark fishing?",
-        "a": "Spring through fall is strongest, with peak action in summer."
+        "a": "Shark trips run May 1 through November 1, and summer is peak. Sharks also turn up on nearshore trips outside that window."
       }
     ]
   },
@@ -128,7 +128,7 @@
     "items": [
       {
         "q": "Where do your trips leave from?",
-        "a": "Charters launch from New Smyrna Beach, FL, a short drive from <a href=\"/daytona-beach\">Daytona Beach</a> and minutes from the Indian River Lagoon, Mosquito Lagoon and the nearshore Atlantic."
+        "a": "Charters launch from New Smyrna Beach, FL, a short drive from <a href=\"/inshore#daytona-beach\">Daytona Beach</a> and minutes from the Indian River Lagoon, Mosquito Lagoon and the nearshore Atlantic."
       },
       {
         "q": "How early should we arrive before the trip?",

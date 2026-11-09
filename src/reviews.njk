@@ -10,12 +10,15 @@ hero: reviews-a
   <div class="hero__in">
     <p class="eyebrow eyebrow--light">Happy customers say it best</p>
     <h1>Reel Deal Fishin' Charters Reviews</h1>
-    <p class="sub-h">Real reviews from families and anglers who've fished with Capt. Chad.</p>
+    <p class="sub-h">{{ reviews.rating }} stars from {{ reviews.count }} Google reviews, plus 5 stars on FishingBooker, Captain Experiences and Facebook.</p>
     <div class="btns"><a class="btn btn--red" href="{{ site.googleReviews }}" target="_blank" rel="noopener">Read All Reviews on Google</a></div>
   </div>
 </section>
 <section class="sec">
   <div class="wrap">
+    {#- GOOGLE REVIEWS EMBED: paste the review widget code here when it arrives. Keep the quotes below as a fallback. #}
+    <div class="sec__head"><p class="eyebrow">In their own words</p><h2>What Guests Say</h2>
+      <p>Every review below is copied word for word from Google, Facebook, Captain Experiences and FishAnywhere. Chad also holds FishingBooker's Angler's Choice award with a perfect 5.0 there.</p></div>
     {% include "reviews-block.njk" %}
   </div>
 </section>

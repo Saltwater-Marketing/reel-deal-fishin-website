@@ -1,8 +1,8 @@
 ---
 layout: trip.njk
 permalink: /inshore.html
-title: "Inshore Fishing Charters in New Smyrna Beach | Reel Deal"
-description: "Light tackle inshore fishing in the Indian River & Mosquito Lagoon for redfish, snook, sheepshead & trout. Private trips for families & anglers. Book now."
+title: "Inshore Fishing Charters | New Smyrna & Daytona Beach | Reel Deal"
+description: "Light tackle inshore fishing near New Smyrna & Daytona Beach for redfish, snook, sheepshead & trout. Private trips, gear & license included. Book now."
 hero: inshore-a
 heroAlt: "Guest holding a snook on an evening inshore trip near New Smyrna Beach"
 eyebrow: "Private inshore charter"
@@ -10,10 +10,10 @@ h1: "Inshore Fishing Charters in New Smyrna Beach, FL"
 subhead: "Redfish, snook, sheepshead and trout on light tackle"
 book: "https://book.vallypro.com/p/reel-deal-fishin/trips/6817ffec4c2e7f9016a938dd"
 facts:
-  - { label: "Where", value: "Indian River Lagoon, Mosquito Lagoon & the inlet" }
-  - { label: "Trip length", value: "Half day (4 hrs) or full day (6 hrs)" }
-  - { label: "Start times", value: "Morning or afternoon, timed to the tide" }
-  - { label: "Departs", value: "New Smyrna Beach, FL" }
+  - { label: "Where", value: "Indian River Lagoon, Halifax River, Mosquito Lagoon & Ponce Inlet" }
+  - { label: "Trip length", value: "4 hours or 6 hours" }
+  - { label: "Start times", value: "7:00 AM or 11:30 AM (4 hrs), 6:00 AM (6 hrs)" }
+  - { label: "Group", value: "Private, up to 6 guests" }
 included:
   - "Light tackle rods, reels and all bait"
   - "Cooler with ice and bottled water"
@@ -25,6 +25,9 @@ bring:
   - "Sunscreen, hat and weather appropriate gear"
   - "Snacks and drinks"
   - "Gratuity for your guide (greatly appreciated)"
+priceNote: "From $475 for a 4 hour morning trip, or $575 for an afternoon or 6 hour trip. Prices cover 2 guests, with a small charge for each extra guest up to 6."
+reviewTrips: ["inshore"]
+reviewsTitle: "What Inshore Guests Say"
 faqTitle: "Inshore Questions"
 faq:
   - { q: "Are inshore trips good for kids and beginners?", a: "Yes. Inshore trips run in calm, protected water, and Capt. Chad coaches casting and fighting fish. One of our favorite trips this year was a 5th birthday where the birthday boy landed a redfish almost his own size." }
@@ -45,6 +48,8 @@ We fish the Indian River Lagoon, Mosquito Lagoon and the New Smyrna inlet out of
 ![Guest holding a redfish caught near the inlet rocks](/images/red-a.webp)
 
 Redfish are the most dependable fish we have, and we catch them every month of the year. On the flats they tail in skinny grass and push wakes along the mangroves, and we ease in on the trolling motor and sight cast to them.
+
+Some days they're everywhere: on one 4 hour morning in mid September 2026, we landed 75 redfish.
 
 In winter, slot reds stack along the inlet rock edges, current breaks and deeper cuts. They feed hardest on the incoming tide, early and late in the day, and live finger mullet or big live shrimp fished tight to the rocks gets bit. By late summer and fall, oversized reds move in and make long, hard runs right along the inlet rocks. Read how it played out in our [August](/fishing-reports/new-smyrna-beach-fishing-report-august-2026) and [October](/fishing-reports/new-smyrna-beach-fishing-report-october-2026) reports.
 
@@ -67,6 +72,7 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 ## Trout, Black Drum and Flounder
 
 **Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season.
+
 ## When to Book Inshore
 
 - **Winter:** sheepshead and black drum on structure, inlet redfish on the incoming tide
@@ -74,4 +80,8 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 - **Summer:** trophy snook on the bridges, early and late; redfish near the inlet
 - **Fall:** oversized redfish, flounder and black drum
 
-Fishing near Daytona? Inshore trips work great for [Daytona Beach visitors](/daytona-beach). Want more pull? Step up to [nearshore fishing](/nearshore) or [shark fishing](/shark-fishing) just off the beach.
+<h2 id="daytona-beach">Fishing From Daytona Beach</h2>
+
+Staying in Daytona Beach? You're a short drive from the boat. We fish the Halifax River and the Port Orange bridges as well as the lagoon around New Smyrna Beach, and the same inshore trip works for both. Redfish run year round, snook are strongest in summer, and sheepshead and black drum take over the structure in winter.
+
+Want more pull? Step up to [nearshore or shark fishing](/nearshore) just off the beach.

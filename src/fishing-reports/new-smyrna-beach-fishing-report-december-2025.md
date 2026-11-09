@@ -8,7 +8,7 @@ heroAlt: "Crew with a night's limit of gigged flounder in New Smyrna Beach"
 photos: [r-dec-1, r-dec-2]
 related:
   - { label: "Winter sheepshead on inshore trips", url: "/inshore#sheepshead" }
-  - { label: "Shark fishing charters", url: "/shark-fishing" }
+  - { label: "Shark fishing charters", url: "/nearshore#sharks" }
 cta: "Sheepshead are stacked on structure. Pick your day and Capt. Chad will line up the tide."
 ---
 <!-- Structure: species rundown. Sources: Dec 4 snapper/shark post, Dec 4 gigging post, Dec 15 sheepshead and gigging post. -->

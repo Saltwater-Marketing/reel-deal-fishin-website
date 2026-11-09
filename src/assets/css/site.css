@@ -272,3 +272,11 @@ ul{padding-left:1.2em}
 .rv__card figcaption span{display:block;font-weight:400;font-size:.9rem;color:var(--ink)}
 @media(max-width:900px){.rv{grid-template-columns:1fr}}
 @media(max-width:640px){.hero__rating{font-size:.92rem;padding:7px 12px;gap:6px}.hero__rating span{letter-spacing:0}}
+/* Price table */
+.ptable-wrap{overflow-x:auto;background:#fff;border-radius:var(--radius);box-shadow:var(--shadow)}
+.ptable{width:100%;border-collapse:collapse;font-size:1.02rem}
+.ptable th,.ptable td{padding:14px 18px;text-align:left;border-bottom:1px solid var(--sand-2);vertical-align:top}
+.ptable thead th{background:var(--navy);color:#fff;font-family:var(--head);text-transform:uppercase;letter-spacing:1px;font-weight:700}
+.ptable tbody th a{color:var(--navy-deep);font-weight:700}
+.ptable tbody tr:last-child th,.ptable tbody tr:last-child td{border-bottom:0}
+@media(max-width:640px){.ptable thead{display:none}.ptable tr{display:block;padding:12px 16px;border-bottom:1px solid var(--sand-2)}.ptable th,.ptable td{display:block;padding:2px 0;border:0}.ptable td:nth-child(4)::before{content:"Guests included: "}}

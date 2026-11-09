@@ -251,7 +251,7 @@
 
 [[redirects]]
   from = "/shark"
-  to = "/shark-fishing"
+  to = "/nearshore#sharks"
   status = 301
   force = true
 
@@ -326,5 +326,24 @@
 [[redirects]]
   from = "/index.html"
   to = "/"
+  status = 301
+  force = true
+
+# ---- Pages merged in the Nov 2026 content consolidation ----
+[[redirects]]
+  from = "/shark-fishing"
+  to = "/nearshore#sharks"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/bio-tour"
+  to = "/dolphin#bioluminescence"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/daytona-beach"
+  to = "/inshore#daytona-beach"
   status = 301
   force = true
