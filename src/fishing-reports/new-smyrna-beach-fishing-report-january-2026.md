@@ -7,7 +7,7 @@ hero: r-jan-1
 heroAlt: "Redfish caught at the New Smyrna Beach inlet in January"
 photos: [r-jan-2, r-jan-3]
 related:
-  - { label: "Inlet redfish on inshore trips", url: "/inshore#redfish" }
+  - { label: "Inlet redfish on inshore trips", url: "/redfish" }
   - { label: "Inshore fishing charters", url: "/inshore" }
 cta: "The inlet reds and flats drum want the right tide. Call Capt. Chad and he'll time your trip to it."
 ---
@@ -36,4 +36,4 @@ Moving water was the key, incoming or outgoing, with clear water and light wind 
 
 ### **Is it a good trip for families?**
 
-Yes. The drum bite is shallow, visual and steady, and both fish pull hard on light tackle. The inlet is classic close quarters fishing in strong current, so it suits anglers who want a fight. See [how we fish the inlet for redfish](/inshore#redfish).
+Yes. The drum bite is shallow, visual and steady, and both fish pull hard on light tackle. The inlet is classic close quarters fishing in strong current, so it suits anglers who want a fight. See [how we fish the inlet for redfish](/redfish).

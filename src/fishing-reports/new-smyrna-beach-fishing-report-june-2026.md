@@ -7,7 +7,7 @@ hero: r-jun-1
 heroAlt: "Reel Deal Fishin' trip photo, June 2026"
 photos: [r-jun-3, r-jun-5, r-jun-7, r-jun-8]
 related:
-  - { label: "Shark fishing charters", url: "/nearshore#sharks" }
+  - { label: "Shark fishing charters", url: "/shark-fishing" }
   - { label: "Snook and redfish inshore", url: "/inshore#snook" }
   - { label: "Nearshore fishing", url: "/nearshore" }
 cta: "Shark season and snook season overlap in June. Tell Capt. Chad which one your crew wants and he'll plan around the tide."
@@ -39,4 +39,4 @@ Jack crevalle added nonstop action and hard runs near the inlet. And one young a
 
 ### **Heading Into July**
 
-With water temperatures climbing and bait getting thicker, the summer pattern was settling in. See our [shark fishing](/nearshore#sharks) and [inshore](/inshore) trips.
+With water temperatures climbing and bait getting thicker, the summer pattern was settling in. See our [shark fishing](/shark-fishing) and [inshore](/inshore) trips.

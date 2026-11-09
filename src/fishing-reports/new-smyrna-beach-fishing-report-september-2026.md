@@ -7,7 +7,7 @@ hero: r-sep-1
 heroAlt: "Reel Deal Fishin' trip photo, September 2026"
 photos: [r-gig-1, r-sep-2, r-sep-3, r-gig-3]
 related:
-  - { label: "Redfish fishing inshore", url: "/inshore#redfish" }
+  - { label: "Redfish fishing inshore", url: "/redfish" }
 cta: "Fall fishing is just getting started. Call Capt. Chad at (386) 853-4814."
 ---
 <!-- Structure: what changed. Sources: Sep 7 gigging post, Sep 8 redfish and snook post, Sep 18 redfish post. Sep 21 mullet news post not used (no captain detail). -->

@@ -27,16 +27,20 @@
           "url": "/inshore"
         },
         {
-          "label": "Nearshore & Shark Fishing",
+          "label": "Redfish Charters",
+          "url": "/redfish"
+        },
+        {
+          "label": "Nearshore Fishing",
           "url": "/nearshore"
+        },
+        {
+          "label": "Shark Fishing",
+          "url": "/shark-fishing"
         },
         {
           "label": "Dolphin & Glow Tours",
           "url": "/dolphin"
-        },
-        {
-          "label": "Fishing From Daytona Beach",
-          "url": "/inshore#daytona-beach"
         }
       ]
     },
@@ -47,6 +51,10 @@
         {
           "label": "Fishing Reports",
           "url": "/fishing-reports"
+        },
+        {
+          "label": "Fishing From Daytona Beach",
+          "url": "/inshore#daytona-beach"
         },
         {
           "label": "FAQ",

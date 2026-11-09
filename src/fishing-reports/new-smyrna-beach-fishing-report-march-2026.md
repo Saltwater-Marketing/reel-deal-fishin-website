@@ -8,7 +8,7 @@ heroAlt: "Reel Deal Fishin' trip photo, March 2026"
 photos: [r-mar-1, r-mar-3, r-mar-4, r-mar-7]
 related:
   - { label: "Sheepshead and black drum inshore", url: "/inshore#sheepshead" }
-  - { label: "Shark fishing charters", url: "/nearshore#sharks" }
+  - { label: "Shark fishing charters", url: "/shark-fishing" }
 cta: "Spring sheepshead and drum keep rods bent all trip, which makes it a great time to bring the kids. Pick a date and let's go."
 ---
 <!-- Structure: monthly roundup, grouped by species. Sources: Mar 7, Mar 10, Mar 11, Mar 21 and Mar 31 posts. -->

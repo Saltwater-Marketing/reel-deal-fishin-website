@@ -231,12 +231,6 @@
 # ---- Old Wix pages merged or removed ----
 
 [[redirects]]
-  from = "/redfish"
-  to = "/inshore#redfish"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/snook"
   to = "/inshore#snook"
   status = 301
@@ -251,7 +245,7 @@
 
 [[redirects]]
   from = "/shark"
-  to = "/nearshore#sharks"
+  to = "/shark-fishing"
   status = 301
   force = true
 
@@ -331,8 +325,8 @@
 
 # ---- Pages merged in the Nov 2026 content consolidation ----
 [[redirects]]
-  from = "/shark-fishing"
-  to = "/nearshore#sharks"
+  from = "/indian-river-lagoon-fishing"
+  to = "/inshore"
   status = 301
   force = true
 

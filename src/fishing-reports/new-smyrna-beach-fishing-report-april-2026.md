@@ -8,7 +8,7 @@ heroAlt: "Reel Deal Fishin' trip photo, April 2026"
 photos: [r-apr-1, r-apr-2, r-apr-4]
 related:
   - { label: "Snook fishing inshore", url: "/inshore#snook" }
-  - { label: "Redfish fishing inshore", url: "/inshore#redfish" }
+  - { label: "Redfish fishing inshore", url: "/redfish" }
 cta: "Celebrating something? Tell Capt. Chad when you book and he'll build the trip around it."
 ---
 <!-- Structure: trip story. Sources: Apr 25 snook post, Apr 29 birthday redfish post. -->

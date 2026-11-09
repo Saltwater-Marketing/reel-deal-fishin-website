@@ -7,7 +7,7 @@ hero: r-aug-1
 heroAlt: "Reel Deal Fishin' trip photo, August 2026"
 photos: [r-aug-2, r-aug-3, r-aug-4]
 related:
-  - { label: "Redfish and snook inshore", url: "/inshore#redfish" }
+  - { label: "Redfish and snook inshore", url: "/redfish" }
   - { label: "Daytona Beach charters", url: "/inshore#daytona-beach" }
 cta: "August mornings are made for inshore trips. Book online or call Capt. Chad to grab a date."
 ---

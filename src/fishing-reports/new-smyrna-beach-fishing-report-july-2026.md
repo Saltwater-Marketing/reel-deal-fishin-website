@@ -8,7 +8,7 @@ heroAlt: "Reel Deal Fishin' trip photo, July 2026"
 photos: [r-jul-1, r-jul-3, r-jul-7, r-jul-9]
 related:
   - { label: "Nearshore fishing", url: "/nearshore" }
-  - { label: "Shark fishing charters", url: "/nearshore#sharks" }
+  - { label: "Shark fishing charters", url: "/shark-fishing" }
   - { label: "Inshore fishing charters", url: "/inshore" }
 cta: "Calm summer seas open up nearshore and offshore days. Call or text Capt. Chad to see what's open."
 ---
@@ -35,4 +35,4 @@ As temperatures climbed, some of the best fishing happened after sunset. Oversiz
 
 ### **Coming Up in August**
 
-Expect snook and redfish to keep leading inshore while the shark bite holds. See our [nearshore](/nearshore) and [shark fishing](/nearshore#sharks) trips.
+Expect snook and redfish to keep leading inshore while the shark bite holds. See our [nearshore](/nearshore) and [shark fishing](/shark-fishing) trips.

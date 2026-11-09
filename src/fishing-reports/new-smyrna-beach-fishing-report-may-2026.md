@@ -8,7 +8,7 @@ heroAlt: "Reel Deal Fishin' trip photo, May 2026"
 photos: [r-may-1, r-may-3, r-may-7, r-may-8]
 related:
   - { label: "Trophy snook on inshore trips", url: "/inshore#snook" }
-  - { label: "Redfish near the inlet", url: "/inshore#redfish" }
+  - { label: "Redfish near the inlet", url: "/redfish" }
 cta: "Big snook on the bridges at first light, or under the dock lights after dark. Call Capt. Chad to pick your window."
 ---
 <!-- Structure: what changed. Sources: May 1, May 4, May 19 and May 30 posts. -->

@@ -7,7 +7,7 @@ hero: r-oct-1
 heroAlt: "Reel Deal Fishin' trip photo, October 2026"
 photos: [r-oct-2, r-oct-3]
 related:
-  - { label: "Oversized redfish inshore", url: "/inshore#redfish" }
+  - { label: "Oversized redfish inshore", url: "/redfish" }
 cta: "The October reds are big and the nights are cooling off. Call or text Capt. Chad at (386) 853-4814 to get on the calendar."
 ---
 <!-- Structure: trip story. Source: Oct 21 post. -->

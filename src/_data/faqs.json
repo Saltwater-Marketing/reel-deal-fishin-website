@@ -4,7 +4,7 @@
     "items": [
       {
         "q": "How do I book a charter?",
-        "a": "Book directly through the website, or call or text Capt. Chad at (386) 853-4814. Let him know what you're after (<a href=\"/inshore\">inshore</a>, <a href=\"/nearshore\">nearshore</a>, <a href=\"/nearshore#sharks\">shark fishing</a> or a <a href=\"/dolphin\">tour</a>) and he'll match the trip type and timing to the best tide for that day."
+        "a": "Book directly through the website, or call or text Capt. Chad at (386) 853-4814. Let him know what you're after (<a href=\"/inshore\">inshore</a>, <a href=\"/nearshore\">nearshore</a>, <a href=\"/shark-fishing\">shark fishing</a> or a <a href=\"/dolphin\">tour</a>) and he'll match the trip type and timing to the best tide for that day."
       },
       {
         "q": "What's included in the trip price?",
@@ -107,11 +107,11 @@
       },
       {
         "q": "What species can we target on an inshore charter?",
-        "a": "<a href=\"/inshore#redfish\">Redfish</a>, <a href=\"/inshore#snook\">snook</a>, trout, flounder, <a href=\"/inshore#sheepshead\">sheepshead</a> and drum in the calm, protected backwaters around New Smyrna Beach. Capt. Chad adjusts the plan to the season and the day's bite."
+        "a": "<a href=\"/redfish\">Redfish</a>, <a href=\"/inshore#snook\">snook</a>, trout, flounder, <a href=\"/inshore#sheepshead\">sheepshead</a> and drum in the calm, protected backwaters around New Smyrna Beach. Capt. Chad adjusts the plan to the season and the day's bite."
       },
       {
         "q": "What do you catch nearshore?",
-        "a": "<a href=\"/nearshore#sharks\">Sharks</a>, kingfish, tarpon, jacks and cobia when they're running, just a few miles off the beach."
+        "a": "<a href=\"/shark-fishing\">Sharks</a>, kingfish, tarpon, jacks and cobia when they're running, just a few miles off the beach."
       },
       {
         "q": "How far do you run on nearshore trips?",

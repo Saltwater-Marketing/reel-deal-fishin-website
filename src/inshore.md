@@ -45,13 +45,11 @@ We fish the Indian River Lagoon, Mosquito Lagoon and the New Smyrna inlet out of
 
 <h2 id="redfish">Redfish</h2>
 
-![Guest holding a redfish caught near the inlet rocks](/images/red-a.webp)
+![Two anglers holding a redfish on a sunny inshore trip](/images/red-c.webp)
 
-Redfish are the most dependable fish we have, and we catch them every month of the year. On the flats they tail in skinny grass and push wakes along the mangroves, and we ease in on the trolling motor and sight cast to them.
+Redfish are the most dependable fish we have, and we catch them every month of the year, from slot reds on the inlet rocks in winter to oversized bulls in late summer and fall. On one 4 hour morning in mid September 2026, we landed 75.
 
-Some days they're everywhere: on one 4 hour morning in mid September 2026, we landed 75 redfish.
-
-In winter, slot reds stack along the inlet rock edges, current breaks and deeper cuts. They feed hardest on the incoming tide, early and late in the day, and live finger mullet or big live shrimp fished tight to the rocks gets bit. By late summer and fall, oversized reds move in and make long, hard runs right along the inlet rocks. Read how it played out in our [August](/fishing-reports/new-smyrna-beach-fishing-report-august-2026) and [October](/fishing-reports/new-smyrna-beach-fishing-report-october-2026) reports.
+See [our redfish charters](/redfish) for where they are through the year and how we fish for them.
 
 <h2 id="snook">Snook</h2>
 
