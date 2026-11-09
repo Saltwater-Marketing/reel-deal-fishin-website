@@ -5,7 +5,8 @@ description: "December 2025 in New Smyrna Beach: sheepshead tight to docks and b
 h1: "Sheepshead & Lane Snapper Fishing Report: New Smyrna Beach, FL | December 2025"
 hero: r-dec-1
 heroAlt: "Young angler in a life jacket sitting on the deck beside a row of lane snapper"
-photos: [r-dec-3, r-dec-2]
+photos:
+  - { img: "r-dec-3", alt: "Three anglers on the dock with sheepshead and flounder" }
 related:
   - { label: "Sheepshead on inshore trips", url: "/inshore#sheepshead" }
   - { label: "All charter options", url: "/charters" }

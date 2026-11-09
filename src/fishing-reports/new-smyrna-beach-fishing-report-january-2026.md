@@ -5,7 +5,9 @@ description: "January 2026 in New Smyrna Beach: slot redfish on the inlet rocks 
 h1: "Inlet Redfish & Black Drum Fishing Report: New Smyrna Beach, FL | January 2026"
 hero: r-jan-1
 heroAlt: "Angler in a hooded winter jacket holding up a fish near the inlet rocks, red lighthouse on the far shore"
-photos: [r-jan-2, r-jan-3]
+photos:
+  - { img: "r-jan-2", alt: "Anglers holding big black drum under a bridge" }
+  - { img: "r-jan-3", alt: "Angler holding a black drum near the bridge" }
 related:
   - { label: "Inlet redfish on inshore trips", url: "/redfish" }
   - { label: "Inshore fishing charters", url: "/inshore" }

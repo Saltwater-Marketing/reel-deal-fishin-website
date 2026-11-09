@@ -185,8 +185,9 @@ ul{padding-left:1.2em}
 .report-card h3{font-size:1.45rem;margin:.3em 0 .4em}
 .report-card:hover h3{color:var(--sea)}
 .post-meta{font-weight:700;color:#fff}
-.photo-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:12px;margin:1.4em 0}
-.photo-row img{aspect-ratio:1;object-fit:cover;border-radius:10px;margin:0;width:100%}
+.photo-row{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px;margin:1em 0 1.4em}
+.photo-row img{aspect-ratio:4/5;object-fit:cover;object-position:50% 35%;border-radius:10px;margin:0;width:100%;height:auto}
+@media(max-width:600px){.photo-row{grid-template-columns:1fr 1fr;gap:8px}}
 
 /* Forms */
 .form{display:grid;grid-template-columns:1fr 1fr;gap:16px}

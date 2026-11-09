@@ -5,7 +5,40 @@ description: "June 2026 at Ponce Inlet & New Smyrna Beach: first sharks for youn
 h1: "Shark, Snook & Tarpon Fishing Report: Ponce Inlet & New Smyrna Beach, FL | June 2026"
 hero: r-jun-1
 heroAlt: "Four young anglers holding a shark on the boat at the dock, June 2026"
-photos: [r-jun-5, r-jun-7, r-jun-8, r-jun-3]
+photos:
+  - { img: "r-jun-9", alt: "Group of six on the boat with a shark on the deck" }
+  - { img: "r-jun-10", alt: "Young angler holding a shark on the cooler" }
+  - { img: "r-jun-11", alt: "Teen holding a small shark" }
+  - { img: "r-jun-12", alt: "Teen holding a shark nearshore" }
+  - { img: "r-jun-13", alt: "Young angler holding a shark on the bow" }
+  - { img: "r-jun-14", alt: "Shark swimming beside the boat" }
+  - { img: "r-jun-15", alt: "Two anglers with a shark on the bow" }
+  - { img: "r-jun-16", alt: "Teen holding a bonnethead shark" }
+  - { img: "r-jun-3", alt: "Young angler holding a redfish at sunset" }
+  - { img: "r-jun-17", alt: "Young angler holding a shark on the cooler" }
+  - { img: "r-jun-18", alt: "Angler holding a snook in the evening" }
+  - { img: "r-jun-19", alt: "Young angler holding a jack crevalle near the inlet" }
+  - { img: "r-jun-20", alt: "Two boys and an adult with a shark" }
+  - { img: "r-jun-21", alt: "Angler holding a snook at sunset" }
+  - { img: "r-jun-5", alt: "Teen holding a shark nearshore" }
+  - { img: "r-jun-22", alt: "Angler holding a redfish near the inlet" }
+  - { img: "r-jun-23", alt: "Young angler holding a snook on the bow" }
+  - { img: "r-jun-24", alt: "Angler holding a tarpon" }
+  - { img: "r-jun-25", alt: "Teen holding a shark" }
+  - { img: "r-jun-26", alt: "Angler holding a cobia" }
+  - { img: "r-jun-27", alt: "Young angler laughing with a spadefish" }
+  - { img: "r-jun-28", alt: "Angler holding a hammerhead shark" }
+  - { img: "r-jun-29", alt: "Angler holding a redfish in the evening" }
+  - { img: "r-jun-7", alt: "Angler holding a big snook near Ponce Inlet" }
+  - { img: "r-jun-8", alt: "Teen holding a redfish near Ponce Inlet" }
+  - { img: "r-jun-31", alt: "Family with a redfish near the jetty" }
+  - { img: "r-jun-32", alt: "Angler holding a snook at dusk" }
+  - { img: "r-jun-33", alt: "Angler holding a snook near the inlet" }
+  - { img: "r-jun-34", alt: "Young angler holding a redfish by the jetty rocks" }
+  - { img: "r-jun-35", alt: "Angler holding a jack crevalle under the bridge" }
+  - { img: "r-jun-36", alt: "Angler holding a snook at dusk" }
+  - { img: "r-jun-37", alt: "Angler holding a snook at night" }
+  - { img: "r-jun-38", alt: "Teen holding a redfish on a lip grip" }
 related:
   - { label: "Shark fishing charters", url: "/shark-fishing" }
   - { label: "Snook and redfish inshore", url: "/inshore#snook" }

@@ -5,7 +5,30 @@ description: "May 2026 in New Smyrna Beach: trophy snook on the bridges and unde
 h1: "Trophy Snook, Redfish & Shark Fishing Report: New Smyrna Beach Bridges & Indian River Lagoon, FL | May 2026"
 hero: r-may-5
 heroAlt: "Angler holding a big snook on the boat with open blue water behind him, May 2026"
-photos: [r-may-3, r-may-8, r-may-1, r-may-7]
+photos:
+  - { img: "r-may-9", alt: "Angler holding a big snook at night under the condo lights" }
+  - { img: "r-may-7", alt: "Angler holding a redfish on a lip grip" }
+  - { img: "r-may-8", alt: "Teen holding a snook near the inlet" }
+  - { img: "r-may-10", alt: "Mother and son each holding a snook at the dock" }
+  - { img: "r-may-11", alt: "Teen holding a snook at dusk" }
+  - { img: "r-may-12", alt: "Teen holding a snook in the lagoon" }
+  - { img: "r-may-13", alt: "Young angler holding a redfish" }
+  - { img: "r-may-14", alt: "Angler holding a big snook" }
+  - { img: "r-may-15", alt: "Teen holding a redfish on the cooler" }
+  - { img: "r-may-16", alt: "Teen holding a big snook" }
+  - { img: "r-may-3", alt: "Young angler holding a snook on a lip grip" }
+  - { img: "r-may-17", alt: "Young angler holding a snook" }
+  - { img: "r-may-18", alt: "Couple each holding a snook at the dock" }
+  - { img: "r-may-19", alt: "Teen holding a snook at night" }
+  - { img: "r-may-20", alt: "Young angler holding a redfish" }
+  - { img: "r-may-1", alt: "Teen holding a redfish in the Intracoastal" }
+  - { img: "r-may-21", alt: "Young angler holding a jack crevalle" }
+  - { img: "r-may-22", alt: "Young angler holding a jack" }
+  - { img: "r-may-23", alt: "Teen holding a black drum" }
+  - { img: "r-may-24", alt: "Teen holding an oversized redfish" }
+  - { img: "r-may-25", alt: "Young angler holding a redfish on a lip grip" }
+  - { img: "r-may-26", alt: "Teen holding a black drum near the bridge" }
+  - { img: "r-may-27", alt: "Teen holding a sheepshead" }
 related:
   - { label: "Trophy snook on inshore trips", url: "/inshore#snook" }
   - { label: "Redfish trips", url: "/redfish" }

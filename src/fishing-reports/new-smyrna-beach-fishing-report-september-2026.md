@@ -5,7 +5,24 @@ description: "September 2026 in New Smyrna Beach: mullet jumping into boats at P
 h1: "Fall Mullet Run, Redfish & Snook Fishing Report: Ponce Inlet & New Smyrna Beach, FL | September 2026"
 hero: r-sep-3
 heroAlt: "Three Reel Deal Fishin' guests each holding a redfish on the boat, September 2026"
-photos: [r-sep-1, r-sep-2]
+photos:
+  - { img: "r-sep-1", alt: "Family of four each holding a redfish near the inlet" }
+  - { img: "r-sep-2", alt: "Young angler holding up a redfish on the boat" }
+  - { img: "r-sep-4", alt: "Angler holding a snook near the inlet jetty" }
+  - { img: "r-sep-5", alt: "Young angler and her dad each holding a redfish" }
+  - { img: "r-gig-1", alt: "Young angler and Capt. Chad each holding a redfish near the jetty" }
+  - { img: "r-gig-3", alt: "Three guests holding redfish near the inlet with boats behind" }
+  - { img: "r-sep-7", alt: "Two anglers holding big redfish on the bow" }
+  - { img: "r-sep-8", alt: "Group of five on the boat holding redfish near the jetty" }
+  - { img: "r-sep-9", alt: "Two anglers holding redfish on a night trip" }
+  - { img: "r-sep-10", alt: "Two guests holding redfish on the bow" }
+  - { img: "r-sep-11", alt: "Large group on the dock holding a morning's redfish" }
+  - { img: "r-sep-12", alt: "Angler holding a snook at night" }
+  - { img: "r-sep-13", alt: "Five anglers holding redfish with the jetty behind" }
+  - { img: "r-sep-14", alt: "Grandfather and three boys holding redfish near the inlet" }
+  - { img: "r-sep-15", alt: "Two boys holding redfish on the bow" }
+  - { img: "r-sep-16", alt: "Angler holding a snook on a lip grip at sunrise" }
+  - { img: "r-sep-17", alt: "Two anglers holding redfish near the jetty" }
 related:
   - { label: "Redfish fishing inshore", url: "/redfish" }
   - { label: "Inshore trips around New Smyrna Beach", url: "/inshore" }

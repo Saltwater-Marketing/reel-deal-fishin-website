@@ -5,7 +5,39 @@ description: "July 2026 off New Smyrna Beach: doormat flounder and sand trout ne
 h1: "Flounder, Shark & Snook Fishing Report: New Smyrna Beach Nearshore & Inshore, FL | July 2026"
 hero: r-jul-5
 heroAlt: "Two teen anglers and an adult holding two sharks on the boat, July 2026"
-photos: [r-jul-1, r-jul-7, r-jul-9]
+photos:
+  - { img: "r-jul-9", alt: "Angler holding a snook nearshore" }
+  - { img: "r-jul-10", alt: "Three anglers on the dock with a shark and five flounder" }
+  - { img: "r-jul-11", alt: "Three young anglers with snapper on the cooler" }
+  - { img: "r-jul-12", alt: "Teen holding a snook in the lagoon" }
+  - { img: "r-jul-13", alt: "Young angler holding a snook at dusk" }
+  - { img: "r-jul-7", alt: "Angler holding a blacktip shark on the boat" }
+  - { img: "r-jul-14", alt: "Three kids on the dock with a shark, flounder and trout" }
+  - { img: "r-jul-15", alt: "Angler holding a mackerel caught nearshore" }
+  - { img: "r-jul-16", alt: "Hammerhead shark swimming beside the boat" }
+  - { img: "r-jul-17", alt: "Angler holding up a flounder off the beach" }
+  - { img: "r-jul-18", alt: "Angler holding up a flounder with the beach behind" }
+  - { img: "r-jul-3", alt: "Angler holding a red snapper on a lip grip" }
+  - { img: "r-jul-19", alt: "Angler fighting a fish at sunrise" }
+  - { img: "r-jul-20", alt: "Angler holding an oversized redfish at night" }
+  - { img: "r-jul-21", alt: "Angler fighting a shark visible beside the boat" }
+  - { img: "r-jul-22", alt: "Dad and son with a blacktip shark" }
+  - { img: "r-jul-23", alt: "Dad and son holding a shark on the boat" }
+  - { img: "r-jul-24", alt: "Angler holding a shark nearshore" }
+  - { img: "r-jul-25", alt: "Teen holding a shark on the boat" }
+  - { img: "r-jul-26", alt: "Young angler holding a shark on the bow" }
+  - { img: "r-jul-27", alt: "Family on the dock with flounder, trout and a shark" }
+  - { img: "r-jul-28", alt: "Two anglers each holding a flounder" }
+  - { img: "r-jul-29", alt: "Family with flounder and trout on the bow" }
+  - { img: "r-jul-1", alt: "Angler holding up a flounder nearshore" }
+  - { img: "r-jul-30", alt: "Angler holding a shark on the bow" }
+  - { img: "r-jul-31", alt: "Angler with four doormat flounder on the cooler" }
+  - { img: "r-jul-32", alt: "Teen holding a sand trout" }
+  - { img: "r-jul-33", alt: "Two teens holding sharks at the dock" }
+  - { img: "r-jul-34", alt: "Angler holding a fish caught nearshore" }
+  - { img: "r-jul-35", alt: "Angler holding up a big flounder" }
+  - { img: "r-jul-36", alt: "Teen holding up a flounder nearshore" }
+  - { img: "r-jul-37", alt: "Teen holding up a flounder off the beach" }
 related:
   - { label: "Nearshore fishing", url: "/nearshore" }
   - { label: "Shark fishing charters", url: "/shark-fishing" }

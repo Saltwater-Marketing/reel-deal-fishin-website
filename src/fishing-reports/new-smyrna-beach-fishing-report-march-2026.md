@@ -5,7 +5,22 @@ description: "March 2026 around New Smyrna Beach & Port Orange: sheepshead limit
 h1: "Sheepshead & Black Drum Fishing Report: New Smyrna Beach & Port Orange Bridges, FL | March 2026"
 hero: r-mar-5
 heroAlt: "Four anglers on a dock at sunset with a spread of sheepshead in front of them"
-photos: [r-mar-7, r-mar-1, r-mar-3, r-mar-4]
+photos:
+  - { img: "r-mar-1", alt: "Young angler holding a sheepshead in a towel" }
+  - { img: "r-mar-8", alt: "Angler holding a shark in the lagoon" }
+  - { img: "r-mar-9", alt: "Young angler holding a small shark" }
+  - { img: "r-mar-10", alt: "Angler holding a shark along the mangroves" }
+  - { img: "r-mar-4", alt: "Crew of five on the dock with a spread of sheepshead" }
+  - { img: "r-mar-11", alt: "Three anglers with a spread of sheepshead" }
+  - { img: "r-mar-12", alt: "Angler holding a grouper by the seawall" }
+  - { img: "r-mar-13", alt: "Four guests on the dock with sheepshead and jacks" }
+  - { img: "r-mar-14", alt: "Angler holding a shark on the boat" }
+  - { img: "r-mar-15", alt: "Four guests with a limit of sheepshead" }
+  - { img: "r-mar-7", alt: "Young angler yelling with a black drum" }
+  - { img: "r-mar-16", alt: "Mother and son with a black drum" }
+  - { img: "r-mar-17", alt: "Mother and son with a sheepshead at the docks" }
+  - { img: "r-mar-18", alt: "Mother and son with a jack at the docks" }
+  - { img: "r-mar-3", alt: "Two anglers on the dock with a big spread of sheepshead" }
 related:
   - { label: "Sheepshead and black drum inshore", url: "/inshore#sheepshead" }
   - { label: "Inshore fishing charters", url: "/inshore" }

@@ -5,7 +5,25 @@ description: "August 2026 in New Smyrna Beach: flounder moved into the Indian Ri
 h1: "Flounder, Redfish & Snook Fishing Report: Indian River Lagoon & New Smyrna Beach Inlet, FL | August 2026"
 hero: r-aug-1
 heroAlt: "Reel Deal Fishin' guest holding a redfish on the boat with other boats behind, August 2026"
-photos: [r-aug-3, r-aug-2, r-aug-4]
+photos:
+  - { img: "r-aug-3", alt: "Family with a redfish, flounder and snapper on the cooler" }
+  - { img: "r-aug-4", alt: "Angler holding a big snook by the docks" }
+  - { img: "r-aug-5", alt: "Boy and his dad with a redfish on the boat" }
+  - { img: "r-aug-6", alt: "Angler holding a redfish on a lip grip" }
+  - { img: "r-aug-7", alt: "Angler holding a snook near the inlet" }
+  - { img: "r-aug-8", alt: "Angler holding a snook near the inlet" }
+  - { img: "r-aug-9", alt: "Angler holding a snook in the lagoon" }
+  - { img: "r-aug-10", alt: "Angler holding a snook along the mangroves" }
+  - { img: "r-aug-2", alt: "Angler holding up a snook on the bow in low light" }
+  - { img: "r-aug-11", alt: "Family on the dock with flounder, trout and snapper on the cooler" }
+  - { img: "r-aug-12", alt: "Two anglers with a row of mangrove snapper" }
+  - { img: "r-aug-13", alt: "Angler holding a redfish nearshore" }
+  - { img: "r-aug-14", alt: "Boy with jacks and snapper laid on the cooler" }
+  - { img: "r-aug-15", alt: "Couple on the dock with flounder and trout" }
+  - { img: "r-aug-16", alt: "Two anglers on the dock with limits of flounder and trout" }
+  - { img: "r-aug-17", alt: "Family on the dock with a spread of mangrove snapper" }
+  - { img: "r-aug-18", alt: "Kids and an angler with a redfish near the jetty" }
+  - { img: "r-aug-19", alt: "Two young anglers with snapper and trout on the cooler" }
 related:
   - { label: "Redfish fishing inshore", url: "/redfish" }
   - { label: "Inshore trips for flounder, trout and snapper", url: "/inshore" }

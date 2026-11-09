@@ -5,7 +5,10 @@ description: "February 2026 in New Smyrna Beach: pompano schools off the end of 
 h1: "Pompano & Sheepshead Fishing Report: New Smyrna Beach Jetty, FL | February 2026"
 hero: r-feb-1
 heroAlt: "Young angler standing on a cooler above a boat deck covered in pompano"
-photos: [r-feb-3, r-feb-2, r-feb-4]
+photos:
+  - { img: "r-feb-3", alt: "Young angler holding a sheepshead by the jetty" }
+  - { img: "r-feb-2", alt: "Young angler holding a sheepshead" }
+  - { img: "r-feb-4", alt: "Young angler with a sheepshead by a dock piling" }
 related:
   - { label: "Sheepshead on inshore trips", url: "/inshore#sheepshead" }
   - { label: "Inshore fishing charters", url: "/inshore" }

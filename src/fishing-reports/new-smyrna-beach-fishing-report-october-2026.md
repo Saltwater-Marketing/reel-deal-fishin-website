@@ -5,7 +5,18 @@ description: "October 2026 around New Smyrna Beach, Mosquito Lagoon and the Indi
 h1: "Oversized Redfish, Black Drum & Snook Fishing Report: Indian River & Mosquito Lagoon, FL | October 2026"
 hero: r-oct-1
 heroAlt: "Three Reel Deal Fishin' guests on the boat, two holding big redfish on calm water, October 2026"
-photos: [r-oct-2, r-oct-3]
+photos:
+  - { img: "r-oct-2", alt: "Young angler holding a black drum with a bridge behind the boat" }
+  - { img: "r-oct-3", alt: "Guest with a snook beside an angler holding two redfish" }
+  - { img: "r-oct-4", alt: "Angler holding up a snook caught at night" }
+  - { img: "r-oct-5", alt: "Two guests holding a redfish under the T top" }
+  - { img: "r-oct-6", alt: "Guest holding an oversized redfish on the bow" }
+  - { img: "r-oct-7", alt: "Teen angler with a big redfish near the inlet jetty" }
+  - { img: "r-oct-8", alt: "Young angler holding a redfish at sunset near the inlet rocks" }
+  - { img: "r-oct-9", alt: "Angler with a redfish near the jetty" }
+  - { img: "r-oct-10", alt: "Angler holding a redfish with the inlet rocks behind" }
+  - { img: "r-oct-11", alt: "Teen holding up an oversized redfish near the inlet" }
+  - { img: "r-oct-12", alt: "Angler holding a redfish on a lip grip under a bridge" }
 related:
   - { label: "Oversized redfish inshore", url: "/redfish" }
   - { label: "Inshore trips for black drum and snook", url: "/inshore" }
@@ -28,7 +39,7 @@ Black drum made appearances throughout our local waters and added real variety t
 
 We had chances at snook too, mixed in with the reds.
 
-Night trips run for snook and other local species after dark, if your crew wants to try the water at night.
+At least one of October's snook came on a night trip. Those run after dark for snook and other local species, if your crew wants to try it.
 
 ### **Where We Fished**
 

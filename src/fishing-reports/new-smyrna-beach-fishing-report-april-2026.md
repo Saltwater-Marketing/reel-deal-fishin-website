@@ -5,7 +5,10 @@ description: "April 2026 in New Smyrna Beach: two young boys team up on an inlet
 h1: "Family Redfish & Low Light Snook Fishing Report: New Smyrna Beach Inlet & Indian River, FL | April 2026"
 hero: r-apr-3
 heroAlt: "Two men and two young boys holding redfish on the boat in New Smyrna Beach, April 2026"
-photos: [r-apr-4, r-apr-1, r-apr-2]
+photos:
+  - { img: "r-apr-4", alt: "Two young boys holding one redfish together" }
+  - { img: "r-apr-1", alt: "Angler holding a snook at dusk" }
+  - { img: "r-apr-2", alt: "Teen holding a snook with a drawbridge behind" }
 related:
   - { label: "Redfish fishing inshore", url: "/redfish" }
   - { label: "Snook fishing inshore", url: "/inshore#snook" }

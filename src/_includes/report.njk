@@ -16,8 +16,9 @@ ogType: article
   <div class="wrap prose">
     {{ content | safe }}
     {%- if photos %}
+    <h2>Photos From the Boat</h2>
     <div class="photo-row">
-      {%- for p in photos %}<img src="/images/{{ p }}.webp" alt="Reel Deal Fishin' trip photo, {{ page.date | dateDisplay }}" loading="lazy">{% endfor %}
+      {%- for p in photos %}<img src="/images/{{ p.img or p }}.webp" alt="{{ p.alt or 'Reel Deal Fishin\' trip photo' }}, New Smyrna Beach" loading="lazy" width="800" height="1000">{% endfor %}
     </div>
     {%- endif %}
     <div class="box" style="margin-top:30px">
