@@ -3,8 +3,8 @@ layout: trip.njk
 permalink: /nearshore.html
 title: "Nearshore & Shark Fishing Charters | New Smyrna Beach | Reel Deal"
 description: "Nearshore & shark fishing out of Ponce Inlet near New Smyrna Beach: blacktips, kingfish, flounder & more. Private boat, gear & license included. Book now."
-hero: card-shark
-heroAlt: "Young anglers holding sharks caught on a Reel Deal trip off New Smyrna Beach"
+hero: card-nearshore
+heroAlt: "Angler holding a kingfish caught just off New Smyrna Beach"
 eyebrow: "Private nearshore & shark charters"
 h1: "Nearshore & Shark Fishing Charters in New Smyrna Beach, FL"
 subhead: "Out the inlet, up to 6 miles off the beach"
