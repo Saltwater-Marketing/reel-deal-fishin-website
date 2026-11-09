@@ -1,4 +1,5 @@
 {%- set canonical = site.url + (page.url | cleanUrl) -%}
+{%- set shareBase = build.previewOrigin or site.url -%}
 <!doctype html>
 <html lang="en">
 <head>
@@ -12,8 +13,8 @@
 <meta property="og:site_name" content="{{ site.name }}">
 <meta property="og:title" content="{{ title }}">
 <meta property="og:description" content="{{ description }}">
-<meta property="og:url" content="{{ canonical }}">
-<meta property="og:image" content="{{ site.url }}/images/{{ hero or 'home-hero' }}.webp">
+<meta property="og:url" content="{{ shareBase + (page.url | cleanUrl) }}">
+<meta property="og:image" content="{{ shareBase }}/images/{{ hero or 'home-hero' }}.webp">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="/images/logo.webp" type="image/webp">
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
