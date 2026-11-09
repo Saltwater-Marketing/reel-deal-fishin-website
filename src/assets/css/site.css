@@ -259,9 +259,12 @@ ul{padding-left:1.2em}
 .prose img{width:100%;max-height:420px;object-fit:cover}
 
 /* Google reviews */
-.hero__rating{display:inline-flex;align-items:center;gap:8px;margin-top:22px;background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.35);color:#fff;font-weight:700;padding:8px 16px;border-radius:999px;text-decoration:none;font-size:1.05rem}
-.hero__rating span{color:#f5b301;letter-spacing:2px}
-.hero__rating:hover{background:rgba(255,255,255,.24);color:#fff}
+.hero__rating{display:inline-flex;align-items:center;gap:10px;margin:0 0 14px;color:#fff;text-decoration:none;font-size:1.05rem;line-height:1}
+.hero__g{width:22px;height:22px;background:#fff;border-radius:50%;padding:3px;flex:none}
+.hero__rating strong{font-size:1.25rem;font-weight:800}
+.hero__stars{color:#fbbc04;font-size:1.2rem;letter-spacing:1px}
+.hero__count{font-weight:600;opacity:.92;border-bottom:1px solid rgba(255,255,255,.5);padding-bottom:2px}
+.hero__rating:hover .hero__count{border-bottom-color:#fff;opacity:1}
 .rv{display:grid;grid-template-columns:280px 1fr;gap:32px;align-items:start}
 .rv__sum{background:var(--navy);color:#fff;border-radius:var(--radius);padding:32px 28px;text-align:center}
 .rv__sum p{color:#fff;margin:0}
@@ -276,7 +279,7 @@ ul{padding-left:1.2em}
 .rv__card figcaption{font-weight:700;color:var(--navy-deep)}
 .rv__card figcaption span{display:block;font-weight:400;font-size:.9rem;color:var(--ink)}
 @media(max-width:900px){.rv{grid-template-columns:1fr}}
-@media(max-width:640px){.hero__rating{font-size:.92rem;padding:7px 12px;gap:6px}.hero__rating span{letter-spacing:0}}
+@media(max-width:640px){.hero__rating{gap:8px;font-size:.98rem}.hero__stars{letter-spacing:0}}
 /* Price table */
 .ptable-wrap{overflow-x:auto;background:#fff;border-radius:var(--radius);box-shadow:var(--shadow)}
 .ptable{width:100%;border-collapse:collapse;font-size:1.02rem}
