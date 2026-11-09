@@ -78,8 +78,6 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 - **Summer:** trophy snook on the bridges, early and late; redfish near the inlet
 - **Fall:** oversized redfish, flounder and black drum
 
-<h2 id="daytona-beach">Fishing From Daytona Beach</h2>
-
-Staying in Daytona Beach? You're a short drive from the boat. We fish the Halifax River and the Port Orange bridges as well as the lagoon around New Smyrna Beach, and the same inshore trip works for both. Redfish run year round, snook are strongest in summer, and sheepshead and black drum take over the structure in winter.
+Staying in Daytona? See our [Daytona Beach fishing charters](/daytona-beach).
 
 Want more pull? Step up to [nearshore or shark fishing](/nearshore) just off the beach.

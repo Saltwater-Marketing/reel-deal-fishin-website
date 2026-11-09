@@ -336,8 +336,3 @@
   status = 301
   force = true
 
-[[redirects]]
-  from = "/daytona-beach"
-  to = "/inshore#daytona-beach"
-  status = 301
-  force = true
