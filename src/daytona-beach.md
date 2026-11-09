@@ -26,7 +26,7 @@ included:
   - "Rods, reels, tackle and bait"
   - "Fishing license for everyone on board"
   - "Fish cleaning when regulations allow"
-  - "A private boat, no crowded headboats"
+  - "A private boat, your group only"
 bring:
   - "Food and drinks (no glass)"
   - "Sunscreen (no spray) and a hat"

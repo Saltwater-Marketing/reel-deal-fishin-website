@@ -62,11 +62,11 @@ layout: base.njk
 </section>
 {%- endif %}
 
-{%- if reviewTrips %}
+{%- if reviewTrips or reviewIds %}
 <section class="sec sec--sand">
   <div class="wrap">
     <div class="sec__head"><p class="eyebrow">From real guests</p><h2>{{ reviewsTitle or "What Guests Say" }}</h2></div>
-    {%- set rvItems = [] %}{% for t in reviewTrips %}{% set rvItems = rvItems.concat(reviews.quotes | reviewsByTrip(t)) %}{% endfor %}
+    {%- set rvItems = [] %}{% if reviewIds %}{% set rvItems = reviews.quotes | reviewsByIds(reviewIds) %}{% endif %}{% for t in (reviewTrips or []) %}{% set rvItems = rvItems.concat(reviews.quotes | reviewsByTrip(t)) %}{% endfor %}
     {%- set rvItems = rvItems | head(3) %}
     {% include "reviews-block.njk" %}
   </div>

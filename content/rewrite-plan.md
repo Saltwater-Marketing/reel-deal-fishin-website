@@ -23,3 +23,9 @@ departs New Smyrna Beach, Chad and Falon bios), real prices (src/_data/prices.js
 Order: Home, Dolphin, FAQ, Trips intro, Inshore and Nearshore. Each draft is shown before publishing.
 Structure: Snook, Sheepshead, Flounder, Indian River Lagoon stay sections of Inshore; Redfish, Shark,
 Daytona are their own pages. Flounder gigging stays hidden. No celebration or birthday section.
+
+## Status (Nov 9, 2026)
+Done: Home, Dolphin & Glow, FAQ (25 sourced Qs), Trips & Prices intro, Inshore light pass, Redfish, Shark,
+Daytona, Nearshore, Captains additions, title fixes, filler sweep (SWM Writing Standard list).
+Decisions: drinks are bring your own (no ice/water claims anywhere). No POP report exists for Reel Deal.
+Waiting on: client review feedback.

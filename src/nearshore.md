@@ -1,7 +1,7 @@
 ---
 layout: trip.njk
 permalink: /nearshore.html
-title: "Nearshore Fishing Charters in New Smyrna Beach, FL | Reel Deal"
+title: "Nearshore Fishing Charters in New Smyrna Beach | Reel Deal"
 description: "Nearshore fishing out of Ponce Inlet near New Smyrna Beach for kingfish, flounder, sand trout & more. Private boat, gear & license included. Book now."
 hero: card-nearshore
 heroAlt: "Angler holding a kingfish caught just off New Smyrna Beach"

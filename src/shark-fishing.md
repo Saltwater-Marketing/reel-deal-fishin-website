@@ -23,7 +23,7 @@ species:
   - { name: "Bonnethead Sharks", note: "Small, smooth fighters, great for families." }
   - { name: "Atlantic Sharpnose", note: "Hard fighters that punch above their weight." }
   - { name: "Bull Sharks", note: "Strong, unpredictable and strictly catch and release." }
-  - { name: "Lemon & Hammerhead", note: "Occasional giants and unforgettable when they show." }
+  - { name: "Lemon & Hammerhead", note: "Occasional big visitors, always released." }
 included:
   - "Shark grade rods, reels and terminal tackle"
   - "All bait"

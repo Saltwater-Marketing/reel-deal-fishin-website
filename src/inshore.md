@@ -1,7 +1,7 @@
 ---
 layout: trip.njk
 permalink: /inshore.html
-title: "Inshore Fishing Charters | New Smyrna & Daytona Beach | Reel Deal"
+title: "Inshore Fishing Charters in New Smyrna Beach, FL | Reel Deal"
 description: "Light tackle inshore fishing near New Smyrna & Daytona Beach for redfish, snook, sheepshead & trout. Private trips, gear & license included. Book now."
 hero: r-sep-2
 heroAlt: "Guest holding a redfish on a sunny inshore trip near New Smyrna Beach"
@@ -16,14 +16,13 @@ facts:
   - { label: "Group", value: "Private, up to 6 guests" }
 included:
   - "Light tackle rods, reels and all bait"
-  - "Cooler with ice and bottled water"
   - "Fishing license for all passengers"
   - "Fish cleaning and bagging (when legal to keep)"
   - "Hands on help from Capt. Chad"
 bring:
   - "Polarized sunglasses (a must for spotting fish)"
   - "Sunscreen, hat and weather appropriate gear"
-  - "Snacks and drinks"
+  - "Your own food and drinks (no glass)"
   - "Gratuity for your guide (greatly appreciated)"
 priceNote: "From $475 for a 4 hour morning trip, or $575 for an afternoon or 6 hour trip. Prices cover 2 guests, with a small charge for each extra guest up to 6."
 reviewTrips: ["inshore"]
@@ -39,9 +38,7 @@ faq:
 ---
 **Most of our inshore days start with a question: what's the tide doing?** That decides whether we're stalking reds on the flats, working bridge pilings for sheepshead or sitting on the inlet rocks waiting for the incoming push.
 
-We fish the Indian River Lagoon, Mosquito Lagoon and the New Smyrna inlet out of a 22' Sundance skiff that runs shallow and quiet. Light tackle, live bait and short runs. No crowds, just your group and Capt. Chad.
-
-<!-- CHAD: add one or two lines in his words on a typical inshore morning (where he starts, what he looks for). -->
+We fish the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce Inlet out of a 22' Sundance skiff that runs shallow and quiet. Light tackle, live bait and short runs, with just your group and Capt. Chad on board.
 
 <h2 id="redfish">Redfish</h2>
 
@@ -57,7 +54,7 @@ See [our redfish charters](/redfish) for where they are through the year and how
 
 Snook are the fish that make people come back. They hold tight to bridges, docks, mangrove roots and deeper edges, and when they eat, it's fast.
 
-From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. In May 2026 the bridges produced multiple trophy class snook, and the night bite under the dock lights was some of the most consistent fishing we'd seen ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
+From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. In May 2026 the bridges produced multiple trophy class snook, and the night bite under the dock lights was some of the most consistent fishing we'd seen ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). The night bite carries into fall: in early November 2026 the snook were on fire after dark, and a young angler outfished the grown-ups. Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
 
 <h2 id="sheepshead">Sheepshead</h2>
 
@@ -65,11 +62,11 @@ From late April into summer, the bite builds around the bridges. Early mornings 
 
 When the water cools, sheepshead stack up on docks, bridge pilings and rock piles from New Smyrna Beach to the Port Orange bridges. Live shrimp and fiddler crabs dropped straight down tight to the structure do the work.
 
-Their bite is a light tap, then weight. Watch your line, not just the rod tip. It's simple, steady fishing that kids pick up fast, and March 2026 put multiple limits over the rail ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)). Winter through early spring is peak, and the fillets are some of the best eating in the lagoon.
+Their bite is a light tap, then weight. Watch your line, not just the rod tip. It's simple, steady fishing that kids pick up fast, and March 2026 put multiple limits over the rail, including one crew's 3 man limit ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)). Winter through early spring is peak, and the fillets are some of the best eating in the lagoon.
 
 <h2 id="flounder">Trout, Black Drum and Flounder</h2>
 
-**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season.
+**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season. Bigger ones show up just off the beach in summer: doormat flounder came over the rail on [nearshore trips](/nearshore) in July 2026.
 
 ## When to Book Inshore
 
@@ -80,4 +77,4 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 
 Staying in Daytona? See our [Daytona Beach fishing charters](/daytona-beach).
 
-Want more pull? Step up to [nearshore or shark fishing](/nearshore) just off the beach.
+Want more pull? Step up to [nearshore fishing](/nearshore) or a [shark trip](/shark-fishing) just off the beach.

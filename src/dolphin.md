@@ -1,13 +1,13 @@
 ---
 layout: trip.njk
 permalink: /dolphin.html
-title: "Dolphin, Manatee & Bioluminescence Tours | New Smyrna Beach | Reel Deal"
-description: "Private dolphin & manatee tours on the Indian River Lagoon near New Smyrna Beach, plus seasonal bioluminescence night tours. Calm water, great for kids."
+title: "Dolphin & Manatee Tours in New Smyrna Beach | Reel Deal"
+description: "Private 2 hour dolphin & manatee tours on the Indian River Lagoon from New Smyrna Beach, $375 for up to 6, plus seasonal bioluminescence tours. Book now."
 hero: dolphin-a
 heroAlt: "Bottlenose dolphin surfacing in clear water"
 eyebrow: "Private eco tours"
 h1: "Dolphin, Manatee & Bioluminescence Tours in New Smyrna Beach, FL"
-subhead: "Slow cruises on the Indian River Lagoon, by day or after dark"
+subhead: "Two slow hours on the Indian River Lagoon with Capt. Chad"
 book: "https://book.vallypro.com/p/reel-deal-fishin/trips/681800f232a124647065cd08"
 sideImg: boat
 sideAlt: "The Reel Deal 22 foot Sundance skiff on calm, clear water"
@@ -30,9 +30,9 @@ included:
 bring:
   - "Camera or smartphone"
   - "Sunscreen and a hat by day, bug spray and a light layer at night"
-  - "Snacks and drinks (no glass)"
+  - "Your own snacks and drinks (no glass)"
 priceNote: "The dolphin and manatee tour is $375 for your whole group (up to 6). Extra time can be added up to 24 hours before your trip."
-reviewTrips: ["dolphin", "inshore"]
+reviewIds: ["color-in-the-water", "darla-m"]
 reviewsTitle: "What Guests Say"
 faq:
   - { q: "Can we book a sightseeing only trip?", a: "Yes. These tours are for guests who want to be on the water without fishing." }
@@ -41,18 +41,18 @@ faq:
   - { q: "Is the glow guaranteed?", a: "It's nature, so brightness changes night to night with water temperature and moonlight. Capt. Chad will tell you what to expect for your date." }
   - { q: "Are these tours good for kids?", a: "Yes. We cruise slowly in calm, shallow water, and life jackets sized for adults and children are on board." }
 ---
-**Forget the theme parks. This is the real Florida.** The Indian River Lagoon is one of the most biodiverse estuaries in North America, and the slow way through it is the best way to meet its most famous residents.
+Not every trip needs a rod. Our dolphin and manatee tour is a private, 2 hour cruise on the Indian River Lagoon that leaves at 9:00 AM. $375 covers your whole group, up to 6 guests, and you can add extra time up to 24 hours before your trip.
+
+Dolphins show up on plenty of our fishing trips too. One mom of four boys wrote that when Capt. Chad saw how much they loved them, “he switched things up and we went dolphin "chasing", to see them play and jump.”
 
 ## Dolphin & Manatee Tour
 
-A 2 hour cruise starting at 9:00 AM. We go slow and stay shallow for a front row seat to leaping dolphins, gliding manatees and the occasional bald eagle overhead, without disturbing their natural rhythm. Want longer? Extra time can be added up to 24 hours before your trip.
-
-<p class="btns"><a class="btn btn--red" href="https://book.vallypro.com/p/reel-deal-fishin/trips/681800f232a124647065cd08" target="_blank" rel="noopener">Book the Dolphin Tour</a></p>
+We go slow and stay shallow for a front row seat to leaping dolphins, gliding manatees and the occasional bald eagle overhead, without disturbing their natural rhythm. Sightings are never guaranteed, but dolphins are often part of the scenery here, and Capt. Chad knows where to look.
 
 <h2 id="bioluminescence">Bioluminescence Tours (Seasonal)</h2>
 
 When the water is warm and the glow is on, Capt. Chad runs night tours through the quiet backwaters. We launch at twilight, and every splash and wake lights up electric blue. The glow comes from microscopic plankton called dinoflagellates that shimmer when the water is stirred.
 
-These tours only run at certain times of year, mostly summer into early fall, on nights when conditions are right. **Call or text Capt. Chad at [(386) 853-4814](tel:+13868534814) to ask about upcoming glow nights.**
+Capt. Chad only runs glow tours at certain times of year, on nights when conditions are right. **Call or text Capt. Chad at [(386) 853-4814](tel:+13868534814) to ask about upcoming glow nights.**
 
 Want to catch a few too? An [inshore fishing trip](/inshore) runs in the same calm lagoon water.
