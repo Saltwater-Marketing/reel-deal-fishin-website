@@ -27,7 +27,7 @@ hero: day-a
         <div class="card__body">
           <h2 style="font-size:1.6rem"><a href="{{ t.url }}" style="text-decoration:none;color:inherit">{{ t.name }}</a></h2>
           {% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
-          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More<span class="sr-only"> about {{ t.name }}</span></a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
         </div>
       </article>
       {%- endfor %}

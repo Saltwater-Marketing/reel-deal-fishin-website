@@ -1,3 +1,5 @@
+import fs from "node:fs";
+const sizes = JSON.parse(fs.readFileSync("src/_data/imgsizes.json", "utf8"));
 export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/images");
   eleventyConfig.addPassthroughCopy("src/assets");
@@ -23,6 +25,18 @@ export default function (eleventyConfig) {
   eleventyConfig.addFilter("reviewsByTrip", (quotes, trip, n) =>
     quotes.filter((q) => q.trip === trip).slice(0, n || 99)
   );
+
+  // Phones get the 800px copy of each large photo (src/images/NAME-800.webp, made by scripts/make-image-variants.py)
+  eleventyConfig.addTransform("responsive-images", function (content) {
+    if (!(this.page.outputPath || "").endsWith(".html")) return content;
+    return content.replace(/<img\b([^>]*?)\bsrc="\/images\/([a-z0-9-]+)\.webp"([^>]*)>/g, (tag, pre, name, post) => {
+      if (/srcset=/.test(tag) || name.endsWith("-800") || !fs.existsSync(`src/images/${name}-800.webp`)) return tag;
+      const w = (sizes[name] || [])[0];
+      if (!w) return tag;
+      const sz = /hero__img/.test(tag) ? "100vw" : "(max-width: 900px) 100vw, 600px";
+      return `<img${pre}src="/images/${name}.webp" srcset="/images/${name}-800.webp 800w, /images/${name}.webp ${w}w" sizes="${sz}"${post}>`;
+    });
+  });
 
   eleventyConfig.addCollection("reports", (api) =>
     api.getFilteredByGlob("src/fishing-reports/*.md").sort((a, b) => b.date - a.date)

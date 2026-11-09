@@ -61,7 +61,7 @@ schema:
         <div class="card__body">
           <h3><a href="{{ t.url }}">{{ t.name }}</a></h3>
           {% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
-          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More<span class="sr-only"> about {{ t.name }}</span></a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
         </div>
       </article>
       {%- endfor %}
@@ -131,7 +131,7 @@ schema:
     </div>
     <div class="split__media split__media--video">
       <a class="vthumb" href="https://www.fox35orlando.com/news/why-millions-leaping-fish-jumping-florida-boats" target="_blank" rel="noopener" aria-label="Watch the FOX 35 Orlando video about the mullet run (opens FOX 35)">
-        <img src="/images/fox35-mullet-run.webp" alt="Mullet leaping out of the water beside a boat during the fall run, from the FOX 35 Orlando story" width="1200" height="630" loading="lazy">
+        <img src="/images/fox35-mullet-cover.webp" alt="FOX 35 Orlando Mullet Mayhem story, showing mullet in Capt. Chad Knight's boat (video source: Chad Knight)" width="1526" height="866" loading="lazy">
         <span class="vthumb__play" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="M8 5v14l11-7z"/></svg></span>
         <span class="vthumb__label">Watch on FOX 35 Orlando</span>
       </a>
@@ -187,7 +187,7 @@ schema:
       <h2>Private Boat Training</h2>
       <p>Just bought your first boat? Capt. Chad offers one on one training for new and inexperienced boat owners, using your own boat and trailer.</p>
       <p>Learn launching, loading, trailer backing and ramp etiquette at your own pace.</p>
-      <a class="btn btn--navy" href="/charters#boat-training">Learn More</a>
+      <a class="btn btn--navy" href="/charters#boat-training">Learn More<span class="sr-only"> about boat training</span></a>
     </div>
     <div class="split__media"><img src="/images/day-b.webp" alt="Guest holding a snook on the Reel Deal skiff near a bridge" width="800" height="680" loading="lazy"></div>
   </div>

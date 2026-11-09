@@ -95,7 +95,7 @@ layout: base.njk
       <article class="card">
         <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
         <div class="card__body"><h3><a href="{{ t.url }}">{{ t.name }}</a></h3>{% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
-          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book" }}</a></div></div>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More<span class="sr-only"> about {{ t.name }}</span></a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book" }}</a></div></div>
       </article>
       {%- endif %}{% endfor %}
     </div>

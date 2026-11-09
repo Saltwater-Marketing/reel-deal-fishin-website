@@ -304,7 +304,7 @@ ul{padding-left:1.2em}
 
 /* Video thumbnail linking out (FOX 35 story) */
 .vthumb{position:relative;display:block;border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow);text-decoration:none}
-.vthumb img{width:100%;aspect-ratio:1200/630;object-fit:cover;transition:transform .3s}
+.vthumb img{width:100%;aspect-ratio:1526/866;object-fit:cover;transition:transform .3s}
 .vthumb:hover img{transform:scale(1.03)}
 .vthumb__play{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);width:78px;height:78px;border-radius:50%;background:var(--red);display:flex;align-items:center;justify-content:center;box-shadow:0 6px 24px rgba(0,0,0,.35)}
 .vthumb__play svg{width:36px;height:36px;fill:#fff;margin-left:4px}
@@ -312,3 +312,5 @@ ul{padding-left:1.2em}
 .vthumb__credit{font-size:.8rem;margin:8px 0 0}
 .sec--navy .vthumb__credit{color:#fff}
 .split__media--video{align-self:center}
+
+.sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
