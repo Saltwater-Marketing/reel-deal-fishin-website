@@ -25,9 +25,9 @@ The pattern was simple: find structure, fish it slow and be ready, because when 
 
 Around May 19, the bridges with steady current were the place to be. Early mornings with moving water produced, and live bait around the structure and current lines got the best results. When the tide started moving, these fish struck hard and made long runs. That stretch ran from the Indian River Lagoon to spots near Daytona Beach.
 
-Late in May, docks and deeper channel edges gave up several upper slot and oversized snook, including a few absolute tanks that had rods doubled over.
+Late in May, docks and deeper channel edges gave up several upper slot and oversized snook, including a few absolute tanks.
 
-The kids held their own. One young angler handled a solid snook like a pro. Our May photos include a girl holding her snook on the lip grip at dusk and a laughing boy holding up another one on the deck.
+The kids held their own. One young angler handled a solid snook like a pro.
 
 ### **Redfish**
 
@@ -35,7 +35,7 @@ May opened with a family down from Canada, fishing these waters for the first ti
 
 They got into multiple quality reds, and a couple of those fish made them earn it with strong runs. There were a few "no way!" moments on the boat that day.
 
-Through the rest of the month, quality redfish showed up trip after trip. Clean water around the inlet kept the bite consistent, especially early before the afternoon storms built. One May red came up with the beach and condos right behind the boat.
+Through the rest of the month, quality redfish showed up trip after trip. Clean water around the inlet kept the bite consistent, especially early before the afternoon storms built.
 
 ### **Sharks**
 

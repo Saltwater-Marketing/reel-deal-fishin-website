@@ -16,13 +16,11 @@ cta: "Calm summer mornings are when the nearshore flounder and the beach sharks 
 <!-- Structure: monthly roundup grouped by trip type. Sources: Jul 3 nearshore post, Jul 13 post, Jul 21 shark post, Jul 23 post, Jul 29 post, Ricky C. (Facebook, Jul 6) and Cherie L. (Captain Experiences, Jul 25) reviews, Malissa C. (Jul 15) FishingBooker excerpt (quoted words only), photos r-jul-1, 5, 7, 9. Offshore red snapper kept to one line; r-jul-3 snapper photo removed. -->
 A few true doormat flounder came up during the first week of July, along with giant sand trout and plenty of whiting and croaker. Calm seas let us fish just off the beach, and it was some of the best nearshore fishing we'd seen in quite a while.
 
-Calm mornings, clean water and plenty of bait held up through most of the month. Here's how July broke down, trip by trip.
+Calm mornings, clean water and plenty of bait held up through most of the month, on all three kinds of trips.
 
 ### **Nearshore Trips**
 
 **Flounder** stayed the headline. Around July 23 we boxed several more quality flounder with some nice whiting, plenty for dinner. In the final days of July, flounder were holding on sandy bottom and around structure.
-
-One July photo has a flatfish hanging from the lip grip with nothing but open water behind the boat.
 
 On the nearshore reefs, **bonito** crashed baits and put on a show with fast runs. **Kingfish** added some exciting runs late in the month.
 
@@ -36,13 +34,13 @@ Cherie L., Captain Experiences, after a nearshore trip: "We loved Captain Chad! 
 
 Mid month, several hard fighting sharks made long runs, and more than once a big one showed up under the boat before peeling off again. By the July 23 weekend, **Atlantic sharpnose** were the ones keeping crews busy, a good match for kids since they punch well above their weight.
 
-Families and first time shark anglers were in on it all month. Our July photos include two teenagers and an adult holding up two sharks, and an angler grinning with his shark while another angler smiles behind him. See our [shark fishing charters](/shark-fishing).
+Families and first time shark anglers were in on it all month. See our [shark fishing charters](/shark-fishing).
 
 ### **Inshore Trips**
 
 **Sheepshead** kept biting at the bridges late in the month, steady action and good table fare for families and younger anglers.
 
-**Snook** improved as the month went on. Live bait around the bridges, docks and the inlet produced several quality fish, and the changing tides kept them feeding. In one photo, a snook gets held up while two young anglers keep fishing behind him.
+**Snook** improved as the month went on. Live bait around the bridges, docks and the inlet produced several quality fish, and the changing tides kept them feeding.
 
 Inshore **flounder** were still around too.
 

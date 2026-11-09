@@ -15,7 +15,7 @@ cta: "Shark trip, snook trip or some of both? Call or text Capt. Chad, tell him 
 <!-- Structure: questions customers ask. Sources: Jun 2 shark post, Jun 8 summer post, Jun 16 inshore and nearshore post, Jun 27 snook and redfish post, Keith M. (Captain Experiences, Jun 1) review, John G. (Jun 22) and Eric E. (Jun 26) FishingBooker excerpts (quoted words only), photos r-jun-1, 3, 5, 7, 8. -->
 When Keith M. booked, he told Capt. Chad he was bringing three boys, ages 8, 10 and 15. Chad asked the boys if they'd like to shark fish, and in Keith's words, "of course they said yes."
 
-Can kids handle a shark trip? That question and a few others about June are answered below, straight from the month's trips.
+Here are the questions we heard most in June, answered from the month's trips.
 
 ### **Are the sharks here yet?**
 
@@ -29,8 +29,6 @@ They did all month. Several young anglers caught their first shark, and some bat
 
 Keith M., Captain Experiences: "He was great and patient with them helping with bait and tangles. He put us on the fish quickly."
 
-One June photo has four young anglers holding one shark on the boat at the dock. Another has a teenager grinning with his shark out on open water.
-
 ### **Is the snook bite worth an early start?**
 
 Early or late. **Snook** fed inside the inlet and around the bridges in the early morning and evening hours, and several quality fish tested both anglers and tackle.
@@ -39,7 +37,7 @@ By the last week of June we'd landed several trophy class snook around Ponce Inl
 
 ### **What else is biting?**
 
-**Redfish** held tight to structure and kept eating. Late in the month both slot fish and oversized bulls showed up, best around moving water and the tide changes, and patient anglers got the quality fish. Kids landed personal best reds. One of our June redfish photos has a teenager in a New Smyrna Beach shirt with the lighthouse on the far shore behind him.
+**Redfish** held tight to structure and kept eating. Late in the month both slot fish and oversized bulls showed up, best around moving water and the tide changes, and patient anglers got the quality fish. Kids landed personal best reds.
 
 **Tarpon** gave us one of the most memorable catches of the month: a fish that put on a full aerial show before coming boatside. They were moving through in mid June.
 

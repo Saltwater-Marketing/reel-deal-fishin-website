@@ -13,15 +13,15 @@ related:
 cta: "Inlet reds want the incoming tide and drum want a calm, clear day. Tell Capt. Chad which one you're after and he'll pick the window."
 ---
 <!-- Structure: trip story. Sources: Jan 5 inlet redfish post, Jan 15 black drum post, Roger B. FishingBooker review (Jan 24, nearshore AM trip), photos r-jan-1, r-jan-2, r-jan-3. -->
-Early January at the inlet meant hoods up under ball caps and slot reds holding tight to the rocks. In the photo up top, one of our anglers holds his fish up on the lip grip while another rides it out bundled in the back of the boat.
+Incoming tide, every time. The first week of January, the slot reds at the inlet slowed down at slack and fired up fast once the current turned back on.
 
-The redfish stayed steady through the start of the month, and the trips there showed us exactly what they wanted.
+They stayed steady through the start of the month, and the trips there showed us exactly what they wanted.
 
 ### **What the Inlet Told Us**
 
 Slot reds held tight to structure: the rock edges, the current breaks and the deeper cuts. As the incoming tide pushed in, they slid up against the rocks and ambushed bait getting swept through.
 
-Incoming tide was the clear winner, early in the morning and again late in the afternoon. Slack tide was slower, and once the current turned back on, the bite fired up fast.
+Early morning and late afternoon incoming tides were the windows.
 
 Live finger mullet and large live shrimp got the most consistent bites. We fished them close to the rocks and let the current do the work, because these reds weren't chasing far.
 
@@ -34,8 +34,6 @@ Back inside, the black drum bite was steady and dependable through the middle of
 We looked for darker patches sliding over sand or mud bottom, made a quiet approach and dropped live bait just ahead of the school. Incoming and outgoing both produced, as long as there was enough flow to stir up the bottom.
 
 Clear water and light wind made them easier to spot early. On light tackle they pull hard and stay tight to the bottom once hooked.
-
-Two of the month's photos show the size of them: anglers on the boat under a bridge, high rise towers across the water, each holding up a big black drum.
 
 ### **A Nearshore Morning with Capt. Falon**
 

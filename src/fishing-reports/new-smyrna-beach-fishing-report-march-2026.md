@@ -22,7 +22,7 @@ March was a sheepshead month around New Smyrna Beach and Port Orange. Here's wha
 
 On the bridges, docks and other structure around New Smyrna Beach and nearby Port Orange, in the Indian River Lagoon and the backwaters. Bridge pilings and dock pilings did most of the work.
 
-Multiple limits came over the rail this month, with plenty of solid keepers. The photos tell it: two anglers on the dock holding up sheepshead over a full spread, a crew of five at golden hour with a pelican floating behind them, and four more at sunset with their spread on the dock.
+Multiple limits came over the rail this month, with plenty of solid keepers.
 
 ### **What are they eating?**
 
@@ -39,8 +39,6 @@ Fishing tight to structure means some snags. Chaland L. came out with a group of
 ### **Will my kids stay busy?**
 
 That's what this bite is good at. It's hands on fishing without long waits between bites, and early in the month a family trip had the kids take over the rods and reel in fish one after another.
-
-In one photo a girl in braids holds up her sheepshead in a towel while the angler beside her keeps fishing. In another, a boy on the bow lets out a yell with a black drum across his lap.
 
 Families, groups of friends and first timers all got in on it. Todd B. fished with his dad: "My father and I went out with Chad and had a excellent fishing trip." (Todd B., Google) And from Sydney H.: "I was treated with great care and had so much fun! I felt safe and had a blast!" (Sydney H., Google)
 

@@ -12,23 +12,21 @@ related:
 cta: "Rods, reels, bait and tackle are on the boat. Bring your crew, then call or text Capt. Chad at (386) 853-4814 to pick a morning."
 ---
 <!-- Structure: species rundown. Sources: Oct 21 post; photos r-oct-1 to r-oct-3. No reviews dated October. Thin month: one post, so the report stays short. -->
-A black drum, held up by a young angler in a light blue hoodie with a bridge span right behind the boat, sums up October's variety. The oversized redfish still did most of the talking.
+With a big red, you never know how big it is until it comes alongside the boat. October handed out a lot of those surprises around New Smyrna Beach and Daytona Beach.
 
 ### **Oversized Redfish**
 
-Reds were the main story. We landed beautiful oversized fish around New Smyrna Beach and Daytona Beach, and guests got a real feel for how much power these fish have.
-
-With a big red, you never know how big it is until it comes alongside the boat. In the photo at the top, two anglers hold up a pair of big reds on flat calm water under a clear sky.
+Reds were the main story, and they were beautiful oversized fish. Guests got a real feel for how much power one of these has on the way to the boat.
 
 Family trips had kids and adults both getting in on it.
 
 ### **Black Drum**
 
-Black drum made appearances throughout our local waters and added real variety to the inshore trips. The one under the bridge is in the photos below.
+Black drum made appearances throughout our local waters and added real variety to the inshore trips.
 
 ### **Snook**
 
-We had chances at snook too. One guest in the photos holds a snook while the angler next to her holds two redfish, with sailboats at anchor behind them.
+We had chances at snook too, mixed in with the reds.
 
 Night trips run for snook and other local species after dark, if your crew wants to try the water at night.
 

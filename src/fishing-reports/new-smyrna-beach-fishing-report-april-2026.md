@@ -14,13 +14,11 @@ cta: "Snook want low light and the inlet reds want moving water. Call or text Ca
 <!-- Structure: trip story. Sources: Apr 29 redfish family trip post, Apr 25 snook post, Sean M. (Facebook, Apr 3) and Michael S. (Captain Experiences, Apr 9) reviews, photos r-apr-1 to r-apr-4. Thin month: two posts, kept tight. -->
 Two little boys, one lip grip, one redfish. Early in a late April trip around the New Smyrna Beach inlet, our youngest angler teamed up and put a red in the boat that was just about his size.
 
-You could see it on his face from start to finish.
-
 ### **The Redfish Trip**
 
 We stayed in the New Smyrna Beach area and worked around the inlet, and the reds held steady the whole way. Calm water helped, and the action never really let up.
 
-Dad got his turn too and landed a solid redfish of his own. One of our April photos shows two grown men, two small boys and two reds on the deck at once.
+Dad got his turn too and landed a solid redfish of his own.
 
 ### **What It Told Us About the Bite**
 
@@ -37,8 +35,6 @@ Late in the month, snook were the headline. Early mornings and the last light be
 When they flipped the switch, it got fast. Live bait got crushed almost instantly around docks, mangroves and deeper cuts. For anyone throwing artificials, hitting that low light window was what drew the reaction bites.
 
 We worked the Indian River and nearby backwaters, kept things quiet and picked apart the ambush points. Clean water, steady bait and just enough current made the difference.
-
-One of our April snook came up at dusk with the shore lights already reflecting on the water. In another photo, a young angler holds his snook up with a drawbridge right behind the boat.
 
 ### **Heading Into May**
 

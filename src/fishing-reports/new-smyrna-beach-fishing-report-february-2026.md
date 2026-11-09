@@ -24,8 +24,6 @@ Schools slid through with the flow consistently. Once we found them, the fish we
 
 There wasn't much downtime between hookups. The highlight was seeing the kids get in on it, with fish hitting the deck and no long waits.
 
-The photo up top shows the result: a young angler standing on the cooler with his hands on the T top, and pompano laid out across the deck below him.
-
 ### **Cold Water Turned On the Sheepshead**
 
 The other change was the sheepshead. When the water cools, the crustaceans move in and the sheepshead follow, and this month they were thick around docks, bridges, pilings and rock piles.
@@ -33,8 +31,6 @@ The other change was the sheepshead. When the water cools, the crustaceans move 
 Cooler water pushed them tight to that structure. Slow presentations with natural baits did it: drop straight down, stay patient and be ready, because most bites felt like a light tap before the rod loaded up.
 
 Capt. Chad's tip from the month: watch your line, not just the rod tip. Sheepshead are famous bait thieves, and the ones that get hooked usually eat fast and subtle.
-
-The photos below are from a sheepshead trip with two young anglers. One holds her fish up with the jetty rocks behind her, and the other shows hers off next to a piling covered in barnacles.
 
 ### **For Families and First Timers**
 
