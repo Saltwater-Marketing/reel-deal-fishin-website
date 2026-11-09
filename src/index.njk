@@ -33,17 +33,6 @@ schema:
   </div>
 </section>
 
-<section class="sec sec--sand sec--reviews">
-  <div class="wrap">
-    <div class="sec__head sec__head--center">
-      <p class="eyebrow">Happy customers say it best</p>
-      <h2>What Our Guests Say</h2>
-    </div>
-    {%- set rvItems = reviews.quotes | reviewsByIds(reviews.featured) %}{% include "reviews-block.njk" %}
-    <p style="text-align:center;margin-top:26px"><a href="/reviews"><strong>Read more guest reviews</strong></a></p>
-  </div>
-</section>
-
 <section class="sec">
   <div class="wrap split">
     <div>
@@ -73,11 +62,22 @@ schema:
         <div class="card__body">
           <h3><a href="{{ t.url }}">{{ t.name }}</a></h3>
           <p>{{ t.hook }}</p>
-          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">Book Now</a></div>
+          <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
         </div>
       </article>
       {%- endfor %}
     </div>
+  </div>
+</section>
+
+<section class="sec sec--reviews">
+  <div class="wrap">
+    <div class="sec__head sec__head--center">
+      <p class="eyebrow">Happy customers say it best</p>
+      <h2>What Our Guests Say</h2>
+    </div>
+    {%- set rvItems = reviews.quotes | reviewsByIds(reviews.featured) %}{% include "reviews-block.njk" %}
+    <p style="text-align:center;margin-top:26px"><a href="/reviews"><strong>Read more guest reviews</strong></a></p>
   </div>
 </section>
 
@@ -89,10 +89,16 @@ schema:
       <p>Capt. Chad adjusts each trip to the season, the tides and the bite, not some preset route. One day might mean redfish in the lagoon. The next, kingfish just off the breakers.</p>
     </div>
     <div class="places">
-      <div class="place"><h3>New Smyrna Beach</h3><p>Home base, with fast access to the inlet, the bridges and the nearshore Atlantic.</p></div>
-      <div class="place"><h3>Indian River Lagoon</h3><p>Calm backwaters for redfish, trout, snook, dolphins and the glow.</p></div>
-      <div class="place"><h3>Mosquito Lagoon</h3><p>Skinny water flats known for sight fishing.</p></div>
-      <div class="place"><h3><a href="/inshore#daytona-beach">Daytona Beach</a></h3><p>A short drive away. Private inshore and nearshore trips for Daytona visitors.</p></div>
+      {%- for pl in places %}
+      <div class="place">
+        <img src="/images/{{ pl.img }}.webp" alt="{{ pl.alt }}" width="800" height="600" loading="lazy">
+        <div class="place__body">
+          <h3>{% if pl.url %}<a href="{{ pl.url }}">{{ pl.name }}</a>{% else %}{{ pl.name }}{% endif %}</h3>
+          <p>{{ pl.text }}</p>
+          <p class="place__credit">Photo: {% if pl.creditUrl %}<a href="{{ pl.creditUrl }}" target="_blank" rel="noopener">{{ pl.credit }}</a>{% else %}{{ pl.credit }}{% endif %}{% if pl.license %}, <a href="{{ pl.licenseUrl }}" target="_blank" rel="noopener">{{ pl.license }}</a>, cropped{% endif %}</p>
+        </div>
+      </div>
+      {%- endfor %}
     </div>
     <p style="margin-top:30px"><strong>Common targets:</strong> redfish, trout, snook and flounder &middot; tarpon, kingfish, cobia and sharks &middot; sheepshead, black drum, mullet and blue crabs.</p>
   </div>
@@ -157,14 +163,15 @@ schema:
   </div>
 </section>
 
-<section class="sec sec--navy">
-  <div class="wrap split split--single">
+<section class="sec sec--sand">
+  <div class="wrap split">
     <div>
       <p class="eyebrow">Something different</p>
       <h2>Private Boat Training</h2>
       <p>Just bought your first boat? Capt. Chad offers one on one training for new and inexperienced boat owners, using your own boat and trailer.</p>
       <p>Learn launching, loading, trailer backing and ramp etiquette at your own pace.</p>
-      <a class="btn btn--red" href="/charters#boat-training">Learn More</a>
+      <a class="btn btn--navy" href="/charters#boat-training">Learn More</a>
     </div>
+    <div class="split__media"><img src="/images/boat.webp" alt="The Reel Deal 22 foot Sundance skiff on calm, clear water" width="958" height="960" loading="lazy"></div>
   </div>
 </section>

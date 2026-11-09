@@ -155,7 +155,12 @@ ul{padding-left:1.2em}
 
 /* Where we fish */
 .places{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}
-.place{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.25);border-radius:12px;padding:22px}
+.place{background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.25);border-radius:12px;overflow:hidden;display:flex;flex-direction:column}
+.place img{width:100%;aspect-ratio:4/3;object-fit:cover}
+.place__body{padding:20px 22px 18px;display:flex;flex-direction:column;flex:1}
+.place h3 a{color:#fff}
+.place p.place__credit{margin-top:auto;padding-top:14px;font-size:.78rem;line-height:1.4}
+.place__credit a{color:#fff}
 .place h3{color:#fff;font-size:1.5rem}
 .place p{margin:0;color:#fff}
 
