@@ -34,7 +34,7 @@ faq:
   - { q: "Are redfish trips good for kids?", a: "Yes. Kids have landed personal best reds with us, and one 5 year old caught a red about his own size." }
   - { q: "Do you fish for redfish near Daytona Beach?", a: "Yes. We find reds around New Smyrna Beach and Daytona Beach, depending on tides and conditions." }
 ---
-**Redfish are the fish we can count on.** We catch them every month of the year, and some days they're everywhere: on one 4 hour fall morning, we landed 75 redfish.
+**Redfish are the fish we can count on.** We catch them every month of the year, and on a good fall morning they seem to be everywhere.
 
 They feed on the flats, in the creeks, along docks and on the Ponce Inlet rocks. Tides, weather and water conditions decide where each morning starts.
 

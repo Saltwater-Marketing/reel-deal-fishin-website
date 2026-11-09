@@ -44,7 +44,7 @@ We fish the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce In
 
 ![Two anglers holding a redfish on a sunny inshore trip](/images/red-c.webp)
 
-Redfish are the most dependable fish we have, and we catch them every month of the year, from slot reds on the inlet rocks in winter to oversized bulls in late summer and fall. On one 4 hour morning, we landed 75.
+Redfish are the most dependable fish we have, and we catch them every month of the year, from slot reds on the inlet rocks in winter to oversized bulls in late summer and fall.
 
 See [our redfish charters](/redfish) for where they are through the year and how we fish for them.
 
