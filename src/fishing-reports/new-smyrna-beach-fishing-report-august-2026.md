@@ -1,35 +1,48 @@
 ---
 date: 2026-08-12
-title: "Redfish & Snook Report | NSB & Daytona August 2026"
-description: "August 2026 in New Smyrna Beach & Daytona: oversized redfish on the inlet rocks, quality snook and mixed bags of flounder, trout and snapper. Book a trip."
-h1: "Oversized Redfish & Snook Fishing Report: New Smyrna Beach Inlet & Daytona, FL | August 2026"
+title: "Redfish, Snook & Flounder Report | NSB Inlet August 2026"
+description: "August 2026 in New Smyrna Beach: oversized reds running the inlet rocks at first light, excellent snook and flounder in the Indian River Lagoon. Book a trip."
+h1: "Oversized Redfish, Snook & Flounder Fishing Report: New Smyrna Beach Inlet & Indian River Lagoon, FL | August 2026"
 hero: r-aug-1
-heroAlt: "Reel Deal Fishin' trip photo, August 2026"
-photos: [r-aug-2, r-aug-3, r-aug-4]
+heroAlt: "Reel Deal Fishin' guest holding a redfish on the boat with other boats behind, August 2026"
+photos: [r-aug-3, r-aug-2, r-aug-4]
 related:
-  - { label: "Redfish and snook inshore", url: "/redfish" }
-  - { label: "Daytona Beach charters", url: "/daytona-beach" }
-cta: "August mornings are made for inshore trips. Book online or call Capt. Chad to grab a date."
+  - { label: "Redfish fishing inshore", url: "/redfish" }
+  - { label: "Inshore trips for flounder, trout and snapper", url: "/inshore" }
+  - { label: "Shark fishing trips", url: "/shark-fishing" }
+cta: "Want a shot at an inlet red? Ask Capt. Chad for an early start, and tell him whether your crew is after one big fish or a cooler of fillets."
 ---
-<!-- Structure: questions customers ask. Sources: Aug 7 and Aug 12 posts. -->
-Oversized redfish made long, hard runs along the rocks at the inlet in early August, and snook kept testing guests inshore all month. These were the questions we heard most on the boat.
+<!-- Structure: what changed. Sources: Aug 7 and Aug 12 posts; Jul 3, 13, 21 and 29 posts for the July comparison; Ellen M. review (Captain Experiences, 2026-08-18); photos r-aug-1 to r-aug-4. -->
+Several guests this month hooked oversized redfish that made long, hard runs right along the rocks at the inlet. In July our biggest reds came after dark around docks and bridges. In August the best shots at them came in the early morning hours and low light.
 
-### **What's biting best?**
+### **Redfish**
 
-**Redfish** and **snook**. We put several guests on oversized reds around the inlet and nearshore, with quality snook mixed in. Inshore, reds ranged from solid slot fish to bigger fish, and the snook bite was excellent.
+The inlet and nearshore bite was the most exciting fishing of the month. That's where the oversized reds were.
 
-### **When should we go?**
+Inside, the reds ran from solid slot fish up to bigger ones. The photo at the top is one of them, held up on the boat with a couple of other boats nearby.
 
-Early. The early morning hours and low light gave us the best shots at the big fish.
+### **Flounder, Trout and Mangrove Snapper**
 
-### **Can we bring fish home for dinner?**
+The flounder were the clearest shift. July's best flounder came nearshore, including a few true doormats. In August, flounder showed up in solid numbers inside the Indian River Lagoon.
 
-Yes, when the species is in season. Inside the Indian River Lagoon, flounder showed up in solid numbers, and we put together nice mixed bags of flounder, trout and mangrove snapper. Some trips chased one trophy fish; others were all about filling the cooler.
+That turned a lot of trips into mixed bags of flounder, trout and mangrove snapper, with enough fish to keep the cooler looking good. One crew of two adults and four kids lined up behind a cooler with a redfish, a flounder and a row of smaller fish laid across the lid.
 
-### **Is August good for kids and first timers?**
+### **Snook**
 
-It was one of the best parts of the month. Families, couples and first time anglers all had success, whether that meant a first fish, a first redfish or a first big snook.
+Snook kept getting better through July, and by August the bite was excellent. Quality fish came boatside on our inshore trips and put guests to the test, and a few more mixed in with the reds at the inlet.
 
-### **Do you fish near Daytona?**
+In the photos below, one guest holds a big snook on the bow in low light, and another shows off his back at the docks.
 
-Yes. We fish the inshore waters around Daytona Beach and New Smyrna Beach and the Indian River Lagoon. See our [Daytona Beach charters](/daytona-beach).
+A variety of other inshore fish filled in around them, depending on the day and conditions.
+
+### **Sharks**
+
+The shark trips kept going too. Ellen M. reviewed hers on August 18: "Captain Chad was absolutely amazing! We caught a bunch of fish and 3 sharks! It was so much fun, definitely would do this again with Captain Chad!" (Captain Experiences)
+
+### **Booking From Here**
+
+Go early. The early morning hours and low light gave us the best opportunities at the big redfish and snook.
+
+Decide what your crew is after. Some August trips chased one trophy fish, while others were all about filling the cooler with fresh fish for dinner.
+
+Families, couples and first time anglers all had success this month, from a first fish to a first redfish to a first big snook.

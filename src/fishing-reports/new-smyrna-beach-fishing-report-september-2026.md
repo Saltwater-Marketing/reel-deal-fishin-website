@@ -1,32 +1,46 @@
 ---
 date: 2026-09-18
-title: "Redfish, Snook & Gigging Report | NSB September 2026"
-description: "September 2026 in New Smyrna Beach: redfish from slot to oversized, bigger snook mixed in and solid nighttime flounder gigging. Book with Capt. Chad Knight."
-h1: "Redfish, Snook & Flounder Gigging Report: New Smyrna Beach & Mosquito Lagoon, FL | September 2026"
-hero: r-sep-1
-heroAlt: "Reel Deal Fishin' trip photo, September 2026"
-photos: [r-gig-1, r-sep-2, r-sep-3, r-gig-3]
+title: "Redfish, Snook & Mullet Run Report | NSB September 2026"
+description: "September 2026 in New Smyrna Beach: slot to oversized redfish in the backwaters and creeks, bigger snook and the fall mullet run at Ponce Inlet. Book a trip."
+h1: "Redfish & Snook Fishing Report: New Smyrna Beach Backwaters, Creeks & the Fall Mullet Run, FL | September 2026"
+hero: r-sep-3
+heroAlt: "Three Reel Deal Fishin' guests each holding a redfish on the boat, September 2026"
+photos: [r-sep-1, r-sep-2]
 related:
   - { label: "Redfish fishing inshore", url: "/redfish" }
-cta: "Fall fishing is just getting started. Call Capt. Chad at (386) 853-4814."
+  - { label: "Inshore trips around New Smyrna Beach", url: "/inshore" }
+  - { label: "Capt. Chad on FOX 35: the mullet run", url: "/post/annual-mullet-migration-fuels-fishing-frenzy-along-central-florida-coast" }
+cta: "The reds were pulling hard in the backwaters all September. Call or text Capt. Chad at (386) 853-4814 and he'll adjust the day to the conditions and your crew."
 ---
-<!-- Structure: what changed. Sources: Sep 7 gigging post, Sep 8 redfish and snook post, Sep 18 redfish post. Sep 21 mullet news post not used (no captain detail). -->
-The shift out of summer showed up in September. Redfish took over as the main event in the backwaters and creeks, from smaller slot reds up to oversized fish, and multiple hookups in a single trip were common.
+<!-- Structure: trip story. Sources: Sep 7 gigging post, Sep 9 redfish and snook post, Sep 18 redfish post; FOX 35 story (Sep 14, 2026) with Chad's quotes; photos r-sep-1 to r-sep-3. No reviews dated September. -->
+Jetty rocks off to one side, a red lighthouse on the horizon, and a redfish in every hand as two girls and two adults lined up across the front of the boat.
 
-### **Redfish Took the Lead**
+That photo is September in short. Multiple hookups on a single trip were common, which gave everyone on board a shot at a bent rod.
 
-We found beautiful reds in the backwaters, creeks and inshore waters around New Smyrna Beach and Daytona Beach. Tides, weather and water conditions decided where each morning started, and we stayed on fish all month.
+### **Redfish**
 
-The Indian River Lagoon and Mosquito Lagoon kept offering variety on top of the reds.
+The reds ran from smaller slot fish up to some genuinely oversized fish. We found them in the backwaters, the creeks and the inshore waters around New Smyrna Beach and Daytona Beach.
 
-### **Snook Hung Around**
+Every morning started a little differently. Tides, weather and water conditions decided where we began and how we fished, and we stayed on the fish through the month.
 
-Snook mixed in with the redfish action, including some bigger fish. A quiet morning can turn into one to remember with a single strike.
+Nothing beat watching a first time angler or one of the kids feel that first big run. One young angler in the photos below holds up his red with high rises on the shoreline behind him. In the photo at the top, three anglers each hold a red, one of them hanging from a lip gripper.
 
-### **Gigging Nights Produced**
+### **The Mullet Run**
 
-When the sun went down, the flounder cooperated. Our nighttime gigging trips produced solid catches through the month, with plenty of fish headed home for the dinner table.
+On September 14, FOX 35 Orlando reported on the fall mullet run from the Indian River Lagoon and talked with Capt. Chad. He told them snook and tarpon were crowding the mullet schools, forcing the mullet to jump right into boats at Ponce Inlet.
 
-### **What It Means for Fall**
+His take: it "makes fishing phenomenal right now." You don't even need a boat to see it, either. People can watch from the elevated piers "up and down the coast really." [Read the full story here](/post/annual-mullet-migration-fuels-fishing-frenzy-along-central-florida-coast).
 
-Fall is one of our favorite times to fish these waters. As the season turns, the inshore bite brings more chances at redfish, flounder and black drum. Great for families, first timers and anglers chasing a personal best.
+### **Snook**
+
+Snook mixed in with the redfish action, including some bigger fish. A quiet morning can turn with a single strike.
+
+With plenty of bait around the area early in the month, we expected the redfish and snook bite to stay productive, and the reds held up their end.
+
+### **Flounder**
+
+After dark, our nighttime gigging trips ran through September. The flounder cooperated, with solid catches and plenty of fish headed home for the dinner table.
+
+### **Heading Into October**
+
+By September 18, Capt. Chad was looking ahead to fall, when the inshore bite brings chances at redfish, flounder and black drum. The Indian River Lagoon and Mosquito Lagoon kept giving us variety on top of the reds, so expect a mixed bag along with them.
