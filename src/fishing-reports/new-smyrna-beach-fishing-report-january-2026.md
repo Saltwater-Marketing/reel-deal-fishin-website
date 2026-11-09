@@ -1,39 +1,48 @@
 ---
 date: 2026-01-14
 title: "Inlet Redfish & Black Drum Report | NSB January 2026"
-description: "January 2026 in New Smyrna Beach: slot redfish on the inlet rocks on the incoming tide and black drum tailing on shallow flats. Book with Capt. Chad Knight."
+description: "January 2026 in New Smyrna Beach: slot redfish on the inlet rocks on the incoming tide, black drum tailing on the flats and a nearshore trip with Capt. Falon."
 h1: "Inlet Redfish & Black Drum Fishing Report: New Smyrna Beach, FL | January 2026"
 hero: r-jan-1
-heroAlt: "Redfish caught at the New Smyrna Beach inlet in January"
+heroAlt: "Angler in a hooded winter jacket holding up a fish near the inlet rocks, red lighthouse on the far shore"
 photos: [r-jan-2, r-jan-3]
 related:
   - { label: "Inlet redfish on inshore trips", url: "/redfish" }
   - { label: "Inshore fishing charters", url: "/inshore" }
-cta: "The inlet reds and flats drum want the right tide. Call Capt. Chad and he'll time your trip to it."
+  - { label: "Nearshore fishing", url: "/nearshore" }
+cta: "Inlet reds want the incoming tide and drum want a calm, clear day. Tell Capt. Chad which one you're after and he'll pick the window."
 ---
-<!-- Structure: questions customers ask. Sources: Jan 5 inlet redfish post, Jan 14 black drum post. -->
-Slot reds spent January holding tight to the inlet rocks and feeding hardest once the incoming tide got moving. Back inside, black drum were cruising the shallows and tailing as they fed. Here's what people asked us most this month.
+<!-- Structure: trip story. Sources: Jan 5 inlet redfish post, Jan 15 black drum post, Roger B. FishingBooker review (Jan 24, nearshore AM trip), photos r-jan-1, r-jan-2, r-jan-3. -->
+Early January at the inlet meant hoods up under ball caps and slot reds holding tight to the rocks. In the photo up top, one of our anglers holds his fish up on the lip grip while another rides it out bundled in the back of the boat.
 
-### **Where are the redfish right now?**
+The redfish stayed steady through the start of the month, and the trips there showed us exactly what they wanted.
 
-In the inlet, set up along the rock edges, current breaks and deeper cuts. As the tide pushes in, reds slide up tight to the rocks and ambush bait getting swept through.
+### **What the Inlet Told Us**
 
-Keeping baits close to structure was the key. These fish weren't chasing far.
+Slot reds held tight to structure: the rock edges, the current breaks and the deeper cuts. As the incoming tide pushed in, they slid up against the rocks and ambushed bait getting swept through.
 
-### **When is the best time to go?**
+Incoming tide was the clear winner, early in the morning and again late in the afternoon. Slack tide was slower, and once the current turned back on, the bite fired up fast.
 
-Incoming tide was the clear winner, especially early mornings and late afternoons. Once the water started moving, the bite usually fired up fast. Slack tide was slower.
+Live finger mullet and large live shrimp got the most consistent bites. We fished them close to the rocks and let the current do the work, because these reds weren't chasing far.
 
-### **What are they eating?**
+Hits came quick and aggressive. Give one any slack and it's gone, and a healthy slot red in that current makes you earn every inch. More on how we fish [redfish at the inlet](/redfish).
 
-Live finger mullet and large live shrimp, fished near the rocks and left to drift with the current. Most hits were aggressive and quick.
+### **Black Drum in the Shallows**
 
-### **What about black drum?**
+Back inside, the black drum bite was steady and dependable through the middle of the month. Calm days and moving tides had schools cruising shallow flats, oyster bars, dock lines and channel edges, rooting and tailing as they fed.
 
-The drum bite was steady and dependable. Schools slid along shallow flats, oyster bars, dock lines and channel edges with the tide, rooting and tailing as they fed. We looked for darker patches moving over sand or mud bottoms, then made a quiet approach with live bait dropped just ahead of the fish.
+We looked for darker patches sliding over sand or mud bottom, made a quiet approach and dropped live bait just ahead of the school. Incoming and outgoing both produced, as long as there was enough flow to stir up the bottom.
 
-Moving water was the key, incoming or outgoing, with clear water and light wind helping us spot them early.
+Clear water and light wind made them easier to spot early. On light tackle they pull hard and stay tight to the bottom once hooked.
 
-### **Is it a good trip for families?**
+Two of the month's photos show the size of them: anglers on the boat under a bridge, high rise towers across the water, each holding up a big black drum.
 
-Yes. The drum bite is shallow, visual and steady, and both fish pull hard on light tackle. The inlet is classic close quarters fishing in strong current, so it suits anglers who want a fight. See [how we fish the inlet for redfish](/redfish).
+### **A Nearshore Morning with Capt. Falon**
+
+Capt. Falon took a pair of anglers out on a nearshore morning trip this month. Roger B. summed it up on FishingBooker: "had a great day captain falon was very friendly and knowledgeable kept us on fish the whole time."
+
+### **Planning Around the Tide**
+
+Both January bites came down to moving water. For the inlet reds, ask for a morning or late afternoon on the incoming tide.
+
+For drum in the shallows, a calm, clear day gives you the best look at them. It's relaxed, visual fishing that suits every skill level.
