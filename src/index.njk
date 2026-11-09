@@ -29,6 +29,17 @@ schema:
     <div class="btns">
       <a class="btn btn--red" href="/charters">See Charters</a>
     </div>
+    <a class="hero__rating" href="{{ site.googleReviews }}" target="_blank" rel="noopener"><span aria-hidden="true">★★★★★</span> {{ reviews.rating }} · {{ reviews.count }}+ Google reviews</a>
+  </div>
+</section>
+
+<section class="sec sec--sand sec--reviews">
+  <div class="wrap">
+    <div class="sec__head sec__head--center">
+      <p class="eyebrow">Happy customers say it best</p>
+      <h2>What Our Guests Say</h2>
+    </div>
+    {%- set limit = 3 %}{% include "reviews-block.njk" %}
   </div>
 </section>
 
@@ -127,17 +138,6 @@ schema:
       <p>Trips depart from New Smyrna Beach, FL.</p>
     </div>
     <div class="split__media"><img src="/images/boat.webp" alt="The Reel Deal 22 foot Sundance skiff on calm, clear water" width="958" height="960" loading="lazy"></div>
-  </div>
-</section>
-
-<section class="sec sec--sand">
-  <div class="wrap">
-    <div class="sec__head sec__head--center">
-      <p class="eyebrow">Happy customers say it best</p>
-      <h2>Read Our Google Reviews</h2>
-      <p>See what families and anglers say about their trips with Capt. Chad.</p>
-      <a class="btn btn--red" href="{{ site.googleReviews }}" target="_blank" rel="noopener">Read All Reviews</a>
-    </div>
   </div>
 </section>
 

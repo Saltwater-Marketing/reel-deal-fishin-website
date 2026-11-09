@@ -1,0 +1,12 @@
+{
+  "_note": "Real Google reviews, copied word for word from the Google reviews widget on the old Wix site (Nov 2026). Update rating and count from Google Maps when they change. Add new quotes from Google only, never write or edit one.",
+  "rating": "5.0",
+  "count": 234,
+  "quotes": [
+    { "name": "Todd B.", "text": "My father and I went out with Chad and had a excellent fishing trip. I recommend Chad. He is very knowledgeable and knows where to go and how to put the fish in the boat. Thanks Chad for an excellent day." },
+    { "name": "Chaland L.", "text": "Captain Chad was excellent! Very friendly and knowledgeable. We had a group of 5 and he was very efficient with getting everyone bait. He also had enough rods to keep us going when lines snapped due to getting snagged up! Definitely recommend!" },
+    { "name": "Sydney H.", "text": "I was treated with great care and had so much fun! I felt safe and had a blast!" },
+    { "name": "David N.", "text": "Had a blast with capt Chad we got are 3 man limit of sheep head. Highly recommend well continue to come back" },
+    { "name": "Erin D.", "text": "Took us right to them. 1 away from limit. Thanks Capt Chad." }
+  ]
+}
