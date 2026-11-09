@@ -1,8 +1,8 @@
 ---
 date: 2026-09-18
-title: "Redfish, Snook & Mullet Run Report | NSB September 2026"
-description: "September 2026 in New Smyrna Beach: slot to oversized redfish in the backwaters and creeks, bigger snook and the fall mullet run at Ponce Inlet. Book a trip."
-h1: "Redfish & Snook Fishing Report: New Smyrna Beach Backwaters, Creeks & the Fall Mullet Run, FL | September 2026"
+title: "Mullet Run, Redfish & Snook Report | NSB September 2026"
+description: "September 2026 in New Smyrna Beach: mullet jumping into boats at Ponce Inlet, slot to oversized reds in the backwaters and creeks, and bigger snook mixed in."
+h1: "Fall Mullet Run, Redfish & Snook Fishing Report: Ponce Inlet & New Smyrna Beach, FL | September 2026"
 hero: r-sep-3
 heroAlt: "Three Reel Deal Fishin' guests each holding a redfish on the boat, September 2026"
 photos: [r-sep-1, r-sep-2]

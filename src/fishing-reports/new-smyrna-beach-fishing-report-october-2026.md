@@ -1,7 +1,7 @@
 ---
 date: 2026-10-21
 title: "Oversized Redfish & Black Drum Report | NSB October 2026"
-description: "October 2026 inshore around New Smyrna Beach, Mosquito Lagoon and the Indian River: oversized redfish, a black drum by the bridge and snook. Book a trip."
+description: "October 2026 around New Smyrna Beach, Mosquito Lagoon and the Indian River: oversized redfish all month, black drum for variety and chances at snook."
 h1: "Oversized Redfish, Black Drum & Snook Fishing Report: Indian River & Mosquito Lagoon, FL | October 2026"
 hero: r-oct-1
 heroAlt: "Three Reel Deal Fishin' guests on the boat, two holding big redfish on calm water, October 2026"

@@ -1,8 +1,8 @@
 ---
 date: 2026-08-12
-title: "Redfish, Snook & Flounder Report | NSB Inlet August 2026"
-description: "August 2026 in New Smyrna Beach: oversized reds running the inlet rocks at first light, excellent snook and flounder in the Indian River Lagoon. Book a trip."
-h1: "Oversized Redfish, Snook & Flounder Fishing Report: New Smyrna Beach Inlet & Indian River Lagoon, FL | August 2026"
+title: "Flounder, Redfish & Snook Report | NSB Inlet August 2026"
+description: "August 2026 in New Smyrna Beach: flounder moved into the Indian River Lagoon, oversized reds ran the inlet rocks at first light and the snook bite was excellent."
+h1: "Flounder, Redfish & Snook Fishing Report: Indian River Lagoon & New Smyrna Beach Inlet, FL | August 2026"
 hero: r-aug-1
 heroAlt: "Reel Deal Fishin' guest holding a redfish on the boat with other boats behind, August 2026"
 photos: [r-aug-3, r-aug-2, r-aug-4]
