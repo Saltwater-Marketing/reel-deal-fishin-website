@@ -41,9 +41,9 @@ faq:
   - { q: "Is the glow guaranteed?", a: "It's nature, so brightness changes night to night with water temperature and moonlight. Capt. Chad will tell you what to expect for your date." }
   - { q: "Are these tours good for kids?", a: "Yes. We cruise slowly in calm, shallow water, and life jackets sized for adults and children are on board." }
 ---
-Not every trip needs a rod. Our dolphin and manatee tour is a private, 2 hour cruise on the Indian River Lagoon that leaves at 9:00 AM. $375 covers your whole group, up to 6 guests, and you can add extra time up to 24 hours before your trip.
+**Leave the rods at the dock for a morning.** Our dolphin and manatee tour is a private, 2 hour cruise on the Indian River Lagoon that leaves at 9:00 AM. $375 covers your whole group, up to 6 guests, and you can add extra time up to 24 hours before your trip.
 
-Dolphins show up on plenty of our fishing trips too. One mom of four boys wrote that when Capt. Chad saw how much they loved them, “he switched things up and we went dolphin "chasing", to see them play and jump.”
+Dolphins show up on plenty of our fishing trips as well. One mom of four boys wrote that when Capt. Chad saw how much they loved them, “he switched things up and we went dolphin "chasing", to see them play and jump.”
 
 ## Dolphin & Manatee Tour
 

@@ -29,3 +29,6 @@ Done: Home, Dolphin & Glow, FAQ (25 sourced Qs), Trips & Prices intro, Inshore l
 Daytona, Nearshore, Captains additions, title fixes, filler sweep (SWM Writing Standard list).
 Decisions: drinks are bring your own (no ice/water claims anywhere). No POP report exists for Reel Deal.
 Waiting on: client review feedback.
+Rules added Nov 9 (client feedback): no negative openings ("nothing like the crowded boats",
+"not every trip needs a rod"); no dated trips on evergreen pages (dates only in fishing reports;
+review cards show no dates).

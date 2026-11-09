@@ -19,7 +19,7 @@ facts:
 speciesTitle: "What You'll Catch"
 species:
   - { name: "King Mackerel", note: "Drag scorching runs, spring through fall.", img: "sp-king" }
-  - { name: "Flounder & Sand Trout", note: "Great eating. Doormat flounder came over the rail in July 2026.", img: "sp-flounder" }
+  - { name: "Flounder & Sand Trout", note: "Great eating. Doormat flounder show up in midsummer.", img: "sp-flounder" }
   - { name: "Jack Crevalle", note: "Bullies with no quit.", img: "sp-jack" }
   - { name: "Tarpon & Cobia", note: "Seasonal visitors when they're running.", img: "sp-tarpon" }
   - { name: "Sharks", note: "Blacktips cruise the beach in the warm months. Always released.", img: "sp-shark" }
@@ -42,7 +42,7 @@ faq:
 ---
 **Nearshore is the sweet spot between the shoreline and the open sea:** more pull than the flats, without the long haul of a true offshore trip. We run out of Ponce Inlet and fish up to about 6 miles off the beach, close enough to see the coast.
 
-In early July 2026, calm seas meant doormat flounder, giant sand trout, whiting and croaker coming over the rail, with blacktip sharks cruising the beach the whole time ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)). In June, a young angler landed a nice spadefish on a run offshore ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)).
+When the seas lay down in summer, that can mean doormat flounder, giant sand trout, whiting and croaker coming over the rail, with blacktip sharks cruising the beach the whole time ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)). One June trip, a young angler landed a nice spadefish on a run offshore ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)).
 
 ## A Nearshore Day
 

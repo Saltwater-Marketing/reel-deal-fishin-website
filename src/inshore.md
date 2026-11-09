@@ -44,7 +44,7 @@ We fish the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce In
 
 ![Two anglers holding a redfish on a sunny inshore trip](/images/red-c.webp)
 
-Redfish are the most dependable fish we have, and we catch them every month of the year, from slot reds on the inlet rocks in winter to oversized bulls in late summer and fall. On one 4 hour morning in mid September 2026, we landed 75.
+Redfish are the most dependable fish we have, and we catch them every month of the year, from slot reds on the inlet rocks in winter to oversized bulls in late summer and fall. On one 4 hour morning, we landed 75.
 
 See [our redfish charters](/redfish) for where they are through the year and how we fish for them.
 
@@ -54,7 +54,7 @@ See [our redfish charters](/redfish) for where they are through the year and how
 
 Snook are the fish that make people come back. They hold tight to bridges, docks, mangrove roots and deeper edges, and when they eat, it's fast.
 
-From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. In May 2026 the bridges produced multiple trophy class snook, and the night bite under the dock lights was some of the most consistent fishing we'd seen ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). The night bite carries into fall: in early November 2026 the snook were on fire after dark, and a young angler outfished the grown-ups. Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
+From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. Late spring is when the bridges give up trophy class snook, and the night bite under the dock lights can be some of the most consistent fishing of the year ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). The night bite carries into fall too: on one November trip the snook were on fire after dark, and a young angler outfished the grown-ups. Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
 
 <h2 id="sheepshead">Sheepshead</h2>
 
@@ -62,11 +62,11 @@ From late April into summer, the bite builds around the bridges. Early mornings 
 
 When the water cools, sheepshead stack up on docks, bridge pilings and rock piles from New Smyrna Beach to the Port Orange bridges. Live shrimp and fiddler crabs dropped straight down tight to the structure do the work.
 
-Their bite is a light tap, then weight. Watch your line, not just the rod tip. It's simple, steady fishing that kids pick up fast, and March 2026 put multiple limits over the rail, including one crew's 3 man limit ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)). Winter through early spring is peak, and the fillets are some of the best eating in the lagoon.
+Their bite is a light tap, then weight. Watch your line, not just the rod tip. It's simple, steady fishing that kids pick up fast, and March can put limits over the rail, like one crew's 3 man limit ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)). Winter through early spring is peak, and the fillets are some of the best eating in the lagoon.
 
 <h2 id="flounder">Trout, Black Drum and Flounder</h2>
 
-**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season. Bigger ones show up just off the beach in summer: doormat flounder came over the rail on [nearshore trips](/nearshore) in July 2026.
+**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season. Bigger ones show up just off the beach in summer: doormat flounder come over the rail on [nearshore trips](/nearshore) in midsummer.
 
 ## When to Book Inshore
 

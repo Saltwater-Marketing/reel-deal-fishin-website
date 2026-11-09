@@ -45,7 +45,7 @@ faq:
   - { q: "Can kids and first timers do a shark trip?", a: "Yes. Bonnetheads and other smaller sharks are a great first fight, and Capt. Chad walks everyone through each step." }
   - { q: "Is a fishing license included?", a: "Yes. Every charter includes your Florida fishing license." }
 ---
-**There's nothing like watching a kid land a shark nearly as big as they are.** In June 2026, several young anglers caught their first shark just off New Smyrna Beach, on a mix of blacktips, Atlantic sharpnose and a few bigger sharks ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)).
+**The best moment on the boat is a kid landing a shark nearly as big as they are.** It happens on summer trips just off New Smyrna Beach, on a mix of blacktips, Atlantic sharpnose and a few bigger sharks ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)).
 
 New Smyrna Beach is known as one of the most active shark fishing spots anywhere. Inlets, surf zones and nearshore structure concentrate the bait, and the sharks follow it right up to the beach. There's no long run offshore.
 
@@ -57,9 +57,9 @@ You fight the fish. Capt. Chad coaches you from the hookset to the release and h
 
 ## When to Go
 
-Shark trips run May 1 to November 1, and summer is peak. Through July 2026, blacktips cruised the beaches and Atlantic sharpnose kept the drags screaming ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)).
+Shark trips run May 1 to November 1, and summer is peak. Through midsummer, blacktips cruise the beaches and Atlantic sharpnose keep the drags screaming ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)).
 
-Sharks show up outside the season too. In December 2025, a crew's very first shark was the highlight of a snapper trip ([December report](/fishing-reports/new-smyrna-beach-fishing-report-december-2025)).
+Sharks show up outside the season too. One winter snapper trip turned into a crew's very first shark ([December report](/fishing-reports/new-smyrna-beach-fishing-report-december-2025)).
 
 ## Pair It With Something Else
 

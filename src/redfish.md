@@ -31,17 +31,17 @@ faqTitle: "Redfish Questions"
 faq:
   - { q: "When is the best time for redfish?", a: "We catch reds every month. Late summer and fall bring the oversized fish to the inlet, and winter stacks slot reds on the rocks." }
   - { q: "Can we keep redfish?", a: "Yes, within Florida's slot and bag limits when the season allows. Capt. Chad stays on top of the rules, and fish cleaning is included." }
-  - { q: "Are redfish trips good for kids?", a: "Yes. Kids landed personal best reds in June 2026, and a 5 year old caught one about his size in April." }
+  - { q: "Are redfish trips good for kids?", a: "Yes. Kids have landed personal best reds with us, and one 5 year old caught a red about his own size." }
   - { q: "Do you fish for redfish near Daytona Beach?", a: "Yes. We find reds around New Smyrna Beach and Daytona Beach, depending on tides and conditions." }
 ---
-**Redfish are the fish we can count on.** We catch them every month of the year, and some days they're everywhere: on one 4 hour morning in mid September 2026, we landed 75 redfish.
+**Redfish are the fish we can count on.** We catch them every month of the year, and some days they're everywhere: on one 4 hour fall morning, we landed 75 redfish.
 
 They feed on the flats, in the creeks, along docks and on the New Smyrna Beach inlet rocks. Tides, weather and water conditions decide where each morning starts.
 
 ## Redfish Through the Year
 
 - **Winter:** slot reds hold tight to the inlet rocks, current breaks and deeper cuts, and feed hardest once the incoming tide gets moving. Live finger mullet or big live shrimp fished tight to the rocks gets bit ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)).
-- **Spring:** steady reds around New Smyrna Beach and the inlet. In April a 5 year old put one in the boat that was just about his size ([April report](/fishing-reports/new-smyrna-beach-fishing-report-april-2026)), and quality reds showed up trip after trip through May, best early before the afternoon storms ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)).
+- **Spring:** steady reds around New Smyrna Beach and the inlet. One April trip, a 5 year old put one in the boat that was just about his size ([April report](/fishing-reports/new-smyrna-beach-fishing-report-april-2026)), and quality reds showed up trip after trip through May, best early before the afternoon storms ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)).
 - **Summer:** slot fish and oversized bulls around moving water and tide changes ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)). On hot nights, big reds feed around docks, bridges and deeper structure after dark ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)).
 - **Late summer:** oversized redfish make long, hard runs along the inlet rocks ([August report](/fishing-reports/new-smyrna-beach-fishing-report-august-2026)).
 - **Fall:** reds take over the backwaters and creeks, from slot fish to oversized, and multiple hookups in a trip are common ([September report](/fishing-reports/new-smyrna-beach-fishing-report-september-2026)). October is big fish month ([October report](/fishing-reports/new-smyrna-beach-fishing-report-october-2026)).

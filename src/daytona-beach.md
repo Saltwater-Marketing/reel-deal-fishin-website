@@ -47,9 +47,9 @@ We launch in New Smyrna Beach, a short drive south, so a Daytona stay and a priv
 
 ## What's Biting Near Daytona
 
-Big reds ran all through fall 2026 around New Smyrna Beach and Daytona Beach, from slot fish to oversized bulls ([October report](/fishing-reports/new-smyrna-beach-fishing-report-october-2026)). In August, Daytona area trips produced excellent snook and slot to oversized redfish ([August report](/fishing-reports/new-smyrna-beach-fishing-report-august-2026)).
+Big reds run all through the fall around New Smyrna Beach and Daytona Beach, from slot fish to oversized bulls ([October report](/fishing-reports/new-smyrna-beach-fishing-report-october-2026)). Late summer trips around Daytona have produced snook and slot to oversized redfish ([August report](/fishing-reports/new-smyrna-beach-fishing-report-august-2026)).
 
-In winter the bridges and docks from New Smyrna Beach up to Port Orange fill with sheepshead. March 2026 put multiple limits over the rail ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)).
+In winter the bridges and docks from New Smyrna Beach up to Port Orange fill with sheepshead. March trips have put multiple limits over the rail ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)).
 
 ## Pick Your Trip
 
