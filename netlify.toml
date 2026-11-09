@@ -217,12 +217,6 @@
   force = true
 
 [[redirects]]
-  from = "/post/annual-mullet-migration-fuels-fishing-frenzy-along-central-florida-coast"
-  to = "/fishing-reports/new-smyrna-beach-fishing-report-september-2026"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/post/october-2026-fishing-report-the-redfish-bite-continues-in-new-smyrna-beach-daytona-beach"
   to = "/fishing-reports/new-smyrna-beach-fishing-report-october-2026"
   status = 301
@@ -296,7 +290,8 @@
   from = "/post/*"
   to = "/fishing-reports"
   status = 301
-  force = true
+  # not forced, so real pages under /post/ (the FOX 35 news post) still load
+  force = false
 
 [[redirects]]
   from = "/blog-posts-sitemap.xml"
