@@ -95,12 +95,12 @@ schema:
         <div class="place__body">
           <h3>{% if pl.url %}<a href="{{ pl.url }}">{{ pl.name }}</a>{% else %}{{ pl.name }}{% endif %}</h3>
           <p>{{ pl.text }}</p>
-          <p class="place__credit">Photo: {% if pl.creditUrl %}<a href="{{ pl.creditUrl }}" target="_blank" rel="noopener">{{ pl.credit }}</a>{% else %}{{ pl.credit }}{% endif %}{% if pl.license %}, <a href="{{ pl.licenseUrl }}" target="_blank" rel="noopener">{{ pl.license }}</a>, cropped{% endif %}</p>
         </div>
       </div>
       {%- endfor %}
     </div>
     <p style="margin-top:30px"><strong>Common targets:</strong> redfish, trout, snook and flounder &middot; tarpon, kingfish, cobia and sharks &middot; sheepshead, black drum, mullet and blue crabs.</p>
+    <p class="place__credits">Photos: {% for pl in places %}{{ pl.name }} by <a href="{{ pl.creditUrl }}" target="_blank" rel="nofollow noopener">{{ pl.credit }}</a>{% if pl.license %} (<a href="{{ pl.licenseUrl }}" target="_blank" rel="nofollow noopener">{{ pl.license }}</a>, cropped){% endif %}{% if not loop.last %}; {% endif %}{% endfor %}.</p>
   </div>
 </section>
 
