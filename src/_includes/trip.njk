@@ -69,6 +69,7 @@ layout: base.njk
     {%- set rvItems = [] %}{% if reviewIds %}{% set rvItems = reviews.quotes | reviewsByIds(reviewIds) %}{% endif %}{% for t in (reviewTrips or []) %}{% set rvItems = rvItems.concat(reviews.quotes | reviewsByTrip(t)) %}{% endfor %}
     {%- set rvItems = rvItems | head(3) %}
     {% include "reviews-block.njk" %}
+    <p style="margin-top:22px"><a href="/reviews"><strong>Read more guest reviews</strong></a></p>
   </div>
 </section>
 {%- endif %}
@@ -82,6 +83,7 @@ layout: base.njk
     <div class="faq">
       {%- for q in faq %}<details><summary>{{ q.q }}</summary><div><p>{{ q.a }}</p></div></details>{% endfor %}
     </div>
+    <p style="margin-top:22px">More answers on licenses, weather, deposits and what to bring are on our <a href="/faqs">FAQ page</a>.</p>
   </div>
 </section>
 {%- endif %}
@@ -93,7 +95,7 @@ layout: base.njk
       {%- set shown = 0 %}
       {%- for t in trips %}{% if t.url != (page.url | cleanUrl) and shown < 3 %}{% set shown = shown + 1 %}
       <article class="card">
-        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
+        <div class="card__img"><a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"></a><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></div>
         <div class="card__body"><h3><a href="{{ t.url }}">{{ t.name }}</a></h3>{% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
           <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More<span class="sr-only"> about {{ t.name }}</span></a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book" }}</a></div></div>
       </article>

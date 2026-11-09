@@ -1,12 +1,12 @@
 ---
 layout: trip.njk
 permalink: /inshore.html
-title: "Inshore Fishing Charters in New Smyrna Beach, FL | Reel Deal"
+title: "New Smyrna Beach Inshore Fishing Charters | Reel Deal"
 description: "Light tackle inshore fishing near New Smyrna & Daytona Beach for redfish, snook, sheepshead & trout. Private trips, gear & license included. Book now."
 hero: r-sep-2
 heroAlt: "Guest holding a redfish on a sunny inshore trip near New Smyrna Beach"
 eyebrow: "Private inshore charter"
-h1: "Inshore Fishing Charters in New Smyrna Beach, FL"
+h1: "New Smyrna Beach Inshore Fishing Charters"
 subhead: "Redfish, snook, sheepshead and trout on light tackle"
 book: "https://book.vallypro.com/p/reel-deal-fishin/trips/6817ffec4c2e7f9016a938dd"
 facts:
@@ -36,7 +36,7 @@ faq:
   - { q: "Do people get seasick inshore?", a: "Rarely. Inshore trips run in calm, protected water with minimal swell." }
   - { q: "Do I need a fishing license?", a: "No. Your Florida fishing license is included on every charter." }
 ---
-**Most of our inshore days start with a question: what's the tide doing?** That decides whether we're stalking reds on the flats, working bridge pilings for sheepshead or sitting on the inlet rocks waiting for the incoming push.
+**Most of our inshore days start with a question: what's the tide doing?** That decides whether we're stalking reds on the flats, working bridge pilings for sheepshead or sitting on the rocks waiting for the incoming push.
 
 We fish the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce Inlet out of a 22' Sundance skiff that runs shallow and quiet. Light tackle, live bait and short runs, with just your group and Capt. Chad on board.
 
@@ -52,9 +52,9 @@ See [our redfish charters](/redfish) for where they are through the year and how
 
 ![Guest holding a large snook aboard the Reel Deal skiff](/images/snook-b.webp)
 
-Snook are the fish that make people come back. They hold tight to bridges, docks, mangrove roots and deeper edges, and when they eat, it's fast.
+These are the fish that make people come back. They hold tight to bridges, docks, mangrove roots and deeper edges, and when they eat, it's fast.
 
-From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. Late spring is when the bridges give up trophy class snook, and the night bite under the dock lights can be some of the most consistent fishing of the year ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). The night bite carries into fall too: on one November trip the snook were on fire after dark, and a young angler outfished the grown-ups. Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
+From late April into summer, the bite builds around the bridges. Early mornings with moving water and the last light before dark are the windows, and live bait has been the most consistent. Late spring is when the bridges give up trophy class fish, and the night bite under the dock lights can be some of the most consistent fishing of the year ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)). The night bite carries into fall too: on one November trip they were on fire after dark, and a young angler outfished the grown-ups. Snook can only be kept in open season and within the slot, and Capt. Chad handles the rules.
 
 <h2 id="sheepshead">Sheepshead</h2>
 
@@ -70,9 +70,9 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 
 ## When to Book Inshore
 
-- **Winter:** sheepshead and black drum on structure, inlet redfish on the incoming tide
-- **Spring:** sheepshead into March, then snook and redfish turn on
-- **Summer:** trophy snook on the bridges, early and late; redfish near the inlet
+- **Winter:** sheepshead and black drum on structure, redfish on the rocks with the incoming tide
+- **Spring:** sheepshead into March, then the snook and redfish bite turns on
+- **Summer:** trophy snook on the bridges, early and late; redfish around Ponce Inlet
 - **Fall:** oversized redfish, flounder and black drum
 
 Staying in Daytona? See our [Daytona Beach fishing charters](/daytona-beach).

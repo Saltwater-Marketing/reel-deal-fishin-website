@@ -20,6 +20,8 @@ Pages are built as `inshore.html` etc. Netlify serves them at the same addresses
 
 Copy the latest file in `src/fishing-reports/`, rename it `new-smyrna-beach-fishing-report-<month>-<year>.md`, update the date, titles, photos and text. One report a month, only from Capt. Chad's real trip notes (SWM Fishing Report Playbook v3).
 
+Then link the new report from the trip page it covers (the inshore, redfish, nearshore or shark page), in a sentence about that month. Keep each trip page to its 2 or 3 most relevant reports; drop the oldest link when you add a new one.
+
 ## Tracking and tools
 
 - Google Tag Manager GTM-TJHXV5NR (it loads GA4 G-8JG9Z386NG and Google Ads AW-16937881099). GA4 is not loaded separately, so pageviews are not double counted.

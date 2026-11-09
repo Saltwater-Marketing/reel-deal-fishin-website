@@ -1,12 +1,12 @@
 ---
 layout: trip.njk
 permalink: /redfish.html
-title: "Redfish Charters in New Smyrna Beach, FL | Reel Deal"
+title: "New Smyrna Beach Redfish Charters | Reel Deal"
 description: "Redfish charters in New Smyrna Beach & Daytona: slot reds on the inlet rocks, oversized bulls in late summer & fall. Private boat, gear & license included."
 hero: red-a
 heroAlt: "Guest holding a redfish near the New Smyrna Beach inlet rocks"
 eyebrow: "Private redfish charters"
-h1: "Redfish Charters in New Smyrna Beach, FL"
+h1: "New Smyrna Beach Redfish Charters"
 subhead: "Slot reds to oversized bulls, every month of the year"
 book: "https://book.vallypro.com/p/reel-deal-fishin/trips/6817ffec4c2e7f9016a938dd"
 sideImg: r-oct-1
@@ -36,18 +36,18 @@ faq:
 ---
 **Redfish are the fish we can count on.** We catch them every month of the year, and some days they're everywhere: on one 4 hour fall morning, we landed 75 redfish.
 
-They feed on the flats, in the creeks, along docks and on the New Smyrna Beach inlet rocks. Tides, weather and water conditions decide where each morning starts.
+They feed on the flats, in the creeks, along docks and on the Ponce Inlet rocks. Tides, weather and water conditions decide where each morning starts.
 
 ## Redfish Through the Year
 
 - **Winter:** slot reds hold tight to the inlet rocks, current breaks and deeper cuts, and feed hardest once the incoming tide gets moving. Live finger mullet or big live shrimp fished tight to the rocks gets bit ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)).
-- **Spring:** steady reds around New Smyrna Beach and the inlet. One April trip, a 5 year old put one in the boat that was just about his size ([April report](/fishing-reports/new-smyrna-beach-fishing-report-april-2026)), and quality reds showed up trip after trip through May, best early before the afternoon storms ([May report](/fishing-reports/new-smyrna-beach-fishing-report-may-2026)).
-- **Summer:** slot fish and oversized bulls around moving water and tide changes ([June report](/fishing-reports/new-smyrna-beach-fishing-report-june-2026)). On hot nights, big reds feed around docks, bridges and deeper structure after dark ([July report](/fishing-reports/new-smyrna-beach-fishing-report-july-2026)).
-- **Late summer:** oversized redfish make long, hard runs along the inlet rocks ([August report](/fishing-reports/new-smyrna-beach-fishing-report-august-2026)).
+- **Spring:** steady reds around New Smyrna Beach and the inlet. One April trip, a 5 year old put one in the boat that was just about his size, and quality reds showed up trip after trip through May, best early before the afternoon storms.
+- **Summer:** slot fish and oversized bulls around moving water and tide changes. On hot nights, big reds feed around docks, bridges and deeper structure after dark.
+- **Late summer:** oversized redfish make long, hard runs along the inlet rocks.
 - **Fall:** reds take over the backwaters and creeks, from slot fish to oversized, and multiple hookups in a trip are common ([September report](/fishing-reports/new-smyrna-beach-fishing-report-september-2026)). October is big fish month ([October report](/fishing-reports/new-smyrna-beach-fishing-report-october-2026)).
 
 ## How We Fish for Them
 
 On the flats, reds tail in skinny grass and push wakes along the mangroves, and we ease in on the trolling motor and sight cast to them. At the inlet it's close quarters fishing in strong current, live bait tight to the rocks. Light tackle either way, so even a slot fish pulls hard.
 
-Redfish trips are booked as [inshore charters](/inshore), where snook, sheepshead and trout are part of the same day.
+Redfish trips are booked as [inshore charters](/inshore), where snook, sheepshead and trout are part of the same day. For month by month redfish fishing around New Smyrna Beach, see our [fishing reports](/fishing-reports).

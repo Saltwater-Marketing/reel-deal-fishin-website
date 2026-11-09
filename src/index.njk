@@ -1,7 +1,7 @@
 ---
 layout: base.njk
 permalink: /index.html
-title: "Fishing Charters in New Smyrna Beach, FL | Reel Deal"
+title: "New Smyrna Beach Fishing Charters | Reel Deal Fishin'"
 description: "Private fishing charters & eco tours in New Smyrna Beach with Capt. Chad Knight. Inshore, nearshore, sharks, dolphin & glowing water tours. Book today."
 hero: home-hero
 bodyClass: home
@@ -24,7 +24,7 @@ schema:
 <section class="hero">
   <img class="hero__img" src="/images/home-hero.webp" alt="Guest holding a redfish caught near New Smyrna Beach" width="1286" height="757" fetchpriority="high">
   <div class="hero__in">
-    <h1>Fishing Charters &amp; Coastal Tours in New Smyrna Beach, FL</h1>
+    <h1>New Smyrna Beach Fishing Charters &amp; Dolphin Tours</h1>
     <p class="hero__lede">Private fishing charters and dolphin tours with Capt. Chad Knight, a commercial fisherman since 2010.</p>
     <div class="btns">
       <a class="btn btn--red" href="/charters">See Charters</a>
@@ -38,9 +38,9 @@ schema:
     <div>
       <p class="eyebrow">Welcome to Reel Deal Fishin' Charters</p>
       <h2>One of Florida's Best Kept Secrets</h2>
-      <p>Some mornings start on the inlet rocks, with slot reds feeding on the incoming tide. On one 4 hour morning, we landed 75 <a href="/redfish">redfish</a>. Other days it's <a href="/shark-fishing">blacktips just off the beach</a>, snook around the bridges or <a href="/dolphin">dolphins in the lagoon</a>.</p>
-      <p>Every trip is private: your group, Capt. Chad and his 22' Sundance skiff, up to 6 guests. He's fished these waters commercially since 2010 and plans each trip around the tide and the bite.</p>
-      <p><strong>Capt. Chad fishes where the bite is, not where the brochure says to go.</strong></p>
+      <p>Some mornings start on the Ponce Inlet rocks, with slot reds feeding on the incoming tide. On one 4 hour morning, we landed 75 <a href="/redfish">redfish</a>. Other days it's <a href="/shark-fishing">blacktips just off the beach</a>, <a href="/inshore#snook">snook around the bridges</a> or <a href="/dolphin">dolphins in the lagoon</a>.</p>
+      <p>Every trip is private: your group, <a href="/about">Capt. Chad Knight</a> and his 22' Sundance skiff, up to 6 guests. He's fished these waters commercially since 2010 and plans each trip around the tide and the bite, from calm <a href="/inshore">inshore trips</a> in the lagoon to <a href="/nearshore">nearshore fishing</a> up to 6 miles off the beach. Staying up the road? We run <a href="/daytona-beach">Daytona Beach fishing charters</a> too.</p>
+      <p><strong>Chad fishes where the bite is, not where the brochure says to go.</strong></p>
       <a class="btn btn--navy" href="/charters">See All Charters</a>
     </div>
     <div class="split__media"><img src="/images/home-a.webp" alt="Family with a catch of sheepshead on the Reel Deal boat" width="800" height="680" loading="lazy"></div>
@@ -52,12 +52,12 @@ schema:
     <div class="sec__head sec__head--center">
       <p class="eyebrow">Charter trips &amp; tours</p>
       <h2>Pick Your Trip</h2>
-      <p>Every trip is private, up to 6 guests, and leaves from New Smyrna Beach. <a href="/charters#prices">See all prices</a>.</p>
+      <p>Every trip is private, up to 6 guests, and leaves from New Smyrna Beach. <a href="/charters#prices">See all prices</a>, or get answers to <a href="/faqs">common questions</a> before you book.</p>
     </div>
     <div class="cards">
       {%- for t in trips %}
       <article class="card">
-        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
+        <div class="card__img"><a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"></a><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></div>
         <div class="card__body">
           <h3><a href="{{ t.url }}">{{ t.name }}</a></h3>
           {% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
@@ -85,7 +85,7 @@ schema:
     <div class="sec__head">
       <p class="eyebrow">Fishing New Smyrna Beach &amp; Daytona</p>
       <h2>Where We Fish</h2>
-      <p>Capt. Chad fishes the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce Inlet, and runs up to 6 miles off the beach when the ocean lays down. Where we start depends on the tide and the bite.</p>
+      <p>We fish the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce Inlet, and run up to 6 miles off the beach when the ocean lays down. Where we start depends on the tide and the bite.</p>
     </div>
     <div class="places">
       {%- for pl in places %}
@@ -161,7 +161,7 @@ schema:
 
 <section class="sec">
   <div class="wrap">
-    <div class="sec__head"><p class="eyebrow">Real trips, real fish</p><h2>Latest Fishing Reports</h2><p>What Capt. Chad's crews have been catching around New Smyrna Beach and Daytona.</p></div>
+    <div class="sec__head"><p class="eyebrow">Real trips, real fish</p><h2>Latest Fishing Reports</h2><p>What our crews have been catching around New Smyrna Beach and Daytona, written up once a month.</p></div>
     <div class="reports">
       {%- for r in collections.reports | head(3) %}
       <a class="report-card" href="{{ r.url | cleanUrl }}">
@@ -185,7 +185,7 @@ schema:
     <div>
       <p class="eyebrow">Something different</p>
       <h2>Private Boat Training</h2>
-      <p>Just bought your first boat? Capt. Chad offers one on one training for new and inexperienced boat owners, using your own boat and trailer.</p>
+      <p>Just bought your first boat? Chad offers one on one training for new and inexperienced boat owners, using your own boat and trailer.</p>
       <p>Learn launching, loading, trailer backing and ramp etiquette at your own pace.</p>
       <a class="btn btn--navy" href="/charters#boat-training">Learn More<span class="sr-only"> about boat training</span></a>
     </div>

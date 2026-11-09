@@ -3,6 +3,7 @@ layout: trip.njk
 # DRAFT: flounder gigging is off the live site. Not built or listed.
 # To bring it back: set permalink to /flounder-gigging.html, delete the
 # eleventyExcludeFromCollections line, re-add it to site.json nav and
+# (the old /flounder-gigging address currently redirects to the home page)
 # trips.json, and remove the /flounder-gigging redirect in netlify.toml.
 permalink: false
 eleventyExcludeFromCollections: true

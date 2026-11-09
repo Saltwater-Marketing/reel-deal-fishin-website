@@ -14,7 +14,8 @@
     <figure class="rv__card">
       <div class="rv__stars rv__stars--sm" aria-label="5 out of 5 stars">★★★★★</div>
       <blockquote>“{{ r.text }}”</blockquote>
-      <figcaption>{{ r.name }} <span>{{ r.source }} review</span></figcaption>
+      {%- set rt = null %}{% for t in trips %}{% if r.trip and t.key == r.trip %}{% set rt = t %}{% endif %}{% endfor %}
+      <figcaption>{{ r.name }} <span>{{ r.source }} review{% if rt and rt.url != (page.url | cleanUrl) %} · <a href="{{ rt.url }}">{{ rt.name }}</a>{% endif %}</span></figcaption>
     </figure>
     {%- endfor %}
   </div>

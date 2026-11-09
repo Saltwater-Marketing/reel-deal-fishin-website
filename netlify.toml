@@ -252,7 +252,7 @@
 # Flounder gigging is no longer offered (page kept as a draft in src/flounder-gigging.md)
 [[redirects]]
   from = "/flounder-gigging"
-  to = "/inshore"
+  to = "/"
   status = 301
   force = true
 

@@ -1,12 +1,12 @@
 ---
 layout: trip.njk
 permalink: /shark-fishing.html
-title: "Shark Fishing Charters in New Smyrna Beach, FL | Reel Deal"
+title: "New Smyrna Beach Shark Fishing Charters | Reel Deal"
 description: "Shark fishing just off New Smyrna Beach for blacktips, spinners, bulls & more. Catch & release, gear & license included. May 1 to Nov 1. Book your trip."
 hero: card-shark
 heroAlt: "Young anglers holding sharks caught on a Reel Deal shark fishing trip"
 eyebrow: "Private shark fishing charter"
-h1: "Shark Fishing Charters in New Smyrna Beach, FL"
+h1: "New Smyrna Beach Shark Fishing Charters"
 subhead: "Up close with sharks, a few miles off the beach"
 book: "https://book.vallypro.com/p/reel-deal-fishin/trips/6818006332a124647065cd06"
 sideImg: sharksp-a
@@ -63,4 +63,4 @@ Sharks show up outside the season too. One winter snapper trip turned into a cre
 
 ## Pair It With Something Else
 
-Shark trips mix well with [nearshore fishing](/nearshore) for kingfish and flounder. If the wind is up, an [inshore trip](/inshore) in the lagoon is the calmer call.
+Shark trips mix well with [nearshore fishing](/nearshore) for kingfish and flounder. If the wind is up, an [inshore trip](/inshore) in the lagoon is the calmer call. Staying in Daytona? Shark trips are popular with [Daytona Beach](/daytona-beach) visitors, and we launch a short drive south.

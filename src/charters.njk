@@ -17,13 +17,13 @@ hero: day-a
 <section class="sec">
   <div class="wrap">
     <div class="sec__head">
-      <p class="lead">Pick the water and the fish. Inshore trips work the Indian River Lagoon, Mosquito Lagoon and the Halifax River for redfish, snook and sheepshead. Nearshore and shark trips run out of Ponce Inlet, up to 6 miles off the beach. The dolphin tour is 2 slow hours on the lagoon.</p>
-      <p>Every trip is private on Capt. Chad's 22' Sundance skiff, up to 6 guests, and every price below is for your whole group.</p>
+      <p class="lead">Pick the water and the fish. <a href="/inshore">Inshore trips</a> work the Indian River Lagoon, Mosquito Lagoon and the Halifax River for <a href="/redfish">redfish</a>, snook and sheepshead. <a href="/nearshore">Nearshore</a> and <a href="/shark-fishing">shark trips</a> run out of Ponce Inlet, up to 6 miles off the beach. The <a href="/dolphin">dolphin tour</a> is 2 slow hours on the lagoon.</p>
+      <p>Every trip is private on Capt. Chad's 22' Sundance skiff, up to 6 guests, and every price below is for your whole group. Read what <a href="/reviews">guests say about their trips</a>, or check the <a href="/faqs">FAQ</a> for deposits, weather and what to bring.</p>
     </div>
     <div class="cards">
       {%- for t in trips %}
       <article class="card">
-        <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
+        <div class="card__img"><a href="{{ t.url }}" tabindex="-1" aria-hidden="true"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"></a><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></div>
         <div class="card__body">
           <h2 style="font-size:1.6rem"><a href="{{ t.url }}" style="text-decoration:none;color:inherit">{{ t.name }}</a></h2>
           {% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>

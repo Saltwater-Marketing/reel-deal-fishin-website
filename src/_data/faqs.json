@@ -73,6 +73,10 @@
         "a": "If conditions aren't safe to run, Capt. Chad will reschedule your trip or refund you. He'd rather move a date than put anyone on the water in bad weather."
       },
       {
+        "q": "Do you run offshore or deep sea trips?",
+        "a": "No. Capt. Chad runs <a href=\"/inshore\">inshore trips</a> in the lagoons and <a href=\"/nearshore\">nearshore trips</a> up to about 6 miles off the beach, out of Ponce Inlet."
+      },
+      {
         "q": "Do people get seasick?",
         "a": "Rarely. Inshore trips stay in calm, protected water, and nearshore trips stay within about 6 miles of the beach. If you're prone to motion sickness, book an inshore trip."
       },

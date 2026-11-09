@@ -17,7 +17,7 @@ hero: faq-a
 <section class="sec">
   <div class="wrap faq">
     {%- for g in faqs %}
-    <h2>{{ g.group }}</h2>
+    <h2 id="{{ g.group | slugify }}">{{ g.group }}</h2>
     {%- for q in g.items %}<details><summary>{{ q.q }}</summary><div><p>{{ q.a | safe }}</p></div></details>{% endfor %}
     {%- endfor %}
     <p style="margin-top:30px">Still have a question? Call or text Capt. Chad at <a href="{{ site.phoneHref }}">{{ site.phone }}</a> or <a href="/contact">send a message</a>.</p>
