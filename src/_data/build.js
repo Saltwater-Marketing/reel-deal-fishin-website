@@ -6,4 +6,6 @@ const context = process.env.CONTEXT || "local";
 export default {
   year: new Date().getFullYear(),
   indexable: context === "production" && url.includes("reeldealfishin.com"),
+  // Changes on every build so browsers fetch the new stylesheet after each deploy
+  version: Date.now().toString(36),
 };
