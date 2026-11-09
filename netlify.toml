@@ -251,7 +251,7 @@
 
 [[redirects]]
   from = "/flounder"
-  to = "/inshore"
+  to = "/inshore#flounder"
   status = 301
   force = true
 

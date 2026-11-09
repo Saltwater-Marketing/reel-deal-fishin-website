@@ -67,7 +67,7 @@ When the water cools, sheepshead stack up on docks, bridge pilings and rock pile
 
 Their bite is a light tap, then weight. Watch your line, not just the rod tip. It's simple, steady fishing that kids pick up fast, and March 2026 put multiple limits over the rail ([March report](/fishing-reports/new-smyrna-beach-fishing-report-march-2026)). Winter through early spring is peak, and the fillets are some of the best eating in the lagoon.
 
-## Trout, Black Drum and Flounder
+<h2 id="flounder">Trout, Black Drum and Flounder</h2>
 
 **Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season.
 
