@@ -295,3 +295,9 @@ ul{padding-left:1.2em}
   .hero::after{display:none}
   .hero__in,.hero--page .hero__in{padding:28px 20px 36px;width:100%}
 }
+
+/* Trip card price line + home gallery strip */
+.card__meta{font-family:var(--head);font-weight:700;text-transform:uppercase;letter-spacing:.8px;color:var(--navy);margin:0 0 .4em;font-size:1.02rem}
+.gstrip{display:grid;grid-template-columns:repeat(4,1fr);gap:12px;margin-top:34px}
+.gstrip img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:12px}
+@media(max-width:640px){.gstrip{grid-template-columns:1fr 1fr}}

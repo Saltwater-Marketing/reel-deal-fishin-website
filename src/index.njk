@@ -25,7 +25,7 @@ schema:
   <img class="hero__img" src="/images/home-hero.webp" alt="Guest holding a redfish caught near New Smyrna Beach" width="1286" height="757" fetchpriority="high">
   <div class="hero__in">
     <h1>Fishing Charters &amp; Coastal Tours in New Smyrna Beach, FL</h1>
-    <p class="hero__lede">Fishing charters and eco tours with Capt. Chad Knight.</p>
+    <p class="hero__lede">Private fishing charters and dolphin tours with Capt. Chad Knight, a commercial fisherman since 2010.</p>
     <div class="btns">
       <a class="btn btn--red" href="/charters">See Charters</a>
     </div>
@@ -39,7 +39,8 @@ schema:
       <p class="eyebrow">Welcome to Reel Deal Fishin' Charters</p>
       <h2>Nothing Like the Big Crowded Boats</h2>
       <p class="lead">Looking for a Florida fishing trip that's laid back, full of action and nothing like the big crowded boats? You've come to the right coast.</p>
-      <p>New Smyrna Beach is one of Florida's best kept secrets, and Capt. Chad Knight has spent years getting dialed into every bank, bend and bite. From <a href="/redfish">redfish in the shallows</a> to <a href="/shark-fishing">sharks just off the beach</a>, these trips reflect real local experience.</p>
+      <p>New Smyrna Beach is one of Florida's best kept secrets. Every trip is private: your group, Capt. Chad and his 22' Sundance skiff, up to 6 guests.</p>
+      <p>Some mornings that means slot reds on the inlet rocks. On one 4 hour trip in September 2026, we landed 75 <a href="/redfish">redfish</a>. Other days it's <a href="/shark-fishing">blacktips off the beach</a> or <a href="/dolphin">dolphins in the lagoon</a>.</p>
       <p><strong>Capt. Chad fishes where the bite is, not where the brochure says to go.</strong></p>
       <p>Whether you're fishing, cruising or just looking to try something different, we'll make it a day (or night) you won't forget.</p>
       <a class="btn btn--navy" href="/charters">See All Charters</a>
@@ -53,7 +54,7 @@ schema:
     <div class="sec__head sec__head--center">
       <p class="eyebrow">Charter trips &amp; tours</p>
       <h2>Pick Your Trip</h2>
-      <p>Every trip is private and launches from New Smyrna Beach. See current rates and open dates on our booking page.</p>
+      <p>Every trip is private, up to 6 guests, and leaves from New Smyrna Beach. <a href="/charters#prices">See all prices</a>.</p>
     </div>
     <div class="cards">
       {%- for t in trips %}
@@ -61,7 +62,7 @@ schema:
         <a class="card__img" href="{{ t.url }}"><img src="/images/{{ t.img }}.webp" alt="{{ t.alt }}" loading="lazy" width="800" height="600"><span class="card__tag{% if t.signature %} card__tag--red{% endif %}">{{ t.tag }}</span></a>
         <div class="card__body">
           <h3><a href="{{ t.url }}">{{ t.name }}</a></h3>
-          <p>{{ t.hook }}</p>
+          {% if t.price %}<p class="card__meta">{{ t.price }} · {{ t.len }}</p>{% endif %}<p>{{ t.hook }}</p>
           <div class="card__links"><a class="btn btn--outline" href="{{ t.url }}">Learn More</a><a class="btn btn--red" href="{{ t.book }}" target="_blank" rel="noopener">{{ t.bookLabel or "Book Now" }}</a></div>
         </div>
       </article>
@@ -86,7 +87,7 @@ schema:
     <div class="sec__head">
       <p class="eyebrow">Fishing New Smyrna Beach &amp; Daytona</p>
       <h2>Where We Fish</h2>
-      <p>Capt. Chad adjusts each trip to the season, the tides and the bite, not some preset route. One day might mean redfish in the lagoon. The next, kingfish just off the breakers.</p>
+      <p>Capt. Chad fishes the Indian River Lagoon, Mosquito Lagoon, the Halifax River and Ponce Inlet, and runs up to 6 miles off the beach when the ocean lays down. Where we start depends on the tide and the bite.</p>
     </div>
     <div class="places">
       {%- for pl in places %}
@@ -108,41 +109,33 @@ schema:
   <div class="wrap captain">
     <img src="/images/home-d.webp" alt="Capt. Chad Knight with a catch of sheepshead" width="466" height="678" loading="lazy">
     <div>
-      <p class="eyebrow">Your captain</p>
-      <h2>Meet Capt. Chad Knight</h2>
+      <p class="eyebrow">Your captains</p>
+      <h2>Meet the Captains</h2>
+      <h3>Capt. Chad Knight</h3>
       <p>Capt. Chad Knight owns Reel Deal Fishin' Charters. He grew up loving the outdoors and moved to Florida from Tennessee when he was 11. Since then, the water's been his home.</p>
       <p>He built the business around three things that mean the most to him: God, family and fishing. He's great with kids and works hard to give first timers and seasoned anglers alike a great day on the water.</p>
-      <p><span class="badge">USCG 50 Ton Master License</span><span class="badge">Towing endorsement</span><span class="badge">Great with kids</span></p>
-      <a class="btn btn--navy" href="/about">More About Capt. Chad</a>
+      <p><span class="badge">USCG 50 Ton Master License</span><span class="badge">Towing endorsement</span><span class="badge">Commercial fisherman since 2010</span></p>
+      <h3>Capt. Falon</h3>
+      <p>Capt. Falon grew up around the water and especially loves chasing snook, redfish, trout, flounder and tarpon. A guest in January 2026 put it simply: <em>"captain falon was very friendly and knowledgeable kept us on fish the whole time."</em></p>
+      <a class="btn btn--navy" href="/about">Meet the Captains</a>
     </div>
   </div>
 </section>
 
 <section class="sec sec--sand">
-  <div class="wrap split split--flip">
-    <div>
-      <p class="eyebrow">Every trip includes</p>
-      <h2>What's Included</h2>
-      <ul class="ticks">
-        <li>U.S. Coast Guard licensed captain</li>
-        <li>All rods, reels, bait and tackle</li>
-        <li>Your Florida fishing license</li>
-        <li>Ice, cooler and bottled water</li>
-        <li>Fish cleaning for in season species</li>
-      </ul>
-      <p>Bring snacks, drinks, sunscreen, polarized sunglasses and bug spray for night trips.</p>
-    </div>
-    <div class="split__media"><img src="/images/day-b.webp" alt="Guest holding a snook on the Reel Deal skiff near a bridge" width="800" height="680" loading="lazy"></div>
-  </div>
-</section>
-
-<section class="sec">
   <div class="wrap split">
     <div>
       <p class="eyebrow">Our boat</p>
       <h2>22' Sundance Skiff</h2>
       <p>We run a 22' Sundance skiff with quiet power, LED light rigs for night trips and a layout designed for fishing comfort and wildlife viewing. Shallow enough for the backwaters. Solid enough for nearshore hunts.</p>
-      <p>Trips depart from New Smyrna Beach, FL.</p>
+      <h3>Every trip includes</h3>
+      <ul class="ticks">
+        <li>U.S. Coast Guard licensed captain</li>
+        <li>All rods, reels, bait and tackle</li>
+        <li>Your Florida fishing license</li>
+        <li>Fish cleaning for in season species</li>
+      </ul>
+      <p>Bring your own snacks and drinks (no glass), sunscreen and polarized sunglasses. Trips depart from New Smyrna Beach, FL.</p>
     </div>
     <div class="split__media"><img src="/images/boat.webp" alt="The Reel Deal 22 foot Sundance skiff on calm, clear water" width="958" height="960" loading="lazy"></div>
   </div>
@@ -159,7 +152,13 @@ schema:
       </a>
       {%- endfor %}
     </div>
-    <div class="btns"><a class="btn btn--outline" href="/fishing-reports">All Fishing Reports</a><a class="btn btn--outline" href="/gallery">Photo Gallery</a></div>
+    <div class="btns"><a class="btn btn--outline" href="/fishing-reports">All Fishing Reports</a></div>
+    <div class="gstrip">
+      {%- for g in ["r-jul-5", "r-mar-4", "r-may-8", "day-e"] %}
+      <a href="/gallery"><img src="/images/{{ g }}.webp" alt="Reel Deal Fishin' Charters trip photo" width="400" height="400" loading="lazy"></a>
+      {%- endfor %}
+    </div>
+    <div class="btns"><a class="btn btn--outline" href="/gallery">See the Photo Gallery</a></div>
   </div>
 </section>
 
@@ -172,6 +171,6 @@ schema:
       <p>Learn launching, loading, trailer backing and ramp etiquette at your own pace.</p>
       <a class="btn btn--navy" href="/charters#boat-training">Learn More</a>
     </div>
-    <div class="split__media"><img src="/images/boat.webp" alt="The Reel Deal 22 foot Sundance skiff on calm, clear water" width="958" height="960" loading="lazy"></div>
+    <div class="split__media"><img src="/images/day-b.webp" alt="Guest holding a snook on the Reel Deal skiff near a bridge" width="800" height="680" loading="lazy"></div>
   </div>
 </section>
