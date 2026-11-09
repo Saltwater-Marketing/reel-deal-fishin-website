@@ -1,6 +1,11 @@
 ---
 layout: trip.njk
-permalink: /flounder-gigging.html
+# DRAFT: flounder gigging is off the live site. Not built or listed.
+# To bring it back: set permalink to /flounder-gigging.html, delete the
+# eleventyExcludeFromCollections line, re-add it to site.json nav and
+# trips.json, and remove the /flounder-gigging redirect in netlify.toml.
+permalink: false
+eleventyExcludeFromCollections: true
 title: "Flounder Gigging Charters in New Smyrna Beach | Reel Deal"
 description: "Night flounder gigging in the Indian River Lagoon near New Smyrna Beach. Lights, gigs & license included. Calm water, great for families. Book a night out."
 hero: gig-a

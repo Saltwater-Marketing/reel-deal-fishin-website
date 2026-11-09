@@ -51,7 +51,7 @@ The glow comes from microscopic organisms called dinoflagellates, tiny plankton 
 
 ## Book Your Glow Up
 
-Looking for more night adventure? Try [flounder gigging](/flounder-gigging), our signature after dark trip.
+Want more time on the lagoon? Pair it with a [dolphin and manatee tour](/dolphin) or a morning of [inshore fishing](/inshore).
 
 <!-- CHAD: best months he has seen the glow and what guests say when it lights up. -->
 

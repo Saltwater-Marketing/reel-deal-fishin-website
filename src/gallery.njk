@@ -2,15 +2,15 @@
 layout: base.njk
 permalink: /gallery.html
 title: "Photo Gallery | Reel Deal Fishin', New Smyrna Beach, FL"
-description: "Photos from real Reel Deal trips around New Smyrna Beach: redfish, sharks, flounder gigging nights, dolphins & glowing water. See the fun, then book."
+description: "Photos from real Reel Deal trips around New Smyrna Beach: redfish, snook, sharks, dolphins & glowing water. See the fun, then book."
 hero: gal-02
 ---
 <section class="hero hero--page">
-  <img class="hero__img" src="/images/gig-c.webp" alt="Guests with a night's catch of gigged flounder" fetchpriority="high">
+  <img class="hero__img" src="/images/gal-02.webp" alt="Photo from a Reel Deal Fishin' Charters trip" fetchpriority="high">
   <div class="hero__in">
     <p class="eyebrow eyebrow--light">Real trips, real fish</p>
     <h1>Photo Gallery</h1>
-    <p class="sub-h">Redfish, snook, sharks, sheepshead and flounder gigging nights around New Smyrna Beach.</p>
+    <p class="sub-h">Redfish, snook, sharks, sheepshead and more around New Smyrna Beach.</p>
   </div>
 </section>
 <section class="sec">
@@ -18,7 +18,7 @@ hero: gal-02
     {%- for n in range(1, 27) %}{% set id = "gal-" + ("0" + n if n < 10 else n) %}
     <img src="/images/{{ id }}.webp" alt="Photo from a Reel Deal Fishin' Charters trip" loading="lazy">
     {%- endfor %}
-    {%- for id in ["gig-b","gig-d","red-c","snook-c","sharksp-b","day-e","fl-a","r-oct-1","r-sep-1","r-jul-1","r-jun-7","r-may-7"] %}
+    {%- for id in ["red-c","snook-c","sharksp-b","day-e","fl-a","r-oct-1","r-sep-1","r-jul-1","r-jun-7","r-may-7"] %}
     <img src="/images/{{ id }}.webp" alt="Photo from a Reel Deal Fishin' Charters trip" loading="lazy">
     {%- endfor %}
   </div>

@@ -7,10 +7,9 @@ hero: r-dec-3
 heroAlt: "Crew with a night's limit of gigged flounder in New Smyrna Beach"
 photos: [r-dec-1, r-dec-2]
 related:
-  - { label: "Flounder gigging trips", url: "/flounder-gigging" }
   - { label: "Winter sheepshead on inshore trips", url: "/inshore#sheepshead" }
   - { label: "Shark fishing charters", url: "/shark-fishing" }
-cta: "Sheepshead on structure by day, flounder under the lights by night. Pick your trip and Capt. Chad will line up the tide."
+cta: "Sheepshead are stacked on structure. Pick your day and Capt. Chad will line up the tide."
 ---
 <!-- Structure: species rundown. Sources: Dec 4 snapper/shark post, Dec 4 gigging post, Dec 15 sheepshead and gigging post. -->
 A young angler started putting lane snapper in the cooler on the very first drop this month, and that set the tone for December. Light breeze, calm seas and a good drift made for an easy start.
@@ -35,4 +34,4 @@ On December 15, the crew from Boat Outfitters went out on a calm, clear night wi
 
 ### **What It Means for Your Trip**
 
-Cooler water pushes sheepshead tight to structure, which makes for simple, steady fishing that kids pick up fast. If you want something completely different, a calm winter night is prime time for [flounder gigging](/flounder-gigging).
+Cooler water pushes sheepshead tight to structure, which makes for simple, steady fishing that kids pick up fast.

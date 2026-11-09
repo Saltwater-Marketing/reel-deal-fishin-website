@@ -56,7 +56,7 @@ When conditions allow, we run just outside the inlet and fish a few miles off th
 
 ## After Dark
 
-Capt. Chad is one of the only guides in the Daytona area offering [flounder gigging](/flounder-gigging) from the boat, and our [bioluminescence tours](/bio-tour) light up the lagoon on warm summer nights.
+Our [bioluminescence tours](/bio-tour) light up the lagoon on warm summer nights.
 
 ## Best Time of Year
 

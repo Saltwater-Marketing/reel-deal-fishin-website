@@ -8,7 +8,6 @@ heroAlt: "Reel Deal Fishin' trip photo, October 2026"
 photos: [r-oct-2, r-oct-3]
 related:
   - { label: "Oversized redfish inshore", url: "/inshore#redfish" }
-  - { label: "Flounder gigging trips", url: "/flounder-gigging" }
 cta: "The October reds are big and the nights are cooling off. Call or text Capt. Chad at (386) 853-4814 to get on the calendar."
 ---
 <!-- Structure: trip story. Source: Oct 21 post. -->
@@ -24,7 +23,7 @@ Black drum made regular appearances in our local waters, adding variety to the i
 
 ### **After Dark**
 
-Night trips offered a completely different way to fish, with snook and other local species after dark. And our signature [flounder gigging](/flounder-gigging) trips cruised the shallows under bright lights, spotting flounder along the bottom.
+Night trips offered a completely different way to fish, with snook and other local species after dark.
 
 ### **The Crews**
 

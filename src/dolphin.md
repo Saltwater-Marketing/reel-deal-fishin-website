@@ -53,4 +53,4 @@ Want to see the lagoon after dark too? Pair it with a [bioluminescence tour](/bi
 
 <!-- CHAD: where in the lagoon he usually finds dolphins and manatees, and a favorite sighting. -->
 
-More ways to see the lagoon: [inshore fishing](/inshore) for families who want to catch a few, or [flounder gigging](/flounder-gigging) after dark. All trips depart New Smyrna Beach, a short drive from [Daytona Beach](/daytona-beach).
+More ways to see the lagoon: [inshore fishing](/inshore) for families who want to catch a few, or a [bioluminescence tour](/bio-tour) after dark. All trips depart New Smyrna Beach, a short drive from [Daytona Beach](/daytona-beach).

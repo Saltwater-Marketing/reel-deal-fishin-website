@@ -7,9 +7,8 @@ hero: r-sep-1
 heroAlt: "Reel Deal Fishin' trip photo, September 2026"
 photos: [r-gig-1, r-sep-2, r-sep-3, r-gig-3]
 related:
-  - { label: "Flounder gigging trips", url: "/flounder-gigging" }
   - { label: "Redfish fishing inshore", url: "/inshore#redfish" }
-cta: "Fish by day, gig by night. September is a great month to try both. Call Capt. Chad at (386) 853-4814."
+cta: "Fall fishing is just getting started. Call Capt. Chad at (386) 853-4814."
 ---
 <!-- Structure: what changed. Sources: Sep 7 gigging post, Sep 8 redfish and snook post, Sep 18 redfish post. Sep 21 mullet news post not used (no captain detail). -->
 The shift out of summer showed up in September. Redfish took over as the main event in the backwaters and creeks, from smaller slot reds up to oversized fish, and multiple hookups in a single trip were common.
@@ -26,7 +25,7 @@ Snook mixed in with the redfish action, including some bigger fish. A quiet morn
 
 ### **Gigging Nights Produced**
 
-When the sun went down, the flounder cooperated. Our nighttime gigging trips produced solid catches through the month, with plenty of fish headed home for the dinner table. If you've already done a daytime charter and want something new, this is the trip. More on [flounder gigging](/flounder-gigging).
+When the sun went down, the flounder cooperated. Our nighttime gigging trips produced solid catches through the month, with plenty of fish headed home for the dinner table.
 
 ### **What It Means for Fall**
 

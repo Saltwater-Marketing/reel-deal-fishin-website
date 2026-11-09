@@ -66,8 +66,7 @@ Their bite is a light tap, then weight. Watch your line, not just the rod tip. I
 
 ## Trout, Black Drum and Flounder
 
-**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season. If you'd rather hunt flounder by light, try our [night flounder gigging trips](/flounder-gigging).
-
+**Speckled trout** feed on the grass flats and edges, strongest in spring and fall. **Black drum** cruise shallow flats, oyster bars and dock lines in winter, rooting and tailing as they feed ([January report](/fishing-reports/new-smyrna-beach-fishing-report-january-2026)). **Flounder** hold on sandy cuts, mangrove points and oyster edges, with fall the strongest season.
 ## When to Book Inshore
 
 - **Winter:** sheepshead and black drum on structure, inlet redfish on the incoming tide
