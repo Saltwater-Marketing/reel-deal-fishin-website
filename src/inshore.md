@@ -3,8 +3,8 @@ layout: trip.njk
 permalink: /inshore.html
 title: "New Smyrna Beach Inshore Fishing Charters | Reel Deal"
 description: "Light tackle inshore fishing near New Smyrna & Daytona Beach for redfish, snook, sheepshead & trout. Private trips, gear & license included. Book now."
-hero: r-sep-2
-heroAlt: "Guest holding a redfish on a sunny inshore trip near New Smyrna Beach"
+hero: inshore-snook
+heroAlt: "Capt. Chad Knight and a young angler holding a snook on the Indian River Lagoon near New Smyrna Beach"
 eyebrow: "Private inshore charter"
 h1: "New Smyrna Beach Inshore Fishing Charters"
 subhead: "Redfish, snook, sheepshead and trout on light tackle"

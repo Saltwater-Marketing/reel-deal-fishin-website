@@ -39,7 +39,7 @@ faq:
   - { q: "Which trip is best for Daytona visitors?", a: "Inshore trips are calm and steady and great for families. For more pull, book nearshore or a shark trip just off the beach." }
   - { q: "Are the trips good for kids?", a: "Yes. Calm inshore water and steady action make it fun for all ages, and Capt. Chad is patient with first timers." }
   - { q: "Do we need a fishing license?", a: "No. Your Florida fishing license is included on every charter." }
-  - { q: "Can we keep fish?", a: "Yes, for in season species like redfish, trout, flounder or sheepshead. Sharks are catch and release." }
+  - { q: "Can we keep fish?", a: "Yes, for in season species like redfish, trout, flounder or sheepshead. Legal sharks can be kept too, within Florida's limits." }
 ---
 **Staying in Daytona Beach? You're fishing the same water we do.** [Capt. Chad Knight](/about) fishes the Halifax River, the Port Orange bridges, Ponce Inlet and the beaches between Daytona and New Smyrna Beach, chasing sharks, bull reds, snook and flounder.
 
