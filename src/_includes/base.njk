@@ -20,7 +20,7 @@
 <link rel="preload" href="/assets/fonts/barlow-condensed-latin-800-normal.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="/assets/css/site.css?v={{ build.version }}">
 <style>{% for k, v in focal %}{% if k != "_note" %}img[src="/images/{{ k }}.webp"]{object-position:{{ v }}}{% endif %}{% endfor %}</style>
-{%- if hero %}<link rel="preload" as="image" href="/images/{{ hero }}.webp" fetchpriority="high">{% endif %}
+{%- if heroWide %}<link rel="preload" as="image" href="/images/{{ heroWide }}.webp" media="(min-width:641px)" fetchpriority="high"><link rel="preload" as="image" href="/images/{{ hero }}.webp" media="(max-width:640px)" fetchpriority="high">{% elif hero %}<link rel="preload" as="image" href="/images/{{ hero }}.webp" fetchpriority="high">{% endif %}
 <!-- Google Tag Manager (loads GA4 G-8JG9Z386NG and Google Ads AW-16937881099) -->
 <script>
 /* Tracking (GTM: GA4 + Google Ads) and the chat widget load on the first scroll, tap, key or mouse move,
