@@ -36,3 +36,10 @@ Then link the new report from the trip page it covers (the inshore, redfish, nea
 ## Test deploys stay out of Google
 
 Every page gets `noindex` unless Netlify builds in production with the primary domain set to www.reeldealfishin.com (see `src/_data/build.js`). The *.netlify.app preview can be shared and tested safely. After the domain is connected, trigger one more deploy so the live site builds as indexable, then check the home page source for no `noindex`.
+
+## Domain and DNS (launched November 2026)
+
+- reeldealfishin.com is registered at GoDaddy, and its DNS is managed at GoDaddy (moved off Wix's nameservers at launch).
+- `@` A record → `75.2.60.5` (Netlify); `www` CNAME → `reel-deal-fishin-website.netlify.app`. www is the primary domain.
+- Email is Microsoft 365 bought through GoDaddy: keep the MX (`reeldealfishin-com.mail.protection.outlook.com`), SPF, `NETORGFT…onmicrosoft.com` TXT and `_dmarc` records when touching DNS.
+- The three `google-site-verification` TXT records keep Search Console verified.
