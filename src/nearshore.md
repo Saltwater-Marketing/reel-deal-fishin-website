@@ -22,7 +22,7 @@ species:
   - { name: "Flounder & Sand Trout", note: "Great eating. Doormat flounder show up in midsummer.", img: "sp-flounder" }
   - { name: "Jack Crevalle", note: "Bullies with no quit.", img: "sp-jack" }
   - { name: "Tarpon & Cobia", note: "Seasonal visitors when they're running.", img: "sp-tarpon" }
-  - { name: "Sharks", note: "Blacktips cruise the beach in the warm months. Always released.", img: "sp-shark" }
+  - { name: "Sharks", note: "Blacktips cruise the beach in the warm months. Legal sharks can be kept within Florida's limits.", img: "sp-shark" }
 included:
   - "Rods, reels, tackle and bait"
   - "Fishing license for everyone on board"

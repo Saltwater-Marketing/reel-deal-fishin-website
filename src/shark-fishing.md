@@ -2,7 +2,7 @@
 layout: trip.njk
 permalink: /shark-fishing.html
 title: "New Smyrna Beach Shark Fishing Charters | Reel Deal"
-description: "Shark fishing just off New Smyrna Beach for blacktips, spinners, bulls & more. Catch & release, gear & license included. May 1 to Nov 1. Book your trip."
+description: "Shark fishing just off New Smyrna Beach for blacktips, spinners, bulls & more. Keep legal sharks, gear & license included. May 1 to Nov 1. Book your trip."
 hero: card-shark
 heroAlt: "Young anglers holding sharks caught on a Reel Deal shark fishing trip"
 eyebrow: "Private shark fishing charter"
@@ -15,15 +15,15 @@ facts:
   - { label: "Season", value: "May 1 to Nov 1" }
   - { label: "Trip length", value: "3 hours (8:00 AM or noon) or 6 hours" }
   - { label: "Where", value: "Beach breaks & nearshore, out of Ponce Inlet" }
-  - { label: "Sharks", value: "Catch & release only" }
+  - { label: "Keeping sharks", value: "Legal species kept within Florida limits" }
 speciesTitle: "Sharks You'll Find Here"
 species:
   - { name: "Blacktip Sharks", note: "Fast movers with surface runs.", img: "sp-shark" }
   - { name: "Spinner Sharks", note: "Known for wild jumps and long bursts." }
   - { name: "Bonnethead Sharks", note: "Small, smooth fighters, great for families." }
   - { name: "Atlantic Sharpnose", note: "Hard fighters that punch above their weight." }
-  - { name: "Bull Sharks", note: "Strong, unpredictable and strictly catch and release." }
-  - { name: "Lemon & Hammerhead", note: "Occasional big visitors, always released." }
+  - { name: "Bull Sharks", note: "Strong and unpredictable. Keepers when they meet Florida's size limit." }
+  - { name: "Lemon & Hammerhead", note: "Occasional big visitors. Protected in Florida, so always released." }
 included:
   - "Shark grade rods, reels and terminal tackle"
   - "All bait"
@@ -40,8 +40,8 @@ reviewsTitle: "What Shark Fishing Guests Say"
 faqTitle: "Shark Fishing Questions"
 faq:
   - { q: "When can I book a shark trip?", a: "Shark trips run May 1 through November 1, with 8:00 AM and noon starts for 3 hour trips and a 6 hour option. Summer is peak." }
-  - { q: "Is shark fishing safe?", a: "Yes. You fight the fish, and Capt. Chad handles every leader, photo and release. Most local sharks, like blacktips and bonnetheads, are manageable even for beginners." }
-  - { q: "Do we keep sharks?", a: "No. All sharks on our trips are catch and release." }
+  - { q: "Is shark fishing safe?", a: "Yes. You fight the fish, and Capt. Chad handles every leader and photo, and every shark at the boat. Most local sharks, like blacktips and bonnetheads, are manageable even for beginners." }
+  - { q: "Do we keep sharks?", a: "Yes, when it's a legal species within Florida's size and bag limits. Capt. Chad checks every shark, and protected species like hammerheads and lemons go back." }
   - { q: "Can kids and first timers do a shark trip?", a: "Yes. Bonnetheads and other smaller sharks are a great first fight, and Capt. Chad walks everyone through each step." }
   - { q: "Is a fishing license included?", a: "Yes. Every charter includes your Florida fishing license." }
 ---
@@ -53,7 +53,7 @@ New Smyrna Beach is known as one of the most active shark fishing spots anywhere
 
 We head out of Ponce Inlet and set heavy tackle and fresh bait where sharks are feeding, along the beach breaks, sandbars and nearshore drop offs. Then you wait for the drag to scream. One second the rod is steady, the next it's bent and peeling line.
 
-You fight the fish. Capt. Chad coaches you from the hookset to the release and handles every shark at the boat.
+You fight the fish. Capt. Chad coaches you from the hookset to the photo and handles every shark at the boat.
 
 ## When to Go
 
