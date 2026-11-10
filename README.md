@@ -43,3 +43,7 @@ Every page gets `noindex` unless Netlify builds in production with the primary d
 - `@` A record → `75.2.60.5` (Netlify); `www` CNAME → `reel-deal-fishin-website.netlify.app`. www is the primary domain.
 - Email is Microsoft 365 bought through GoDaddy: keep the MX (`reeldealfishin-com.mail.protection.outlook.com`), SPF, `NETORGFT…onmicrosoft.com` TXT and `_dmarc` records when touching DNS.
 - The three `google-site-verification` TXT records keep Search Console verified.
+
+## Google rating and review count
+
+The "5.0 · N Google reviews" line comes from `rating` and `count` in `src/_data/reviews.json`. A GitHub Action (`.github/workflows/update-google-reviews.yml`) refreshes them on the 1st of every month from the Google Places API and commits the change, which republishes the site. It needs the repo secret `GOOGLE_PLACES_API_KEY`. To run it now: GitHub → Actions → "Update Google review count" → Run workflow. If Google's numbers look wrong (e.g. a big drop), it leaves the site unchanged and the run shows as failed.

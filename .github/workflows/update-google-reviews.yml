@@ -1,0 +1,34 @@
+# Once a month, refresh the Google rating and review count on the site.
+# A change is committed to main, which makes Netlify republish the site.
+# Needs the repo secret GOOGLE_PLACES_API_KEY (Settings → Secrets and variables → Actions).
+# Run it any time from the Actions tab → "Update Google review count" → Run workflow.
+name: Update Google review count
+
+on:
+  schedule:
+    - cron: "17 13 1 * *" # 1st of each month, ~9 AM Eastern
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Fetch rating and count from Google
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+          GOOGLE_PLACE_ID: ${{ vars.GOOGLE_PLACE_ID }}
+        run: node scripts/update-google-reviews.mjs
+      - name: Commit if changed
+        run: |
+          if git diff --quiet; then echo "No change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "Update Google review count"
+          git push
