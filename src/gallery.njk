@@ -15,6 +15,14 @@ hero: gal-02
 </section>
 <section class="sec">
   <div class="wrap gallery">
+    {%- for p in [
+      ["gal-27", "Angler holding a big redfish on the open water off New Smyrna Beach"],
+      ["gal-28", "Smiling angler holding a large redfish in the lagoon near New Smyrna Beach"],
+      ["gal-29", "Young angler holding up a snook on an inshore trip"],
+      ["gal-30", "Angler holding a big snook on the bow of the boat"]
+    ] %}
+    <img src="/images/{{ p[0] }}.webp" alt="{{ p[1] }}" loading="lazy">
+    {%- endfor %}
     {%- for n in range(1, 27) %}{% set id = "gal-" + ("0" + n if n < 10 else n) %}
     <img src="/images/{{ id }}.webp" alt="Photo from a Reel Deal Fishin' Charters trip" loading="lazy">
     {%- endfor %}
